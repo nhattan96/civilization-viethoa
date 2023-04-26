@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+	</LocalizedText>
+	<EnglishText>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_KIYOSU">
+			<Text>Kiyosu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOYOKAWA">
+			<Text>Toyokawa</Text>
+		</Row>
+	</EnglishText>
+</GameData>

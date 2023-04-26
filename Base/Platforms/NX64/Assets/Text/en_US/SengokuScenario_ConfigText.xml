@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Shell -->
+		<Row Tag="LOC_SENGOKU_SCENARIO_NAME">
+			<Text>Sengoku Jidai</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_SENGOKU_SCENARIO">
+			<Text>Sengoku Jidai TBD</Text>
+		</Row>
+		<!-- Map -->
+		<Row Tag="LOC_MAPSIZE_SENGOKU_SCENARIO_NAME">
+			<Text>Medieval Japan</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SENGOKU_SCENARIO_DESCRIPTION">
+			<Text>A standard map depicting the three lower islands of Japan around the year 1650 AD.</Text>
+		</Row>
+		<!--PLAYERS-->
+		<!-- Oda -->
+		<Row Tag="LOC_LEADER_SENGOKU_SCENARIO_ODA_NAME">
+			<Text>Oda Nobunaga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_ODA_NAME">
+			<Text>Oda Clan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_ODA_DESCRIPTION">
+			<Text>Oda Clan desc TBD</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_ODA_ADJECTIVE">
+			<Text>Oda</Text>
+		</Row>
+		<!-- Tokugawa -->
+		<Row Tag="LOC_LEADER_SENGOKU_SCENARIO_TOKUGAWA_NAME">
+			<Text>Tokugawa Ieyasu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_TOKUGAWA_NAME">
+			<Text>Tokugawa Clan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_TOKUGAWA_DESCRIPTION">
+			<Text>Tokuawa Clan desc TBD</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SENGOKU_SCENARIO_TOKUGAWA_ADJECTIVE">
+			<Text>Tokugawa</Text>
+		</Row>
+	</EnglishText>
+</GameData>

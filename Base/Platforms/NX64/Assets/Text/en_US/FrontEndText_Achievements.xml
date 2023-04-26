@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="NEW_ACHIEVEMENT_2_0_NAME">
+			<Text>Trò Chơi, Người Định Cư, Trận Đấu</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_0_DESC">
+			<Text>Thắng một trò chơi thông thường ở độ khó Settler hoặc khó hơn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_0_FILE">
+			<Text>ach0</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_1_NAME">
+			<Text>Nhịp tim của người Ireland</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_1_DESC">
+			<Text>Win a regular game at Chieftain difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_1_FILE">
+			<Text>ach1</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_2_NAME">
+			<Text>Warlording Over Others</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_2_DESC">
+			<Text>Win a regular game at Warlord difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_2_FILE">
+			<Text>ach2</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_3_NAME">
+			<Text>Machiavelli's Great Work</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_3_DESC">
+			<Text>Win a regular game at Prince difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_3_FILE">
+			<Text>ach3</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_4_NAME">
+			<Text>The Divine Right of Kings</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_4_DESC">
+			<Text>Win a regular game at King difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_4_FILE">
+			<Text>ach4</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_5_NAME">
+			<Text>Emperor's New Groove</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_5_DESC">
+			<Text>Win a regular game at Emperor difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_5_FILE">
+			<Text>ach5</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_6_NAME">
+			<Text>12 Labors of Hercules</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_6_DESC">
+			<Text>Win a regular game at Immortal difficulty or harder</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_6_FILE">
+			<Text>ach6</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_7_NAME">
+			<Text>God-Like</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_7_DESC">
+			<Text>Win a regular game at Deity difficulty</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_7_FILE">
+			<Text>ach7</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_8_NAME">
+			<Text>Mission to Mars</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_8_DESC">
+			<Text>Win a regular game with a Science victory on any difficulty with any leader</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_8_FILE">
+			<Text>ach8</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_9_NAME">
+			<Text>Nirvana</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_9_DESC">
+			<Text>Win a regular game with a Religious victory on any difficulty with any leader</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_9_FILE">
+			<Text>ach9</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_10_NAME">
+			<Text>Buying Your Blue Jeans and Listening to Your Pop Music</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_10_DESC">
+			<Text>Win a regular game with a Culture victory on any difficulty with any leader</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_10_FILE">
+			<Text>ach10</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_11_NAME">
+			<Text>Veni, vidi, vici</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_11_DESC">
+			<Text>Win a regular game with a Domination victory on any difficulty with any leader</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_11_FILE">
+			<Text>ach11</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_12_NAME">
+			<Text>Crusader King</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_12_DESC">
+			<Text>Win a regular game as Frederick Barbarossa</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_12_FILE">
+			<Text>ach12</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_13_NAME">
+			<Text>Valois Dynasty</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_13_DESC">
+			<Text>Win a regular game as Catherine De Medici</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_13_FILE">
+			<Text>ach13</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_14_NAME">
+			<Text>Daughter of Isis</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_14_DESC">
+			<Text>Win a regular game as Cleopatra</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_14_FILE">
+			<Text>ach14</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_15_NAME">
+			<Text>Be the Change You Wish to See In the World</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_15_DESC">
+			<Text>Win a regular game as Gandhi</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_15_FILE">
+			<Text>ach15</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_16_NAME">
+			<Text>First to Civilize</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_16_DESC">
+			<Text>Win a regular game as Gilgamesh</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_16_FILE">
+			<Text>ach16</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_17_NAME">
+			<Text>For Sparta!!!</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_17_DESC">
+			<Text>Win a regular game as Gorgo</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_17_FILE">
+			<Text>ach17</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_18_NAME">
+			<Text>Varangian Guard</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_18_DESC">
+			<Text>Win a regular game as Harald Hardrada</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_18_FILE">
+			<Text>ach18</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_19_NAME">
+			<Text>Katsu!</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_19_DESC">
+			<Text>Win a regular game as Hojo Tokimune</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_19_FILE">
+			<Text>ach19</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_20_NAME">
+			<Text>Montezuma's Revenge</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_20_DESC">
+			<Text>Win a regular game as Montezuma</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_20_FILE">
+			<Text>ach20</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_21_NAME">
+			<Text>Mwene Kongo</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_21_DESC">
+			<Text>Win a regular game as Mvemba a Nzinga</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_21_FILE">
+			<Text>ach21</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_22_NAME">
+			<Text>Emperor of Brazil</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_22_DESC">
+			<Text>Win a regular game as Pedro II</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_22_FILE">
+			<Text>ach22</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_23_NAME">
+			<Text>Oratorical Skills</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_23_DESC">
+			<Text>Win a regular game as Pericles</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_23_FILE">
+			<Text>ach23</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_24_NAME">
+			<Text>Bronze Horseman</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_24_DESC">
+			<Text>Win a regular game as Peter the Great</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_24_FILE">
+			<Text>ach24</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_25_NAME">
+			<Text>Non Sufficit Orbis</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_25_DESC">
+			<Text>Win a regular game as Philip II</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_25_FILE">
+			<Text>ach25</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_26_NAME">
+			<Text>Elixir of Immortality</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_26_DESC">
+			<Text>Win a regular game as Qin Shi Huang</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_26_FILE">
+			<Text>ach26</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_27_NAME">
+			<Text>Sultan of Egypt</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_27_DESC">
+			<Text>Win a regular game as Saladin</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_27_FILE">
+			<Text>ach27</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_28_NAME">
+			<Text>Warrior Queen</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_28_DESC">
+			<Text>Win a regular game as Tomyris</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_28_FILE">
+			<Text>ach28</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_29_NAME">
+			<Text>Rome If You Want To</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_29_DESC">
+			<Text>Win a regular game as Trajan</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_29_FILE">
+			<Text>ach29</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_30_NAME">
+			<Text>Let Teddy Win</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_30_DESC">
+			<Text>Win a regular game as Theodore Roosevelt</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_30_FILE">
+			<Text>ach30</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_31_NAME">
+			<Text>I Am Amused</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_31_DESC">
+			<Text>Win a regular game as Victoria</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_2_31_FILE">
+			<Text>ach31</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_0_NAME">
+			<Text>Gift From the Storm God</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_0_DESC">
+			<Text>Receive a Strategic Resource from Hattusa</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_0_FILE">
+			<Text>ach32</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_1_NAME">
+			<Text>Legends of the Hidden Temple</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_1_DESC">
+			<Text>Build a Colossal Head adjacent to a Holy Site with a Temple.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_1_FILE">
+			<Text>ach33</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_2_NAME">
+			<Text>Army of Cthulhu</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_2_DESC">
+			<Text>Levy the military of Nan Madol</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_2_FILE">
+			<Text>ach34</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_3_NAME">
+			<Text>100th Anniversary</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_3_DESC">
+			<Text>As America make a National Park of Crater Lake and both tiles of Yosemite in one game</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_3_FILE">
+			<Text>ach35</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_4_NAME">
+			<Text>Arabian Knights</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_4_DESC">
+			<Text>Conquer a city with a Mamluk</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_4_FILE">
+			<Text>ach36</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_5_NAME">
+			<Text>Huey Tlatoani</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_5_DESC">
+			<Text>As Aztecs on a standard-sized map, attack an opponent while receiving a +16 Combat Strength bonus for having all of the luxuries</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_5_FILE">
+			<Text>ach37</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_6_NAME">
+			<Text>2016 Ready</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_6_DESC">
+			<Text>Playing as Brazil, complete both Estadio Do Maracana and Christo Redentor in one city</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_6_FILE">
+			<Text>ach38</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_7_NAME">
+			<Text>Crouching Tiger Hidden Cannon</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_7_DESC">
+			<Text>Playing as China, end a turn with 5 Crouching Tigers on Great Wall tiles</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_7_FILE">
+			<Text>ach39</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_8_NAME">
+			<Text>Walk Like an Egyptian</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_8_DESC">
+			<Text>As Egypt build a Sphinx adjacent to the Pyramids both on Floodplains</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_8_FILE">
+			<Text>ach40</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_9_NAME">
+			<Text>Flight Slingulator</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_9_DESC">
+			<Text>Airlift a level 3 Slinger</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_9_FILE">
+			<Text>ach41</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_10_NAME">
+			<Text>For Queen and Country</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_10_DESC">
+			<Text>Playing as England on a Huge map, have a city on every continent at the start of the turn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_10_FILE">
+			<Text>ach42</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_11_NAME">
+			<Text>Loire Valley</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_11_DESC">
+			<Text>Create 5 Châteaux in one city with the Wine resource.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_11_FILE">
+			<Text>ach43</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_12_NAME">
+			<Text>Third Crusade</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_12_DESC">
+			<Text>Playing as Frederick Barbarossa, conquer the city-state of Jerusalem</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_12_FILE">
+			<Text>ach44</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_13_NAME">
+			<Text>12 Olympians</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_13_DESC">
+			<Text>Have 12 Policy Slots as Greece</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_13_FILE">
+			<Text>ach45</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_14_NAME">
+			<Text>Give Peace a Chance</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_14_DESC">
+			<Text>Playing as India on a Huge map, receive +35 Faith in one turn from the Satyagraha ability</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_14_FILE">
+			<Text>ach46</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_15_NAME">
+			<Text>Meiji Restoration</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_15_DESC">
+			<Text>Playing as Japan, have a district with 6 adjacent unpillaged districts</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_15_FILE">
+			<Text>ach47</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_16_NAME">
+			<Text>City of Kongo</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_16_DESC">
+			<Text>Playing as Kongo, have a capital city with a population of 30</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_16_FILE">
+			<Text>ach48</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_17_NAME">
+			<Text>Viking Raid</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_17_DESC">
+			<Text>Capture a settler with a Viking Longship</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_17_FILE">
+			<Text>ach49</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_18_NAME">
+			<Text>Missed That Day in History Class</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_18_DESC">
+			<Text>Clear nuclear contamination with a Roman Legion</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_18_FILE">
+			<Text>ach50</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_19_NAME">
+			<Text>Trans-Siberian Railroad</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_19_DESC">
+			<Text>Playing as Russia, have a city that is at least 60 tiles away from your capital, connected by a Trade Route and road at the start of the turn.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_19_FILE">
+			<Text>ach51</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_20_NAME">
+			<Text>Scythian Horse Rush</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_20_DESC">
+			<Text>Playing as Scythia have 10 Saka Horse Archers in your army</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_20_FILE">
+			<Text>ach52</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_21_NAME">
+			<Text>Nobody Expects the Spanish Inquisition</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_21_DESC">
+			<Text>Launch an Inquisition as Spain</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_21_FILE">
+			<Text>ach53</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_22_NAME">
+			<Text>Epic of Gilgamesh</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_22_DESC">
+			<Text>As Sumeria, have the first Great Work of Writing</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_22_FILE">
+			<Text>ach54</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_23_NAME">
+			<Text>The Origin of Species</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_23_DESC">
+			<Text>Activate Darwin adjacent to the Galapagos Islands</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_23_FILE">
+			<Text>ach55</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_24_NAME">
+			<Text>Oneth By Land Twoeth By Sea</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_24_DESC">
+			<Text>Have an Army of land Units and 2 Armadas</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_24_FILE">
+			<Text>ach56</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_25_NAME">
+			<Text>Here's Looking At You Kid</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_25_DESC">
+			<Text>Win a regular game on a Duel Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_25_FILE">
+			<Text>ach57</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_26_NAME">
+			<Text>Four Corners Offense</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_26_DESC">
+			<Text>Win a regular game on a Tiny Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_26_FILE">
+			<Text>ach58</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_27_NAME">
+			<Text>Six Shooter</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_27_DESC">
+			<Text>Win a regular game on a Small Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_27_FILE">
+			<Text>ach59</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_28_NAME">
+			<Text>Eight is Enough</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_28_DESC">
+			<Text>Win a regular game on a Standard Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_28_FILE">
+			<Text>ach60</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_29_NAME">
+			<Text>Ten Commandments</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_29_DESC">
+			<Text>Win a regular game on a Large Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_29_FILE">
+			<Text>ach61</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_30_NAME">
+			<Text>Dirty Dozen</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_30_DESC">
+			<Text>Win a regular game on a Huge Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_30_FILE">
+			<Text>ach62</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_31_NAME">
+			<Text>Tectonic Shift</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_31_DESC">
+			<Text>Win a regular game on the Continents Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_3_31_FILE">
+			<Text>ach63</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_0_NAME">
+			<Text>Mare Nostrum</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_0_DESC">
+			<Text>Win a regular game on the Inland Sea Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_0_FILE">
+			<Text>ach64</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_1_NAME">
+			<Text>The Taste of Victory</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_1_DESC">
+			<Text>Win a regular game on the Island Plates Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_1_FILE">
+			<Text>ach65</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_2_NAME">
+			<Text>Riffle and Bridge</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_2_DESC">
+			<Text>Win a regular game on the Shuffle Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_2_FILE">
+			<Text>ach66</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_3_NAME">
+			<Text>Alfred Wegener's Legacy</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_3_DESC">
+			<Text>Win a regular game on the Pangaea Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_3_FILE">
+			<Text>ach67</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_5_NAME">
+			<Text>Archimedes Bath</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_5_DESC">
+			<Text>Get 5 Tech boosts in 1 turn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_5_FILE">
+			<Text>ach68</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_6_NAME">
+			<Text>Civ 6 Civets System</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_6_DESC">
+			<Text>Get 5 Civic boosts in 1 turn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_6_FILE">
+			<Text>ach69</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_7_NAME">
+			<Text>Luftballons</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_7_DESC">
+			<Text>Use a bomber class unit to detonate a nuclear device, as long as its base and 9 Observation Balloons are located on the continent of Nena at the time of detonation.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_7_FILE">
+			<Text>ach70</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_8_NAME">
+			<Text>Pizza Party!</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_8_DESC">
+			<Text>Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_8_FILE">
+			<Text>ach71</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_9_NAME">
+			<Text>Seven Wonders of the Post-Apocalyptic World</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_9_DESC">
+			<Text>Launch a weapon of mass destruction and have it pillage seven wonders</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_9_FILE">
+			<Text>ach72</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_10_NAME">
+			<Text>Repo Man</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_10_DESC">
+			<Text>Steal a Great Work of Art and don't get caught</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_10_FILE">
+			<Text>ach73</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_11_NAME">
+			<Text>District 12</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_11_DESC">
+			<Text>Build every district type in one city and the Colosseum</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_11_FILE">
+			<Text>ach74</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_12_NAME">
+			<Text>Land Party</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_12_DESC">
+			<Text>Play a multiplayer game</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_12_FILE">
+			<Text>ach75</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_13_NAME">
+			<Text>Escort Service</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_13_DESC">
+			<Text>Put two units into a formation</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_13_FILE">
+			<Text>ach76</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_14_NAME">
+			<Text>If You Build It, They Will Come</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_14_DESC">
+			<Text>Have 6 Improvements at one time.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_14_FILE">
+			<Text>ach77</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_15_NAME">
+			<Text>Voyage of the Mayflower</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_15_DESC">
+			<Text>Found or conquer a city on a different continent</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_15_FILE">
+			<Text>ach78</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_16_NAME">
+			<Text>Everything is Awesome!!!</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_16_DESC">
+			<Text>At the start of the turn have an Ecstatic city.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_16_FILE">
+			<Text>ach79</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_17_NAME">
+			<Text>Investment Banking</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_17_DESC">
+			<Text>Have an enemy city under siege at the start of the turn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_17_FILE">
+			<Text>ach80</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_18_NAME">
+			<Text>A Case for War</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_18_DESC">
+			<Text>Declare a formal war</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_18_FILE">
+			<Text>ach81</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_19_NAME">
+			<Text>Naming Rights</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_19_DESC">
+			<Text>Name a unit</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_19_FILE">
+			<Text>ach82</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_20_NAME">
+			<Text>A Revolution Without Dancing</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_20_DESC">
+			<Text>Change your government</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_20_FILE">
+			<Text>ach83</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_21_NAME">
+			<Text>Secret Service</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_21_DESC">
+			<Text>Have top secret access with five civilizations in one game at once.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_21_FILE">
+			<Text>ach84</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_22_NAME">
+			<Text>Silver Anniversary</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_22_DESC">
+			<Text>Possess 6 Silver luxury resources at the start of the turn</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_22_FILE">
+			<Text>ach85</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_23_NAME">
+			<Text>New Orleans Style Spanish Rice</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_23_DESC">
+			<Text>Become Suzerain of a City-State</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_23_FILE">
+			<Text>ach86</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_24_NAME">
+			<Text>Man on the Moon</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_24_DESC">
+			<Text>Win a regular game with a Science victory on any difficulty with any leader with a captured Egyptian city -- having also activated Newton and Darwin</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_24_FILE">
+			<Text>ach87</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_25_NAME">
+			<Text>We Are The Champions</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_25_DESC">
+			<Text>Win a regular game with a Religious victory with your dominant religion being Zoroastrianism and at the time of victory you are the Suzerain of Zanzibar</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_25_FILE">
+			<Text>ach88</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_26_NAME">
+			<Text>Selfie</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_26_DESC">
+			<Text>Win a regular game with a Culture victory with your leader in the game as your opponent as well</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_26_FILE">
+			<Text>ach89</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_27_NAME">
+			<Text>Island Hopping</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_27_DESC">
+			<Text>Win a regular game with a Domination victory on any difficulty with any leader on a Huge Island Plates map.</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_27_FILE">
+			<Text>ach90</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_28_NAME">
+			<Text>The Test of Time</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_28_DESC">
+			<Text>Win a regular game with an Ancient Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_28_FILE">
+			<Text>ach91</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_29_NAME">
+			<Text>After Antiquity</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_29_DESC">
+			<Text>Win a regular game with a Classical Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_29_FILE">
+			<Text>ach92</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_30_NAME">
+			<Text>Out of the Dark Ages</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_30_DESC">
+			<Text>Win a regular game with a Medieval Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_30_FILE">
+			<Text>ach93</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_31_NAME">
+			<Text>Renaissance Man</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_31_DESC">
+			<Text>Win a regular game with a Renaissance Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_31_FILE">
+			<Text>ach94</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_0_NAME">
+			<Text>Captain of Industry</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_0_DESC">
+			<Text>Win a regular game with an Industrial Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_0_FILE">
+			<Text>ach95</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_1_NAME">
+			<Text>Modern Major General</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_1_DESC">
+			<Text>Win a regular game with a Modern Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_1_FILE">
+			<Text>ach96</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_2_NAME">
+			<Text>Splitting the Atom</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_2_DESC">
+			<Text>Win a regular game with an Atomic Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_2_FILE">
+			<Text>ach97</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_3_NAME">
+			<Text>Through the Digital Age</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_3_DESC">
+			<Text>Win a regular game with an Information Era start</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_5_3_FILE">
+			<Text>ach98</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_4_NAME">
+			<Text>Unique Snowflake</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_4_DESC">
+			<Text>Win a regular game on Fractal Map</Text>
+		</Row>
+		<Row Tag="NEW_ACHIEVEMENT_4_4_FILE">
+			<Text>ach99</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_01_NAME">
+			<Text>Even Our Castles Have Castles</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_01_DESC">
+			<Text>Build an Alcazar within 2 tiles of the Alhambra</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_01_FILE">
+			<Text>ach100</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_02_NAME">
+			<Text>Finn MacCool's Pipe Organ</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_02_DESC">
+			<Text>Build a Monastery within 2 tiles of the Giant's Causeway</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_02_FILE">
+			<Text>ach101</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_03_NAME">
+			<Text>What Do You Mean, "Active Volcano?"</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_03_DESC">
+			<Text>Build three Aerodromes within 2 tiles of Eyjafjallajökull</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_03_FILE">
+			<Text>ach102</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_04_NAME">
+			<Text>Absolutely Nothing Rotten in the State of Denmark</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_04_DESC">
+			<Text>Win Vikings, Traders, and Raiders! as Canute</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_04_FILE">
+			<Text>ach103</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_05_NAME">
+			<Text>More Hacksilver For Harald</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_05_DESC">
+			<Text>Win Vikings, Traders, and Raiders! as Harald Hardrada</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_05_FILE">
+			<Text>ach104</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_06_NAME">
+			<Text>Master of the Baltic</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_06_DESC">
+			<Text>Win Vikings, Traders, and Raiders! as Olof Skötkonung</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_06_FILE">
+			<Text>ach105</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_07_NAME">
+			<Text>God of the Sea</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_07_DESC">
+			<Text>Win Vikings, Traders, and Raiders! at Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC1_ACHIEVEMENT_07_FILE">
+			<Text>ach106</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_01_NAME">
+			<Text>Armor of Faith</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as Jadwiga</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_01_FILE">
+			<Text>ach107</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_02_NAME">
+			<Text>You Are A Terrible Person</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_02_DESC">
+			<Text>Playing as Poland, destroy another civilization's incomplete wonder by initiating a Culture Bomb</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_02_FILE">
+			<Text>ach108</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_03_NAME">
+			<Text>Winged Hussar Mastery</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_03_DESC">
+			<Text>Win Jadwiga's Legacy as Stanisław Potocki</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_03_FILE">
+			<Text>ach109</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_04_NAME">
+			<Text>Always Bet On Black</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_04_DESC">
+			<Text>Win Jadwiga's Legacy as Mikolaj "the Black" Radziwill</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_04_FILE">
+			<Text>ach110</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_05_NAME">
+			<Text>The Grandest of Hetmans</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_05_DESC">
+			<Text>Win Jadwiga's Legacy as Konstanty Ostrogski</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_05_FILE">
+			<Text>ach111</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_06_NAME">
+			<Text>God-Like Legacy</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_06_DESC">
+			<Text>Win Jadwiga's Legacy at Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC2_ACHIEVEMENT_06_FILE">
+			<Text>ach112</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_01_NAME">
+			<Text>A Smashing Victory</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as John Curtin</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_01_FILE">
+			<Text>ach113</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_02_NAME">
+			<Text>Wood for Sheep</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_02_DESC">
+			<Text>Playing as Australia, build a Pasture over Sheep and steal an adjacent player's Lumbermill</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_02_FILE">
+			<Text>ach114</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_03_NAME">
+			<Text>Revenge of the Banana Benders</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_03_DESC">
+			<Text>Win Outback Tycoon as Queensland</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_03_FILE">
+			<Text>ach115</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_04_NAME">
+			<Text>Crow-eater Conquest</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_04_DESC">
+			<Text>Win Outback Tycoon as South Australia</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_04_FILE">
+			<Text>ach116</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_05_NAME">
+			<Text>Gumsucker Punch</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_05_DESC">
+			<Text>Win Outback Tycoon as Victoria</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_05_FILE">
+			<Text>ach117</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_06_NAME">
+			<Text>Sandgroper Sweep</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_06_DESC">
+			<Text>Win Outback Tycoon as Western Australia</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_06_FILE">
+			<Text>ach118</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_07_NAME">
+			<Text>Meanwhile, in Australia</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_07_DESC">
+			<Text>Win Outback Tycoon at Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_07_FILE">
+			<Text>ach119</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_08_NAME">
+			<Text>Quite a Crowded House</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_08_DESC">
+			<Text>Complete an online multiplayer game of Outback Tycoon</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_08_FILE">
+			<Text>ach120</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_09_NAME">
+			<Text>Midnight Oil</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_09_DESC">
+			<Text>Build an Oil Well on the final turn of the Outback Tycoon scenario</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_09_FILE">
+			<Text>ach121</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_10_NAME">
+			<Text>Attack of the Drop Bear</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_10_DESC">
+			<Text>Lose a unit to the perils of Australia in the Outback Tycoon scenario</Text>
+		</Row>
+		<Row Tag="DLC3_ACHIEVEMENT_10_FILE">
+			<Text>ach122</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_01_NAME">
+			<Text>Never Lost a Battle</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as Alexander</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_01_FILE">
+			<Text>ach123</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_02_NAME">
+			<Text>King of the Four Corners of the World</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_02_DESC">
+			<Text>Win a regular game as Cyrus</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_02_FILE">
+			<Text>ach124</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_03_NAME">
+			<Text>Greatest Is As Greatest Does</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_03_DESC">
+			<Text>Playing as Macedon, conquer a city containing both the Great Library and Great Lighthouse wonders</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_03_FILE">
+			<Text>ach125</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_04_NAME">
+			<Text>Some Wine For Your Soldiers?</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_04_DESC">
+			<Text>Playing as Persia, conquer the original Scythian capital within 10 turns of declaring a surprise war on Scythia</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_04_FILE">
+			<Text>ach126</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_05_NAME">
+			<Text>Envoy Convoy</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_05_DESC">
+			<Text>After building the Apadana wonder, construct 7 additional wonders in the same city</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_05_FILE">
+			<Text>ach127</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_06_NAME">
+			<Text>No More Worlds To Conquer</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_06_DESC">
+			<Text>Win Conquests of Alexander on any difficulty</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_06_FILE">
+			<Text>ach128</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_07_NAME">
+			<Text>You're the Demonstrably Greatest</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_07_DESC">
+			<Text>Achieve the highest possible rank in Conquests of Alexander at Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_07_FILE">
+			<Text>ach129</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_08_NAME">
+			<Text>He Named Them All After Himself?</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_08_DESC">
+			<Text>Settle four cities in Conquests of Alexander on any difficulty</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_08_FILE">
+			<Text>ach130</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_09_NAME">
+			<Text>Resplendent Panoply</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_09_DESC">
+			<Text>Possess all of the following after conquering a city in Conquests of Alexander: Hoplite, Saka Horse Archer, Maryannu Chariot Archer, Immortal, and Varu</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_09_FILE">
+			<Text>ach131</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_10_NAME">
+			<Text>I Quenched Your Thirst For Blood</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_10_DESC">
+			<Text>Playing as Scythia, recapture one of your founded cities from Persia</Text>
+		</Row>
+		<Row Tag="DLC4_ACHIEVEMENT_10_FILE">
+			<Text>ach132</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_01_NAME">
+			<Text>gg nub</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as Amanitore</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_01_FILE">
+			<Text>ach133</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_02_NAME">
+			<Text>Pyramid Scheme</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_02_DESC">
+			<Text>As Nubia, earn six different adjacency bonuses on a Nubian Pyramid</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_02_FILE">
+			<Text>ach134</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_3_NAME">
+			<Text>Claim the Fourth Cataract</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_3_DESC">
+			<Text>Playing as Egypt in a regular game, conquer the original Nubian capital within 10 turns of declaring a formal war on Nubia</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_3_FILE">
+			<Text>ach135</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_4_NAME">
+			<Text>The 25th Dynasty</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_4_DESC">
+			<Text>Playing as Nubia, liberate the original Egyptian capital in a liberation war with the capital's conqueror</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_4_FILE">
+			<Text>ach136</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_05_NAME">
+			<Text>Overclocked Conviction</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_05_DESC">
+			<Text>After building the Jebel Barkal wonder, earn 28 Faith per turn on its tile</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_05_FILE">
+			<Text>ach137</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_06_NAME">
+			<Text>More Wind for the Wind God</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_06_DESC">
+			<Text>Win Gifts of the Nile on any difficulty</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_06_FILE">
+			<Text>ach138</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_07_NAME">
+			<Text>Total A-Nile-hilation</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_07_DESC">
+			<Text>Playing Gifts of the Nile as Egypt, win on Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_07_FILE">
+			<Text>ach139</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_08_NAME">
+			<Text>That's Some Good Kerma</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_08_DESC">
+			<Text>Playing Gifts of the Nile as Nubia, win on Deity difficulty</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_08_FILE">
+			<Text>ach140</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_09_NAME">
+			<Text>Sea of the Bow</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_09_DESC">
+			<Text>Playing Gifts of the Nile as Nubia, found a coastal city on the Mediterranean Sea</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_09_FILE">
+			<Text>ach141</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_10_NAME">
+			<Text>From Med to Red to the Land of the Dead</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_10_DESC">
+			<Text>Playing Gifts of the Nile as Egypt, conquer Irem and Punt</Text>
+		</Row>
+		<Row Tag="DLC5_ACHIEVEMENT_10_FILE">
+			<Text>ach142</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_01_NAME">
+			<Text>Cardamom and Mangos and Elephants</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as Jayavarman VII</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_01_FILE">
+			<Text>ach143</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_02_NAME">
+			<Text>All Beneath the Wings of Garuda</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_02_DESC">
+			<Text>Win a regular game as Gitarja</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_02_FILE">
+			<Text>ach144</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_03_NAME">
+			<Text>What is Mind? No Matter. </Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_03_DESC">
+			<Text>Win the Path to Nirvana scenario on any difficulty</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_03_FILE">
+			<Text>ach145</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_04_NAME">
+			<Text>What is Matter? Nevermind. </Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_04_DESC">
+			<Text>Win the Path to Nirvana scenario on Deity</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_04_FILE">
+			<Text>ach146</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_05_NAME">
+			<Text>Wat is Love</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_05_DESC">
+			<Text>Build Angkor Wat and a Wat in Angkor Wat</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_05_FILE">
+			<Text>ach147</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_06_NAME">
+			<Text>Thalassocratophile </Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_06_DESC">
+			<Text>Have 5 cities on landmasses 5 or less tiles with Indonesia</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_06_FILE">
+			<Text>ach148</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_07_NAME">
+			<Text>Try To Snatch the Pebble From My Hand </Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_07_DESC">
+			<Text>Have a Warrior Monk with 4 Promotions</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_07_FILE">
+			<Text>ach149</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_08_NAME">
+			<Text>Raid Healer</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_08_DESC">
+			<Text>With a Guru Heal 7 religious units with one action</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_08_FILE">
+			<Text>ach150</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_09_NAME">
+			<Text>Many Signs and Wonders </Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_09_DESC">
+			<Text>Build all 3 Wonders in the Paths to Nirvana scenario</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_09_FILE">
+			<Text>ach151</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_10_NAME">
+			<Text>Do You Have A Moment To Talk About Salvation?</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_10_DESC">
+			<Text>Convert 3 opposing Holy Cities in the Paths to Nirvana scenario</Text>
+		</Row>
+		<Row Tag="DLC6_ACHIEVEMENT_10_FILE">
+			<Text>ach152</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_01_NAME">
+			<Text>uSuthu! uSuthu!</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_01_DESC">
+			<Text>Win a regular game as Shaka</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_01_FILE">
+			<Text>ach153</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_02_NAME">
+			<Text>A Burning Splendor</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_02_DESC">
+			<Text>Win a regular game as Chandragupta</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_02_FILE">
+			<Text>ach154</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_03_NAME">
+			<Text>A small Country, a great people, so sorely tried</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_03_DESC">
+			<Text>Win a regular game as Queen Wilhelmina</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_03_FILE">
+			<Text>ach155</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_04_NAME">
+			<Text>Lord of All Who Live in Felt Tents</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_04_DESC">
+			<Text>Win a regular game as Genghis Khan</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_04_FILE">
+			<Text>ach156</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_05_NAME">
+			<Text>From Peonies to Doricheon</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_05_DESC">
+			<Text>Win a regular game as Queen Seondeok</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_05_FILE">
+			<Text>ach157</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_06_NAME">
+			<Text>Let gentle blood shew generous might</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_06_DESC">
+			<Text>Win a regular game as Robert the Bruce</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_06_FILE">
+			<Text>ach158</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_07_NAME">
+			<Text>Radiant Deeds, Bright as Sunshine</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_07_DESC">
+			<Text>Win a regular game as Tamar</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_07_FILE">
+			<Text>ach159</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_08_NAME">
+			<Text>Deeds of a Monarch-Scorning People</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_08_DESC">
+			<Text>Win a regular game as Lautaro</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_08_FILE">
+			<Text>ach160</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_09_NAME">
+			<Text>Justice and Lasting Peace</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_09_DESC">
+			<Text>Win a regular game as Poundmaker</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_09_FILE">
+			<Text>ach161</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_10_NAME">
+			<Text>Master and Commander</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_10_DESC">
+			<Text>Win a regular game on the Archipelago Map</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_10_FILE">
+			<Text>ach162</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_11_NAME">
+			<Text>Reverse Colonialism</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_11_DESC">
+			<Text>As Lautaro, capture Philip II's original capital city </Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_11_FILE">
+			<Text>ach163</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_12_NAME">
+			<Text>Buying your Deels and Listening to Your Throat Singing</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_12_DESC">
+			<Text>As Genghis, win a Cultural Victory</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_12_FILE">
+			<Text>ach164</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_13_NAME">
+			<Text>Triple Seven</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_13_DESC">
+			<Text>As Wilhelmina, have seven cities and seven Zeven de Provincien at the start of the turn</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_13_FILE">
+			<Text>ach165</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_14_NAME">
+			<Text>Mulligan</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_14_DESC">
+			<Text>Build a Golf Course in a tile where you had previously attempted to build a Wonder, but got beaten to the Wonder by another Civ</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_14_FILE">
+			<Text>ach166</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_15_NAME">
+			<Text>Adamantine Confederacy</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_15_DESC">
+			<Text>As Poundmaker, have an active Alliance of every type</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_15_FILE">
+			<Text>ach167</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_16_NAME">
+			<Text>I Thought We'd Moved Past This Joke</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_16_DESC">
+			<Text>As Chandragupta, launch a nuclear weapon</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_16_FILE">
+			<Text>ach168</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_17_NAME">
+			<Text>Advanced Seminar in Astrophysics</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_17_DESC">
+			<Text>As Seondeok, build a Spaceport district next to a Seowon</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_17_FILE">
+			<Text>ach169</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_18_NAME">
+			<Text>Ibutho</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_18_DESC">
+			<Text>As Shaka, train a Corps of Impi using the Ikanda district</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_18_FILE">
+			<Text>ach170</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_19_NAME">
+			<Text>Holy Righteous Queen Tamar</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_19_DESC">
+			<Text>As Tamar, have every city-state in the game following the religion you founded</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_19_FILE">
+			<Text>ach171</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_20_NAME">
+			<Text>Subject Matter Expert</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_20_DESC">
+			<Text>Have a Governor with every promotion</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_20_FILE">
+			<Text>ach172</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_21_NAME">
+			<Text>Getting the Band Back Together</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_21_DESC">
+			<Text>Unlock every Governor, and have them established at the same time before the game reaches the Industrial Era</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_21_FILE">
+			<Text>ach173</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_22_NAME">
+			<Text>Drama Queen</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_22_DESC">
+			<Text>Join or be the target of 3 Emergencies in a single game</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_22_FILE">
+			<Text>ach174</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_23_NAME">
+			<Text>Curse your sudden but inevitable betrayal!</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_23_DESC">
+			<Text>Join a Betrayal Emergency</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_23_FILE">
+			<Text>ach175</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_24_NAME">
+			<Text>Blackest Queen</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_24_DESC">
+			<Text>As France, build an Intelligence Agency</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_24_FILE">
+			<Text>ach176</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_25_NAME">
+			<Text>Bromance</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_25_DESC">
+			<Text>Achieve the maximum Alliance level with Gilgamesh</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_25_FILE">
+			<Text>ach177</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_26_NAME">
+			<Text>Die Another Day</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_26_DESC">
+			<Text>Neutralize a Governor with a Spy</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_26_FILE">
+			<Text>ach178</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_27_NAME">
+			<Text>Circle of Life</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_27_DESC">
+			<Text>Build a Fishery adjacent to the Great Barrier Reef</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_27_FILE">
+			<Text>ach179</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_28_NAME">
+			<Text>Extend the Olive Branch</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_28_DESC">
+			<Text>Make a peace deal which includes you giving or receiving an Olives resource</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_28_FILE">
+			<Text>ach180</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_29_NAME">
+			<Text>Shopping Spree</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_29_DESC">
+			<Text>Have 10 Shopping Malls in your civilization at the same time</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_29_FILE">
+			<Text>ach181</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_30_NAME">
+			<Text>Desperate Times Call For Desperate Measures</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_30_DESC">
+			<Text>Assign a Dark Policy to your Government</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_30_FILE">
+			<Text>ach182</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_31_NAME">
+			<Text>Frenemy</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_31_DESC">
+			<Text>Gain control of an Ally's city after it becomes disloyal, and choose to keep it</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_31_FILE">
+			<Text>ach183</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_32_NAME">
+			<Text>Elcano's Revenge</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_32_DESC">
+			<Text>Be the first player to circumnavigate the world after Ferdinand Magellan has been recruited by another player</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_32_FILE">
+			<Text>ach184</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_33_NAME">
+			<Text>Dark Horse</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_33_DESC">
+			<Text>Win the game while in a Dark Age</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_33_FILE">
+			<Text>ach185</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_34_NAME">
+			<Text>Taxation Without Representation</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_34_DESC">
+			<Text>As England, lose a city to disloyalty which has an established Financier Governor</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_34_FILE">
+			<Text>ach186</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_35_NAME">
+			<Text>Victory Belongs to the Most Persevering</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_35_DESC">
+			<Text>Achieve a Heroic Age</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_35_FILE">
+			<Text>ach187</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_36_NAME">
+			<Text>I'm going to break the wheel</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_36_DESC">
+			<Text>Earn three Golden Ages in a row</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_36_FILE">
+			<Text>ach188</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_37_NAME">
+			<Text>What Could Possibly Go Wrong?</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_37_DESC">
+			<Text>Have an improved Amber resource in a city with a Zoo and an Archaeological Museum at the start of the turn</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_37_FILE">
+			<Text>ach189</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_38_NAME">
+			<Text>Metroplex</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_38_DESC">
+			<Text>Completely surround your Government Plaza with districts or wonders you own at the start of the turn</Text>
+		</Row>
+		<Row Tag="RAF_ACHIEVEMENT_38_FILE">
+			<Text>ach190</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_10_NAME">
+			<Text>Treasures of Heaven and Earth</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_10_DESC">
+			<Text>Win a game as Mansa Musa</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_10_FILE">
+			<Text>ach191</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_11_NAME">
+			<Text>Lord of Tahuantinsuyo</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_11_DESC">
+			<Text>Win a game as Pachacuti</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_11_FILE">
+			<Text>ach192</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_12_NAME">
+			<Text>Queen of the Byrsa</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_12_DESC">
+			<Text>Win a game as Dido</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_12_FILE">
+			<Text>ach193</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_13_NAME">
+			<Text>Padishah Efendim</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_13_DESC">
+			<Text>Win a game as Suleiman The Magnificent</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_13_FILE">
+			<Text>ach194</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_14_NAME">
+			<Text>Literally Playable</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_14_DESC">
+			<Text>Win a game as Kristina</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_14_FILE">
+			<Text>ach195</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_15_NAME">
+			<Text>The Sunny Way</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_15_DESC">
+			<Text>Win a game as Wilfrid Laurier</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_15_FILE">
+			<Text>ach196</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_16_NAME">
+			<Text>Majestrix of the Court of Love</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_16_DESC">
+			<Text>Win a game as Eleanor of Aquitaine</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_16_FILE">
+			<Text>ach197</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_17_NAME">
+			<Text>The Laurels of Virtues and Letters</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_17_DESC">
+			<Text>Win a game as Matthias Corvinus</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_17_FILE">
+			<Text>ach198</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_18_NAME">
+			<Text>Tu Meke</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_18_DESC">
+			<Text>Win a game as Kupe</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_18_FILE">
+			<Text>ach199</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_19_NAME">
+			<Text>The Art of Telling Plain Truths</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_19_DESC">
+			<Text>Win a Diplomatic Victory</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_19_FILE">
+			<Text>ach200</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_20_NAME">
+			<Text>Rivals on Ice</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_20_DESC">
+			<Text>Playing as Russia, conquer a city with an Ice Hockey rink</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_20_FILE">
+			<Text>ach201</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_21_NAME">
+			<Text>Sid Meier's Ditchdigging Simulator</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_21_DESC">
+			<Text>Use two cities and the Panama Canal to make 7 contiguous land tiles passable by ships</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_21_FILE">
+			<Text>ach202</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_22_NAME">
+			<Text>An Engineer's Dream</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_22_DESC">
+			<Text>Have a Canal, Dam, Aqueduct, Railroad, Golden Gate Bridge, and Mountain Tunnel in a city</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_22_FILE">
+			<Text>ach203</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_23_NAME">
+			<Text>When Diplomacy Fails</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_23_DESC">
+			<Text>Have a fully upgraded Giant Death Robot capture a city</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_23_FILE">
+			<Text>ach204</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_24_NAME">
+			<Text>A Man A Plan A Canal Panama</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_24_DESC">
+			<Text>Build the Panama Canal as Teddy Roosevelt</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_24_FILE">
+			<Text>ach205</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_25_NAME">
+			<Text>Surprise Attack</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_25_DESC">
+			<Text>Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_25_FILE">
+			<Text>ach206</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_27_NAME">
+			<Text>One Tree Hill</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_27_DESC">
+			<Text>Have one of your Rock Band units perform a concert adjacent to a Maori Pa unique improvement</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_27_FILE">
+			<Text>ach207</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_28_NAME">
+			<Text>Seahenge</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_28_DESC">
+			<Text>Have Stonehenge become submerged due to Coastal Flooding</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_28_FILE">
+			<Text>ach208</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_29_NAME">
+			<Text>Rock God</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_29_DESC">
+			<Text>Have no cities following your religion then convert a city to your religion using a Rock Band unit</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_29_FILE">
+			<Text>ach209</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_30_NAME">
+			<Text>Nobel-er than the Noblest</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_30_DESC">
+			<Text>Achieve first place in all three Nobel Prizes in the same game</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_30_FILE">
+			<Text>ach210</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_31_NAME">
+			<Text>Airing Your Grievances</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_31_DESC">
+			<Text>Win a Diplomatic Victory Resolution and use it to reduce another player's progress toward that victory</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_8_31_FILE">
+			<Text>ach211</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_0_NAME">
+			<Text>Peacekeeper</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_0_DESC">
+			<Text>As Wilfrid Laurier, successfully complete an Emergency</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_0_FILE">
+			<Text>ach212</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_1_NAME">
+			<Text>Shield of Christianity</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_1_DESC">
+			<Text>As Hungary, have Christianity as your dominant religion and defeat a unit whose Civilization's dominant religion is not Christianity</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_1_FILE">
+			<Text>ach213</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_2_NAME">
+			<Text>Po-tay-toes!</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_2_DESC">
+			<Text>As Pachacuti, construct a Terrace Farm that is adjacent to 2 Aqueducts and 4 Mountains</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_2_FILE">
+			<Text>ach214</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_3_NAME">
+			<Text>One does not simply walk into Ngauruhoe</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_3_DESC">
+			<Text>As the Maori, have a Maori Toa discover the Ngauruhoe volcano</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_3_FILE">
+			<Text>ach215</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_4_NAME">
+			<Text>Hajj</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_4_DESC">
+			<Text>As Mansa Musa, send a Trade Route to Mecca that gives the sending player at least 30 gold</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_4_FILE">
+			<Text>ach216</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_5_NAME">
+			<Text>Purple Reign</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_5_DESC">
+			<Text>As Dido, complete the Move Capital project on 4 different continents</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_5_FILE">
+			<Text>ach217</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_6_NAME">
+			<Text>Nobody's Business But the Turks</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_6_DESC">
+			<Text>As the Ottomans, capture another Civilization's capital and then rename it</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_6_FILE">
+			<Text>ach218</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_7_NAME">
+			<Text>Smörgåsbord</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_7_DESC">
+			<Text>As Kristina, at the start of a turn have cities in five different terrain types (Snow, Tundra, Desert, Plains and Grassland) and have Open Air Museums in all of them</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_7_FILE">
+			<Text>ach219</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_8_NAME">
+			<Text>Meet the New Boss, Same as the Old Boss</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_8_DESC">
+			<Text>As Eleanor, gain a city to loyalty that was owned by a different civilization with Eleanor as its leader</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_8_FILE">
+			<Text>ach220</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_9_NAME">
+			<Text>Let Our Powers Combine – Wait Heart is Missing!</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_9_DESC">
+			<Text>Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_9_FILE">
+			<Text>ach221</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_10_NAME">
+			<Text>Toward Carbon Neutrality</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_10_DESC">
+			<Text>Complete the Carbon Recapture project 10 times during a single game</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_10_FILE">
+			<Text>ach222</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_11_NAME">
+			<Text>Future is Now</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_11_DESC">
+			<Text>Be the first to complete all the technologies in the Future Era in a game with 8 or more players</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_11_FILE">
+			<Text>ach223</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_12_NAME">
+			<Text>And the Walls Kept Tumbling Down</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_12_DESC">
+			<Text>Have your Roman city lose 6 population from one Vesuvius eruption</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_12_FILE">
+			<Text>ach224</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_13_NAME">
+			<Text>Real Estate Disclosures Required</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_13_DESC">
+			<Text>Have a district be pillaged by 3 different random events</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_13_FILE">
+			<Text>ach225</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_14_NAME">
+			<Text>Eat, Drink and Be Merry</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_14_DESC">
+			<Text>Win the Black Death as England</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_14_FILE">
+			<Text>ach226</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_15_NAME">
+			<Text>Santé Passe Richesse</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_15_DESC">
+			<Text>Win the Black Death as France</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_15_FILE">
+			<Text>ach227</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_16_NAME">
+			<Text>Bendición</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_16_DESC">
+			<Text>Win the Black Death as Castile</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_16_FILE">
+			<Text>ach228</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_17_NAME">
+			<Text>Gesundheit</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_17_DESC">
+			<Text>Win the Black Death as the Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_17_FILE">
+			<Text>ach229</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_18_NAME">
+			<Text>I'm Not Dead Yet</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_18_DESC">
+			<Text>Win the Black Death after turn 80</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_18_FILE">
+			<Text>ach230</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_19_NAME">
+			<Text>Aggressive Strain</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_19_DESC">
+			<Text>Win the Black Death after conquering five cities</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_19_FILE">
+			<Text>ach231</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_20_NAME">
+			<Text>Medieval Medicine</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_20_DESC">
+			<Text>Train 25 Plague Doctors during the Black Death scenario</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_20_FILE">
+			<Text>ach232</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_21_NAME">
+			<Text>Élan</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_21_DESC">
+			<Text>Win War Machine as France</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_21_FILE">
+			<Text>ach233</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_22_NAME">
+			<Text>Auftragstaktik</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_22_DESC">
+			<Text>Win War Machine as Germany</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_22_FILE">
+			<Text>ach234</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_23_NAME">
+			<Text>With The Army You Have</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_23_DESC">
+			<Text>Win War Machine without training any units</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_23_FILE">
+			<Text>ach235</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_24_NAME">
+			<Text>Vernichtungsstrategie</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_24_DESC">
+			<Text>As Germany, win War Machine within 25 turns</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_24_FILE">
+			<Text>ach236</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_25_NAME">
+			<Text>Croix de Lorraine</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_25_DESC">
+			<Text>In War Machine, as France, conquer Metz within 5 turns</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_25_FILE">
+			<Text>ach237</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_26_NAME">
+			<Text>Big Bertha</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_26_DESC">
+			<Text>In War Machine, reduce and capture a full-health city in a single turn</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_26_FILE">
+			<Text>ach238</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_27_NAME">
+			<Text>Danse Macabre</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_27_DESC">
+			<Text>Win the Black Death scenario on Deity difficulty</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_27_FILE">
+			<Text>ach239</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_28_NAME">
+			<Text>Hello Cleveland!</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_28_DESC">
+			<Text>Perform a Rock Concert in Cleveland</Text>
+		</Row>
+		<Row Tag="GS_ACHIEVEMENT_9_28_FILE">
+			<Text>ach240</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

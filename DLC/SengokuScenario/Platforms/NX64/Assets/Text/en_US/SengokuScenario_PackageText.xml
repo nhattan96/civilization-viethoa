@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_SENGOKU_SCENARIO_TITLE">
+			<Text>Sengoku Jidai</Text>
+		</Row>
+		<Row Tag="LOC_SENGOKU_SCENARIO_TEASER">
+			<Text>Lead your clan through the chaos of feudal Japan to dominate the country as Shogun.</Text>
+		</Row>
+		<Row Tag="LOC_SENGOKU_SCENARIO_DESCRIPTION">
+			<Text>[DNT] Full Sendoku Jidai description TBD</Text>
+		</Row>
+	</EnglishText>
+</GameData>
