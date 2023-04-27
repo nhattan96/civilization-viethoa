@@ -252,19 +252,19 @@
 		</Row>
 		<!-- Diplomactic Action Tooltips-->
 		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
-			<Văn bản>Thiết lập Thỏa thuận Nghiên cứu với Thành viên Liên minh hoặc Bạn bè được Tuyên bố. Thỏa thuận nghiên cứu cho phép hai bên cùng nghiên cứu một công nghệ mục tiêu. Công nghệ càng đắt tiền thì thời gian thỏa thuận càng lâu. Trong thời hạn của thỏa thuận, mỗi bên sẽ nhận được Tăng cường cho công nghệ đó.</Text>
+			<Text>Thiết lập Thỏa thuận Nghiên cứu với Thành viên Liên minh hoặc Bạn bè được Tuyên bố. Thỏa thuận nghiên cứu cho phép hai bên cùng nghiên cứu một công nghệ mục tiêu. Công nghệ càng đắt tiền thì thời gian thỏa thuận càng lâu. Trong thời hạn của thỏa thuận, mỗi bên sẽ nhận được Tăng cường cho công nghệ đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
 			<Text>Thiết lập một cuộc chiến chung chống lại nền văn minh mục tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
-			<Văn bản>Thiết lập Hiệp ước Phòng thủ. Khi một trong hai thành viên của Liên minh bị tấn công, tất cả các thành viên sẽ tự động tuyên chiến với kẻ xâm lược.</Text>
+			<Text>Thiết lập Hiệp ước Phòng thủ. Khi một trong hai thành viên của Liên minh bị tấn công, tất cả các thành viên sẽ tự động tuyên chiến với kẻ xâm lược.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
 			<Text>Thành lập một liên minh với một người bạn được tuyên bố. Các đồng minh có thể không tham chiến, tự động có Biên giới mở và mỗi người nhận được một Casus Belli trên nền văn minh của kẻ xâm lược nếu một trong các đồng minh của họ mất một thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
-			<Văn bản>Thành lập Đại sứ quán thường trực với quyền lực này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút, bạn sẽ đạt được cấp độ Truy cập và Vốn [ICON_Capital] của người nhận sẽ được tiết lộ.</Text>
+			<Text>Thành lập Đại sứ quán thường trực với quyền lực này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút, bạn sẽ đạt được cấp độ Truy cập và Vốn [ICON_Capital] của người nhận sẽ được tiết lộ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
 			<Text>Yêu cầu một món quà ngoại giao từ cường quốc này.</Text>
@@ -276,40 +276,40 @@
 			<Text>Yêu cầu quyền lực này cho một món quà ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
-			<Văn bản>Được sử dụng để thể hiện sự không hài lòng của bạn với sức mạnh này. Tuyên bố chiến tranh chính thức (có hoặc không có Casus Belli) có thể xảy ra sau 5 lượt bổ sung đã trôi qua.</Text>
+			<Text>Được sử dụng để thể hiện sự không hài lòng của bạn với sức mạnh này. Tuyên bố chiến tranh chính thức (có hoặc không có Casus Belli) có thể xảy ra sau 5 lượt bổ sung đã trôi qua.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để bắt đầu chiến tranh ngay lập tức. Hình phạt đối với kẻ hiếu chiến thông thường tăng 50%.</Text>
+			<Text>Được sử dụng để bắt đầu chiến tranh ngay lập tức. Hình phạt đối với kẻ hiếu chiến thông thường tăng 50%.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
 			<Text>Thương lượng một thỏa thuận để chấm dứt cuộc chiến hiện tại với thế lực này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
-			<Text>Gửi một ủy quyền với món quà là [ICON_Gold] Vàng cho sức mạnh này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút và bạn sẽ đạt được cấp độ Truy cập. Kéo dài cho đến khi bạn đạt được Công dân Dịch vụ Ngoại giao. </Văn bản>
+			<Text>Gửi một ủy quyền với món quà là [ICON_Gold] Vàng cho sức mạnh này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút và bạn sẽ đạt được cấp độ Truy cập. Kéo dài cho đến khi bạn đạt được Công dân Dịch vụ Ngoại giao. </Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
-			<Văn bản>Chính thức tuyên bố ý định duy trì quan hệ hữu nghị với thế lực này. Trong khi là một người bạn, bạn sẽ đủ điều kiện tham gia Liên minh nhưng sẽ không thể tuyên chiến chính thức với thế lực này.</Text>
+			<Text>Chính thức tuyên bố ý định duy trì quan hệ hữu nghị với thế lực này. Trong khi là một người bạn, bạn sẽ đủ điều kiện tham gia Liên minh nhưng sẽ không thể tuyên chiến chính thức với thế lực này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với người chơi Tố cáo bạn hoặc bạn đã Tố cáo ít nhất 5 lượt trước. Không hạn chế thành phố nào bạn có thể chiếm được.</Text>
+			<Text>Được sử dụng để tuyên chiến với người chơi Tố cáo bạn hoặc bạn đã Tố cáo ít nhất 5 lượt trước. Không hạn chế thành phố nào bạn có thể chiếm được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã cải đạo một trong các thành phố của bạn. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực đã cải đạo một trong các thành phố của bạn. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một thành phố từ một trong những người bạn hoặc đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng bất kỳ thành phố nào trong số đó.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một thành phố từ một trong những người bạn hoặc đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng bất kỳ thành phố nào trong số đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một trong các thành phố của bạn. Không có hình phạt hiếu chiến nào được áp dụng.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một trong các thành phố của bạn. Không có hình phạt hiếu chiến nào được áp dụng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã tấn công một trong các thành bang đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng thành phố-tiểu bang đó.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực đã tấn công một trong các thành bang đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng thành phố-tiểu bang đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đi sau bạn hai thời đại công nghệ. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực đi sau bạn hai thời đại công nghệ. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
-			<Văn bản>Được sử dụng để tuyên chiến với một thế lực giáp với đế chế của bạn. Phải có 2 thành phố của bạn trong 10 ô của 2 thành phố đối thủ. Hình phạt cho những kẻ hiếu chiến giảm 25%.</Text>
+			<Text>Được sử dụng để tuyên chiến với một thế lực giáp với đế chế của bạn. Phải có 2 thành phố của bạn trong 10 ô của 2 thành phố đối thủ. Hình phạt cho những kẻ hiếu chiến giảm 25%.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
 			<Text>Bắt đầu đàm phán thương mại với cường quốc này.</Text>
@@ -357,7 +357,7 @@
 			<Text>Đánh dấu mục này là không được chấp nhận</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TEXT">
-			<Văn bản>Đánh dấu mặt hàng này là không được chấp nhận và từ chối thỏa thuận sẽ ngăn AI này yêu cầu mặt hàng này một lần nữa. Bạn có muốn tiếp tục không?</Text>
+			<Text>Đánh dấu mặt hàng này là không được chấp nhận và từ chối thỏa thuận sẽ ngăn AI này yêu cầu mặt hàng này một lần nữa. Bạn có muốn tiếp tục không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TITLE">
 			<Text>Dừng hỏi?</Text>

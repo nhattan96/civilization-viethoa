@@ -51,7 +51,7 @@
 			<Text>Vùng lân cận: Phần thưởng vàng chính [ICON_Gold] cho mỗi quận Cảng liền kề hoặc cạnh ô chứa Sông. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
-			<Văn bản>Một quận cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có sẽ nhận được tối đa 6 Nhà ở [ICON_Housing]. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
+			<Text>Một quận cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có sẽ nhận được tối đa 6 Nhà ở [ICON_Housing]. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
 			<Text>Một quận cho phép bạn chế tạo và lưu trữ máy bay. Không thể xây dựng trên Hills.</Text>
@@ -78,7 +78,7 @@
 			<Text>Một quận duy nhất của Nga dành cho hoạt động tôn giáo. Thay thế quận Thánh địa và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]Biên giới thành phố của bạn tăng thêm một ô mỗi khi một Người vĩ đại được sử dụng trong thành phố này. Lavra cung cấp +1 điểm [ICON_GreatWriter] Nhà văn vĩ đại mỗi lượt với Đền thờ, +1 điểm [ICON_GreatArtist] Nghệ sĩ vĩ đại mỗi lượt với Đền thờ và +1 điểm [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi lượt với tòa nhà thờ cúng.</Text >
 		</Row>
 		<Row Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
-			<Văn bản>Một quận duy nhất của Kongo chỉ có thể được xây dựng trong Rainforest hoặc Woods. Thay thế khu vực lân cận nhưng có sẵn sớm hơn và rẻ hơn để xây dựng. Cung cấp +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm và +4 [ICON_Gold] Vàng, bất kể Khiếu nại.</Text>
+			<Text>Một quận duy nhất của Kongo chỉ có thể được xây dựng trong Rainforest hoặc Woods. Thay thế khu vực lân cận nhưng có sẵn sớm hơn và rẻ hơn để xây dựng. Cung cấp +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm và +4 [ICON_Gold] Vàng, bất kể Khiếu nại.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
 			<Text>Một quận duy nhất của Brazil. Thay thế khu Khu liên hợp giải trí và cung cấp các tiện ích +2 [ICON_Amenities] và chi phí xây dựng rẻ hơn. Đồng thời mở khóa dự án Lễ hội hóa trang, giúp cấp thêm +1 Tiện ích [ICON_Amenities] khi đang được tiến hành và nhiều điểm [ICON_GreatPerson] Great People sau khi hoàn thành.</Text>

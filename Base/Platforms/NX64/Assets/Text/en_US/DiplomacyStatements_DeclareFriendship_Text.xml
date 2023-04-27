@@ -14,7 +14,7 @@
 			<Text>Tôi chấp nhận lời đề nghị kết bạn của bạn. Và tất nhiên, bạn sẽ được mời đến dự đám cưới hoàng gia tiếp theo.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Văn bản>Rất tốt. Tôi chỉ hy vọng bạn là một Mark Antony hơn là một Brutus.</Text>
+			<Text>Rất tốt. Tôi chỉ hy vọng bạn là một Mark Antony hơn là một Brutus.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
 			<Text>Một đồng minh mạnh mẽ là người bạn tốt nhất. Chúng ta hãy sống trong hòa bình.</Text>
@@ -29,7 +29,7 @@
 			<Text>Bạn đã chứng tỏ là một người bạn tốt của Sparta. Tôi sẽ thay mặt người của mình chấp nhận.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Văn bản>Bạn bè? Vâng, tôi là một người bạn.</Text>
+			<Text>Bạn bè? Vâng, tôi là một người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
 			<Text>Tôi nhìn thấy ở bạn sự yên bình và thanh thản của một chiến binh, và tôi hoan nghênh tình bạn đó.</Text>
@@ -41,7 +41,7 @@
 			<Text>Thay mặt cho nền Dân chủ, tôi chấp nhận tình bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-			<Văn bản>Đề nghị của bạn thật tử tế. Tôi chấp nhận, vì lợi ích của người dân của tôi và của bạn.</Text>
+			<Text>Đề nghị của bạn thật tử tế. Tôi chấp nhận, vì lợi ích của người dân của tôi và của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
 			<Text>Bạn được Chúa ban phước lành, và là một người bạn của tôi. Hãy cho thế giới biết bạn được bảo vệ bởi sức mạnh của Ngài.</Text>
@@ -62,7 +62,7 @@
 			<Text>Hãy cho mọi người biết rằng Đế chế của bạn là một người bạn của chúng tôi và rằng chúng ta gắn bó với nhau trong tình bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Văn bản>Vâng, điều này làm hài lòng chúng tôi. Hai quốc gia chúng ta chắc chắn sẽ được hưởng lợi từ tình hữu nghị của chúng ta.</Text>
+			<Text>Vâng, điều này làm hài lòng chúng tôi. Hai quốc gia chúng ta chắc chắn sẽ được hưởng lợi từ tình hữu nghị của chúng ta.</Text>
 		</Row>
 
 		<!-- AI Rejects from human -->
@@ -76,13 +76,13 @@
 			<Text>Tôi xin lỗi, nhưng đây là một sự thay đổi quá đột ngột. Có lẽ để lúc khác?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Văn bản>Ha! Ta đã tính Caesars và Pharaohs trong số những người bạn đồng hành của mình, điều gì khiến bạn nghĩ rằng bạn xứng đáng?</Text>
+			<Text>Ha! Ta đã tính Caesars và Pharaohs trong số những người bạn đồng hành của mình, điều gì khiến bạn nghĩ rằng bạn xứng đáng?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
 			<Text>Không, tôi không thể chấp nhận tình bạn của bạn, vì lợi ích của Đế quốc.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Văn bản>Tôi xin lỗi, nhưng tôi không thể tham gia vào thỏa thuận này với bạn. Xin hãy hiểu, nó chỉ dành cho điều tốt nhất.</Text>
+			<Text>Tôi xin lỗi, nhưng tôi không thể tham gia vào thỏa thuận này với bạn. Xin hãy hiểu, nó chỉ dành cho điều tốt nhất.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
 			<Text>Gilgamesh không phải là bạn của bạn.</Text>
@@ -103,7 +103,7 @@
 			<Text>Không, chúng tôi sẽ không phải là bạn cho đến khi bạn có thể chứng minh điều đó bằng hành động hoặc thuyết phục chúng tôi bằng cách khác.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-			<Văn bản>Tôi phải từ chối. Một người bạn cũ hơn hai người bạn mới.</Text>
+			<Text>Tôi phải từ chối. Một người bạn cũ hơn hai người bạn mới.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
 			<Text>Không, tôi không chấp nhận đề nghị của bạn. Bạn là một tội nhân, và không phải là bạn của Tây Ban Nha.</Text>
@@ -135,7 +135,7 @@
 			<Text>Tôi dang tay kết bạn với bạn. Để đồng bào ta là anh chị em dưới Chúa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Văn bản>Tôi xin gửi tới các bạn bàn tay hoàng gia trong tình bạn. Bạn sẽ chấp nhận nó chứ?</Text>
+			<Text>Tôi xin gửi tới các bạn bàn tay hoàng gia trong tình bạn. Bạn sẽ chấp nhận nó chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
 			<Text>Nhiều người sẵn sàng giết người vì tình bạn của tôi. Đó là một đề nghị hào phóng, nhưng tôi cung cấp nó cho bạn. Câu trả lời của bạn là gì?</Text>

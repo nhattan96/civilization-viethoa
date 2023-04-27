@@ -8,10 +8,10 @@
 			<Text>Thủ tướng</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
-			<Văn bản>+2 Điểm ảnh hưởng mỗi lượt. Cấp độ của Enemy Spy bị giảm đi 1 khi nhắm mục tiêu vào thành phố này hoặc các thành phố có Encampment.</Text>
+			<Text>+2 Điểm ảnh hưởng mỗi lượt. Cấp độ của Enemy Spy bị giảm đi 1 khi nhắm mục tiêu vào thành phố này hoặc các thành phố có Encampment.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
-			<Văn bản>+3 Điểm ảnh hưởng mỗi lượt. Khi nền văn minh này bắt hoặc giết một Gián điệp của kẻ thù, hãy nhận 50 [ICON_Science] Khoa học cho mọi cấp độ của Gián điệp của kẻ thù.</Text>
+			<Text>+3 Điểm ảnh hưởng mỗi lượt. Khi nền văn minh này bắt hoặc giết một Gián điệp của kẻ thù, hãy nhận 50 [ICON_Science] Khoa học cho mọi cấp độ của Gián điệp của kẻ thù.</Text>
 		</Row>
 		<!--City-States changed by these buildings-->
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">

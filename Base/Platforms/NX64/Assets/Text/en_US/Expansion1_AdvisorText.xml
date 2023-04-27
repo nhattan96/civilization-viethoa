@@ -5,10 +5,10 @@
 			<Text>Khi kiến thức công dân của chúng ta phát triển, các phương pháp quản trị của chúng ta cũng vậy. Tiếp tục nỗ lực này sẽ cho phép chúng tôi bổ nhiệm một Thống đốc để củng cố quyền lực của chúng ta trong các thành phố của chúng ta.[NEWLINE][NEWLINE]Các Thống đốc sẽ cải thiện đáng kể Mức độ trung thành của thành phố mà họ đang ở và thưởng cho thành phố đó dựa trên những chương trình khuyến mãi mà bạn chọn cho họ. Để bổ nhiệm các Thống đốc mới - hoặc thăng chức cho những Thống đốc hiện có - chúng tôi cần các Chức danh Thống đốc. Nguồn chính của các Chức danh Thống đốc của chúng tôi là để hoàn thành các Công dân cụ thể.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_POINT">
-			<Văn bản>Bây giờ chúng ta có cơ hội bổ nhiệm một Thống đốc cho nền văn minh của chúng ta. Thống đốc này sẽ là một tài sản mạnh mẽ và hiệu quả khi được giao phụ trách một trong các thành phố của chúng ta. Tôi khuyên chúng ta nên chọn một ứng viên càng sớm càng tốt.</Text>
+			<Text>Bây giờ chúng ta có cơ hội bổ nhiệm một Thống đốc cho nền văn minh của chúng ta. Thống đốc này sẽ là một tài sản mạnh mẽ và hiệu quả khi được giao phụ trách một trong các thành phố của chúng ta. Tôi khuyên chúng ta nên chọn một ứng viên càng sớm càng tốt.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_SECOND_GOVERNOR_POINT">
-			<Văn bản>Một lần nữa chúng ta có cơ hội nâng cao năng lực quản trị của mình. Chúng ta có thể sử dụng nó để thăng chức cho một trong những Thống đốc hiện tại của mình hoặc chúng ta có thể bổ nhiệm một Thống đốc mới khác cho nền văn minh của chúng ta.</Text>
+			<Text>Một lần nữa chúng ta có cơ hội nâng cao năng lực quản trị của mình. Chúng ta có thể sử dụng nó để thăng chức cho một trong những Thống đốc hiện tại của mình hoặc chúng ta có thể bổ nhiệm một Thống đốc mới khác cho nền văn minh của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_ASSIGNMENT">
 			<Text>Thống đốc của chúng ta hiện đang trên đường đến thành phố được chỉ định của họ. Sẽ mất một thời gian để chúng được thiết lập ở đó. Sau khi được thành lập, tài năng của họ sẽ phát huy tác dụng, củng cố sự cai trị của chúng ta ở đó.</Text>
@@ -35,7 +35,7 @@
 			<Text>Chúng tôi đã đưa một thành phố mới vào nền văn minh của mình. Để giữ nó, chúng ta phải duy trì lòng trung thành của công dân của nó. Cử một Thống đốc đến đây sẽ giúp thực hiện điều này.[NEWLINE][NEWLINE]Nếu thành phố bị chiếm đóng vẫn gặp vấn đề về Mức độ trung thành, chúng tôi có thể đóng một đơn vị quân đội trong thành phố để cải thiện hơn nữa Mức độ trung thành. Hãy để mắt đến Loyalty của thành phố mới bị chiếm đóng của chúng ta, nếu không nó có thể nổi loạn và trở thành Thành phố Tự do cần chiếm lại.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_ALLIANCES_1">
-			<Văn bản>Bây giờ chúng ta có quan hệ hữu nghị với một nền văn minh láng giềng, chúng ta có thể củng cố mối quan hệ của mình bằng cách thành lập một Liên minh. Điều này không chỉ củng cố địa vị của chúng ta mà còn mang lại lợi ích cho cả hai nền văn minh của chúng ta.</Text>
+			<Text>Bây giờ chúng ta có quan hệ hữu nghị với một nền văn minh láng giềng, chúng ta có thể củng cố mối quan hệ của mình bằng cách thành lập một Liên minh. Điều này không chỉ củng cố địa vị của chúng ta mà còn mang lại lợi ích cho cả hai nền văn minh của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_ALLIANCES_2">
 			<Text>Liên minh của chúng ta là những tuyên bố ngắn hạn. Để duy trì chúng, chúng ta sẽ cần gia hạn tuyên bố về tình hữu nghị và đề xuất một Liên minh mới. Bằng cách ở trong Liên minh, họ trở nên mạnh mẽ hơn, mang lại lợi ích thậm chí còn lớn hơn.</Text>
@@ -53,7 +53,7 @@
 			<Text>Hành động của chúng tôi đã báo động toàn thế giới và các nền văn minh khác đã liên kết với nhau để ngăn chặn chúng tôi. Chúng tôi biết mục tiêu của họ và phải tự bảo vệ mình nếu chúng tôi muốn duy trì sức mạnh.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_EMERGENCY_5">
-			<Văn bản>Chúng ta đã tự bảo vệ mình thành công trong thời gian khủng hoảng này và giờ đây đang mạnh mẽ hơn vì điều đó. Họ sẽ suy nghĩ kỹ trước khi vượt qua chúng ta lần nữa!</Text>
+			<Text>Chúng ta đã tự bảo vệ mình thành công trong thời gian khủng hoảng này và giờ đây đang mạnh mẽ hơn vì điều đó. Họ sẽ suy nghĩ kỹ trước khi vượt qua chúng ta lần nữa!</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_EMERGENCY_6">
 			<Text>Chúng ta đã thất bại trong việc tự bảo vệ mình trong thời gian khủng hoảng này. Giờ đây, kẻ thù của chúng ta được trao quyền và được khuyến khích để đánh bại chúng ta!</Text>
@@ -65,13 +65,13 @@
 			<Text>Lịch sử tiến về phía trước, và thế giới đã bước vào một kỷ nguyên mới. Chúng ta có thể chứng kiến một Thời kỳ Hoàng kim hoặc Thời kỳ Đen tối trong tương lai của nền văn minh của chúng ta, được sinh ra từ những hành động trong quá khứ gần đây của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_ENTER_GOLDEN_AGE">
-			<Văn bản>Tin tuyệt vời! Những thành tựu của chúng ta đã đẩy nền văn minh của chúng ta vào một Thời kỳ Hoàng kim. Trong thời gian này, nền văn minh của chúng ta sẽ mạnh mẽ và trung thành hơn bao giờ hết.</Text>
+			<Text>Tin tuyệt vời! Những thành tựu của chúng ta đã đẩy nền văn minh của chúng ta vào một Thời kỳ Hoàng kim. Trong thời gian này, nền văn minh của chúng ta sẽ mạnh mẽ và trung thành hơn bao giờ hết.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_ENTER_DARK_AGE">
 			<Text>Chúng ta đã rơi vào Thời kỳ Đen tối. Mặc dù các thành phố của chúng ta sẽ phải đối mặt với những thách thức về lòng trung thành, nhưng với đủ nỗ lực, chúng ta sẽ có thể thoát khỏi Thời kỳ Đen tối này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_OVERCOME_DARK_AGE">
-			<Văn bản>Hãy vui mừng! Thời kỳ đen tối của chúng ta đã kết thúc và nền văn minh của chúng ta đang trên con đường hướng tới một tương lai tươi sáng hơn. Kỷ nguyên Hoàng kim tiếp theo của chúng ta sẽ thực sự huy hoàng.</Text>
+			<Text>Hãy vui mừng! Thời kỳ đen tối của chúng ta đã kết thúc và nền văn minh của chúng ta đang trên con đường hướng tới một tương lai tươi sáng hơn. Kỷ nguyên Hoàng kim tiếp theo của chúng ta sẽ thực sự huy hoàng.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DARK_AGE_TO_DARK_AGE">
 			<Text>Đáng buồn thay, chúng ta đã không thể thoát khỏi Thời kỳ Đen tối này. Chúng ta phải củng cố quyết tâm của mình và vượt lên trên trở ngại này nếu nền văn minh của chúng ta muốn tồn tại trên thế giới này.</Text>
@@ -86,7 +86,7 @@
 			<Text>Chúng ta đã sẵn sàng để xây dựng một quận quốc gia! Chỉ có một cái có thể được xây dựng trong đế chế của chúng ta, vì vậy hãy đảm bảo chọn vị trí của nó một cách cẩn thận.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_1a">
-			<Văn bản>Chúng tôi hiện đã sẵn sàng để chọn nơi xây dựng các tòa nhà chính phủ của mình. Chúng tôi chỉ có thể khoanh vùng một trong số này trong đế chế của mình, vì vậy hãy chọn cẩn thận.</Text>
+			<Text>Chúng tôi hiện đã sẵn sàng để chọn nơi xây dựng các tòa nhà chính phủ của mình. Chúng tôi chỉ có thể khoanh vùng một trong số này trong đế chế của mình, vì vậy hãy chọn cẩn thận.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_2">
 			<Text>Các tòa nhà trong quận mới của bạn tưởng niệm chính phủ hiện tại của bạn tại thời điểm xây dựng, đưa ra chính sách bổ sung cho các tác động của chính phủ.</Text>
@@ -107,7 +107,7 @@
 			<Text>Việc hoàn thành việc xây dựng tòa nhà này đã truyền cảm hứng cho các nhà hoạch định chính sách của chúng tôi! Nếu chúng tôi chọn đưa ra chính sách mới này trong chính phủ của mình, nó có thể giúp ích rất nhiều cho người dân của chúng tôi.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
-			<Text>Việc định cư ở một thành phố mới đã mở rộng nền văn minh của chúng ta! Với một đế chế lớn hơn một thành phố, điều quan trọng là phải để mắt đến Lòng trung thành của công dân chúng ta. Nếu Loyalty giảm, thành phố không hiệu quả. Nếu Loyalty giảm xuống 0, thành phố sẽ tuyên bố độc lập và trở thành Thành phố Tự do. Điều tương tự cũng có thể xảy ra với các nền văn minh khác, vì vậy hãy để mắt đến các cơ hội để gây bất ổn cho những nền văn minh khác và thậm chí có thể chiếm một Thành phố Tự do thành đế chế của riêng bạn![NEWLINE][NEWLINE]Lòng trung thành chủ yếu bị ảnh hưởng bởi số lượng và quốc tịch của công dân trong và gần thành phố. Có nhiều dân số của riêng bạn trong 9 ô sẽ cải thiện Mức độ trung thành của bạn mỗi lượt. Dân số thuộc các nền văn minh khác trong 9 ô sẽ giảm nó. Các thành phố càng gần nhau thì tác động càng lớn. Hơn nữa, hiệu ứng này được tăng cường đáng kể đối với các nền văn minh trong Thời kỳ Hoàng kim và bị suy yếu bởi Thời kỳ Đen tối.[NEWLINE][NEWLINE]Chỉ định Thống đốc cho một thành phố và đảm bảo thành phố đó có đủ Tiện nghi là những cách khác để đảm bảo Mức độ trung thành của các thành phố của chính bạn .</Văn bản>
+			<Text>Việc định cư ở một thành phố mới đã mở rộng nền văn minh của chúng ta! Với một đế chế lớn hơn một thành phố, điều quan trọng là phải để mắt đến Lòng trung thành của công dân chúng ta. Nếu Loyalty giảm, thành phố không hiệu quả. Nếu Loyalty giảm xuống 0, thành phố sẽ tuyên bố độc lập và trở thành Thành phố Tự do. Điều tương tự cũng có thể xảy ra với các nền văn minh khác, vì vậy hãy để mắt đến các cơ hội để gây bất ổn cho những nền văn minh khác và thậm chí có thể chiếm một Thành phố Tự do thành đế chế của riêng bạn![NEWLINE][NEWLINE]Lòng trung thành chủ yếu bị ảnh hưởng bởi số lượng và quốc tịch của công dân trong và gần thành phố. Có nhiều dân số của riêng bạn trong 9 ô sẽ cải thiện Mức độ trung thành của bạn mỗi lượt. Dân số thuộc các nền văn minh khác trong 9 ô sẽ giảm nó. Các thành phố càng gần nhau thì tác động càng lớn. Hơn nữa, hiệu ứng này được tăng cường đáng kể đối với các nền văn minh trong Thời kỳ Hoàng kim và bị suy yếu bởi Thời kỳ Đen tối.[NEWLINE][NEWLINE]Chỉ định Thống đốc cho một thành phố và đảm bảo thành phố đó có đủ Tiện nghi là những cách khác để đảm bảo Mức độ trung thành của các thành phố của chính bạn .</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
 			<Text>CẢI THIỆN MỨC ĐỘ TRUNG THÀNH:</Text>

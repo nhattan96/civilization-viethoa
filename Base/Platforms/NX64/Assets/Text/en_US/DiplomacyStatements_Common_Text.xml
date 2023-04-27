@@ -90,10 +90,10 @@
 			<Text>Bạn có chắc chắn muốn tham chiến không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
-			<Văn bản>Có</Văn bản>
+			<Text>Có</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
-			<Văn bản>Không</Văn bản>
+			<Text>Không</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
 			<Text>Thực hiện giao dịch</Text>

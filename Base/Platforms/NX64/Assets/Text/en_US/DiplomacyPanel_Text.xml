@@ -77,10 +77,10 @@
       <Text>LỚN HƠN</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
-      <Văn bản>Không có</Văn bản>
+      <Text>Không có</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
-      <Văn bản>+{1_Value} {1_Value mới : số nhiều 1?Báo cáo; khác?Báo cáo;}</Text>
+      <Text>+{1_Value} {1_Value mới : số nhiều 1?Báo cáo; khác?Báo cáo;}</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
       <Text>Không có mục mới</Text>
@@ -95,7 +95,7 @@
       <Text>Chương trình nghị sự ngẫu nhiên</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
-      <Văn bản>Chương trình làm việc ngẫu nhiên bị ẩn. Nhận quyền truy cập cấp độ BÍ MẬT để tiết lộ.</Text>
+      <Text>Chương trình làm việc ngẫu nhiên bị ẩn. Nhận quyền truy cập cấp độ BÍ MẬT để tiết lộ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
       <Text>Không có chương trình lịch sử</Text>
@@ -105,7 +105,7 @@
     </Row>
 	<!-- Used in titles -->
 	<Row Tag="LOC_DIPLOMACY_OF">
-      <Văn bản>Của</Text>
+      <Text>Của</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
       <Text>Cung cấp giao dịch thuận lợi.</Text>
@@ -219,7 +219,7 @@
       <Text>Tình trạng hỗn loạn ({1_num} {1_Num : số nhiều 1?lượt; khác?lượt;})</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
-			<Văn bản>Không có</Văn bản>
+			<Text>Không có</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
 			<Text>{1_CivName} đã tố cáo những hành động xấu xa của {2_CivName}.</Text>
