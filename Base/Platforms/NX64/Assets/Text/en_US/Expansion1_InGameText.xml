@@ -521,268 +521,268 @@
 		</Row>
 		<!-- Governor Promotions -->
 		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
-			<Text>Redoubt</Text>
+			<Text>Nghi ngờ</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
-			<Text>Increases city garrison [ICON_Strength] Combat Strength by +5. Establishes in 3 turns.</Text>
+			<Text>Tăng lực lượng đồn trú trong thành phố [ICON_Strength] Combat Strength lên +5. Thành lập trong 3 lượt.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
-			<Text>Chỉ huy đồn trú</Text>
+			<Text>Chỉ huy khu định cư</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
-			<Text>Các đơn vị phòng thủ trong lãnh thổ của thành phố nhận được +5 [ICON_Strength] Combat Strength. Các thành phố khác của bạn trong 9 ô nhận được +4 Mức độ trung thành mỗi lượt đối với nền văn minh của bạn.</Text>
+			<Text>Các đơn vị phòng thủ trong lãnh thổ của thành phố nhận được +5 [ICON_Strength] Combat Strength. Các thành phố khác của bạn trong 9 ô nhận được +4 Mức độ trung thành từng đối tượng với nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
 			<Text>Ôm ấp</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
-			<Text>City gains an additional [ICON_Ranged] Ranged Strike per turn. Military units trained in this city start with a free promotion that do not already start with a free promotion.</Text>
+			<Text>Thành phố nhận được thêm [ICON_Ranged] Tấn công tầm xa mỗi lượt. Các đơn vị quân đội được huấn luyện trong thành phố này bắt đầu với một chương trình khuyến mại miễn phí chưa bắt đầu với một chương trình khuyến mại miễn phí.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
-			<Text>Defense Logistics</Text>
+			<Text>Hậu cần quốc phòng</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
-			<Text>Security Expert</Text>
+			<Text>Chuyên gia bảo mật</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
-			<Text>Enemy Spies operate at 2 levels below normal in this city.</Text>
+			<Text>Gián điệp của kẻ thù hoạt động ở mức dưới 2 mức bình thường trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
-			<Text>City cannot be put under siege. Accumulating Strategic resources in the city gain an additional +1 per turn.</Text>
+			<Text>Thành phố không thể bị bao vây. Tích lũy tài nguyên Chiến lược trong thành phố nhận thêm +1 mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
-			<Text>Air Defense Initiative</Text>
+			<Text>Sáng kiến phòng không</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
-			<Text>+25 [ICON_Strength] Combat Strength to anti-air support units within the city's territory when defending against aircraft and ICBMs.</Text>
+			<Text>+25 [ICON_Strength] Combat Strength cho các đơn vị hỗ trợ phòng không trong lãnh thổ của thành phố khi phòng thủ trước máy bay và ICBM.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
-			<Text>Messenger</Text>
+			<Text>Người đưa tin</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
-			<Text>Can be assigned to a city-state, where she acts as 2 [ICON_Envoy] Envoys.</Text>
+			<Text>Có thể được chỉ định cho một thành phố-bang, nơi cô ấy hoạt động như 2 Đặc phái viên [ICON_Envoy].</Text>
 		</Row>
 		<Row Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
-			<Text>The influence of nearby cities would apply {1_LoyaltyPerTurnAmount} Loyalty per turn to a new city settled here. Consider using a [ICON_Governor] Governor in the new city, or settling elsewhere.</Text>
+			<Text>Ảnh hưởng của các thành phố lân cận sẽ áp dụng {1_LoyaltyPerTurnAmount} Mức độ trung thành mỗi lượt cho một thành phố mới định cư tại đây. Cân nhắc sử dụng Thống đốc [ICON_Governor] tại thành phố mới hoặc định cư ở nơi khác.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
-			<Text>Emissary</Text>
+			<Text>Sứ giả</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
-			<Text>Other cities within 9 tiles and not owned by you lose 2 Loyalty per turn.</Text>
+			<Text>Các thành phố khác trong 9 ô và không thuộc sở hữu của bạn sẽ mất 2 Điểm trung thành mỗi lượt.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
-			<Text>Prestige</Text>
+			<Text>Uy tín</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
-			<Text>Your other cities within 9 tiles gain +2 Loyalty per turn towards your civilization.</Text>
+			<Text>Các thành phố khác của bạn trong vòng 9 ô nhận được +2 Mức độ trung thành mỗi lượt đối với nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
-			<Text>Affluence</Text>
+			<Text>Sự sung túc</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
-			<Text>While established in a city-state, provides a copy of its Luxury resources to you.</Text>
+			<Text>Mặc dù được thành lập ở một thành phố-bang, cung cấp một bản sao các tài nguyên Xa xỉ của nó cho bạn.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
-			<Text>Promoter</Text>
+			<Text>Người quảng bá</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
-			<Text>+4 [ICON_Amenities] Amenities in the city.</Text>
+			<Text>+4 [ICON_Amenities] Tiện ích trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
-			<Text>Puppeteer</Text>
+			<Text>Người múa rối</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
-			<Text>While established in a city-state, doubles the number of [ICON_Envoy] Envoys you have there.</Text>
+			<Text>Khi được thành lập ở một thành phố-bang, hãy nhân đôi số lượng [ICON_Envoy] Đặc phái viên bạn có ở đó.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
-			<Text>Bishop</Text>
+			<Text>Giám mục</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
-			<Text>Grand Inquisitor</Text>
+			<Text>Đại thẩm phán</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
-			<Text>Divine Architect</Text>
+			<Text>Kiến trúc sư thần thánh</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
-			<Text>Laying On Of Hands</Text>
+			<Text>Đặt tay</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
-			<Text>Citadel of God</Text>
+			<Text>Thành trì của Chúa</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
-			<Text>Patron Saint</Text>
+			<Text>Thần hộ mệnh</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
-			<Text>Religious pressure to adjacent cities is 100% stronger from this city. +2 [ICON_Faith] Faith for every specialty district in this city.</Text>
+			<Text>Áp lực tôn giáo đối với các thành phố lân cận mạnh hơn 100% từ thành phố này. +2 [ICON_Faith] Niềm tin cho mọi quận đặc sản trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
-			<Text>+10 [ICON_Religion] Religious Strength in theological combat in tiles of this city.</Text>
+			<Text>+10 [ICON_Religion] Sức mạnh tôn giáo trong trận chiến thần học ở các ô của thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
-			<Text>Allows city to purchase districts with [ICON_FAITH] Faith.</Text>
+			<Text>Cho phép thành phố mua các quận bằng [ICON_FAITH] Niềm tin.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
-			<Text>All [ICON_Governor] Governor's units heal fully in one turn in tiles of this city.</Text>
+			<Text>Tất cả các đơn vị của [ICON_Governor] của Thống đốc sẽ hồi máu hoàn toàn trong một lượt trong các ô của thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
-			<Text>City ignores religious pressure from Religions not founded by the [ICON_Governor] Governor's player. Gain [ICON_FAITH] Faith equal to 25% of the construction cost when finishing buildings.</Text>
+			<Text>Thành phố phớt lờ áp lực tôn giáo từ các Tôn giáo không được thành lập bởi người chơi của Thống đốc [ICON_Governor]. Nhận được [ICON_FAITH] Niềm tin bằng 25% chi phí xây dựng khi hoàn thiện tòa nhà.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
-			<Text>Apostles and Warrior Monks trained in the city receive 1 extra promotion when receiving their first promotion.</Text>
+			<Text>Tông đồ và Tu sĩ chiến binh được đào tạo trong thành phố sẽ nhận được thêm 1 lần thăng cấp khi lần đầu tiên được thăng cấp.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
-			<Text>Groundbreaker</Text>
+			<Text>Đột phá</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
-			<Text>+50% yields from plot harvests and feature removals in city.</Text>
+			<Text>+50% lợi nhuận thu được từ việc thu hoạch cốt truyện và loại bỏ tính năng trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
-			<Text>Surplus Logistics</Text>
+			<Text>Hậu cần thặng dư</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
-			<Text>+20% [ICON_Food] Growth in the city. Your [ICON_TradeRoute] Trade Routes ending here provide +2 [ICON_Food] Food to their starting city.</Text>
+			<Text>Tăng +20% [ICON_Food] trong thành phố. Tuyến thương mại [ICON_TradeRoute] của bạn kết thúc tại đây cung cấp +2 [ICON_Food] Thực phẩm cho thành phố xuất phát của họ.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
-			<Text>Provision</Text>
+			<Text>Cung cấp</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
-			<Text>Settlers trained in the city do not consume a [ICON_Citizen] Population.</Text>
+			<Text>Những người định cư được đào tạo trong thành phố không tiêu thụ [ICON_Citizen] Dân số.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
-			<Text>Industrialist</Text>
+			<Text>Nhà công nghiệp</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
-			<Text>Increases the [ICON_POWER] Power provided by each resource of the Coal Power Plant, Oil Power Plant, and Nuclear Power Plant by 1 and the [ICON_Production] Production by +2.</Text>
+			<Text>Tăng Công suất [ICON_POWER] được cung cấp bởi từng tài nguyên của Nhà máy điện than, Nhà máy điện dầu và Nhà máy điện hạt nhân lên 1 và Sản lượng [ICON_Production] lên +2.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
-			<Text>Black Marketeer</Text>
+			<Text>Người buôn bán chợ đen</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
-			<Text>Strategic resource costs for units are discounted 80%.</Text>
+			<Text>Chi phí tài nguyên chiến lược cho các đơn vị được chiết khấu 80%.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
-			<Text>Vertical Integration</Text>
+			<Text>Tích hợp dọc</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
-			<Text>This city receives [ICON_Production] Production from all nearby Industrial Zone buildings with regional bonuses, not just the first.</Text>
+			<Text>Thành phố này nhận được [ICON_Production] Sản xuất từ tất cả các tòa nhà Khu công nghiệp gần đó với tiền thưởng khu vực, không chỉ là sản phẩm đầu tiên.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
-			<Text>Guildmaster</Text>
+			<Text>Hội trưởng</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
-			<Text>All Builders trained in this city will get +1 build charge.</Text>
+			<Text>Tất cả Thợ xây được đào tạo trong thành phố này sẽ nhận được +1 phí xây dựng.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
-			<Text>Infrastructure</Text>
+			<Text>Cơ sở hạ tầng</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production towards City Center and Government Plaza buildings.</Text>
+			<Text>+30% [ICON_Production] Sản xuất hướng tới các tòa nhà Trung tâm Thành phố và Quảng trường Chính phủ.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
-			<Text>Aquaculture</Text>
+			<Text>Nuôi trồng thủy sản</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
-			<Text>Can construct the Fishery improvement. +1 [ICON_Food] Food, +0.5 [ICON_Housing] Housing, +1 [ICON_Food] Food if adjacent to a sea resource. +1 [ICON_PRODUCTION] Production if Liang is in the city.</Text>
+			<Text>Có thể xây dựng cải tiến Ngư nghiệp. +1 [ICON_Food] Thực phẩm, +0,5 [ICON_Housing] Nhà ở, +1 [ICON_Food] Thực phẩm nếu tiếp giáp với tài nguyên biển. +1 [ICON_PRODUCTION] Sản xuất nếu Liang đang ở trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
-			<Text>Parks and Recreation</Text>
+			<Text>Công viên và giải trí</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
-			<Text>Can construct the City Park improvement in this city. +1 [ICON_Culture] Culture and +2 Appeal. +1 [ICON_Amenities] Amenity if adjacent to water. City Parks provide +3 [ICON_CULTURE] Culture if Liang is in the city. </Text>
+			<Text>Có thể xây dựng cải tiến Công viên Thành phố ở thành phố này. Văn hóa +1 [ICON_Culture] và +2 Khiếu nại. +1 [ICON_Amenities] Tiện nghi nếu tiếp giáp với nước. Công viên Thành phố cung cấp Văn hóa +3 [ICON_CULTURE] nếu Liang ở trong thành phố. </Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
-			<Text>Zoning Commissioner</Text>
+			<Text>Ủy viên khu vực</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
-			<Text>+20% [ICON_Production] Production towards constructing districts in the city.</Text>
+			<Text>+20% [ICON_Production] Sản xuất hướng tới việc xây dựng các quận trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
-			<Text>Amusement</Text>
+			<Text>Giải trí</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
-			<Text>+30% [ICON_Production] Production towards Entertainment Complex and Water Park buildings in the city.</Text>
+			<Text>+30% [ICON_Production] Sản xuất hướng tới các tòa nhà Khu liên hợp giải trí và Công viên nước trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
-			<Text>Librarian</Text>
+			<Text>Thư viện</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
-			<Text>15% increase in [ICON_Science] Science and [ICON_Culture] Culture generated by the city.</Text>
+			<Text>Tăng 15% trong [ICON_Science] Khoa học và [ICON_Culture] Văn hóa do thành phố tạo ra.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
-			<Text>Connoisseur</Text>
+			<Text>Người sành sỏi</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
-			<Text>+1 [ICON_CULTURE] Culture per turn for each [ICON_Citizen] Citizen in the city.</Text>
+			<Text>+1 [ICON_CULTURE] Văn hóa mỗi lượt cho mỗi [ICON_Citizen] Công dân trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
-			<Text>Researcher</Text>
+			<Text>Nhà nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
-			<Text>+1 [ICON_SCIENCE] Science per turn for each [ICON_Citizen] Citizen in the city.</Text>
+			<Text>+1 [ICON_SCIENCE] Khoa học mỗi lượt cho mỗi [ICON_Citizen] Công dân trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
-			<Text>Grants</Text>
+			<Text>Trợ cấp</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
-			<Text>+100% [ICON_GreatPerson] Great People points generated per turn in the city.</Text>
+			<Text>+100% [ICON_GreatPerson] Điểm Great People được tạo mỗi lượt trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
-			<Text>Arms Race Proponent</Text>
+			<Text>Người đề xuất chạy đua vũ trang</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
-			<Text>30% [ICON_Production] Production increase to all nuclear armament projects in the city.</Text>
+			<Text>30% [ICON_Production] Tăng sản lượng cho tất cả các dự án vũ khí hạt nhân trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
-			<Text>Space Initiative</Text>
+			<Text>Sáng kiến không gian</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
-			<Text>30% [ICON_Production] Production increase to all space-program projects in the city.</Text>
+			<Text>30% [ICON_Production] Tăng sản lượng cho tất cả các dự án chương trình không gian trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
-			<Text>Land Acquisition</Text>
+			<Text>Thu hồi đất</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
-			<Text>Acquire new tiles in city faster. +3 [ICON_Gold] Gold per turn from each foreign [ICON_TradeRoute] Trade Route passing through the city.</Text>
+			<Text>Nhận ô mới trong thành phố nhanh hơn. +3 [ICON_Gold] Vàng mỗi lượt từ mỗi Tuyến thương mại [ICON_TradeRoute] nước ngoài đi qua thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
-			<Text>Harbormaster</Text>
+			<Text>Người quản lý bến cảng</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
-			<Text>Double adjacency bonuses from Commercial Hubs and Harbors in the city.</Text>
+			<Text>Nhân đôi tiền thưởng phụ cận từ các Trung tâm Thương mại và Bến cảng trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
-			<Text>Foreign Exchange</Text>
+			<Text>Ngoại hối</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
-			<Text>+3 [ICON_Gold] Gold per turn from each foreign [ICON_TradeRoute] Trade Route passing through the city.</Text>
+			<Text>+3 [ICON_Gold] Vàng mỗi lượt từ mỗi Tuyến thương mại [ICON_TradeRoute] nước ngoài đi qua thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
-			<Text>Tariffs</Text>
+			<Text>Thuế quan</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
-			<Text>+3 [ICON_Gold] Gold per turn from all [ICON_TradeRoute] Trade Routes in and out of the city.</Text>
+			<Text>+3 [ICON_Gold] Vàng mỗi lượt từ tất cả các Tuyến giao dịch [ICON_TradeRoute] trong và ngoài thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
-			<Text>Tax Collector</Text>
+			<Text>Người thu thuế</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold per turn for each [ICON_Citizen] Citizen in the city.</Text>
+			<Text>+2 [ICON_Gold] Vàng mỗi lượt cho mỗi công dân [ICON_Citizen] trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
-			<Text>Contractor</Text>
+			<Text>Nhà thầu</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
-			<Text>Allows city to purchase districts with [ICON_Gold] Gold.</Text>
+			<Text>Cho phép thành phố mua các quận bằng [ICON_Gold] Vàng.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
-			<Text>Curator</Text>
+			<Text>Người quản lý</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] Tourism from Great Works of Art, Music, and Writing in the city.</Text>
+			<Text>+100% [ICON_Tourism] Du lịch từ các tác phẩm nghệ thuật, âm nhạc và văn học vĩ đại trong thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_ACTION_AVAILABLE">
-			<Text>You can promote or assign a [ICON_Governor] Governor!</Text>
+			<Text>Bạn có thể thăng chức hoặc chỉ định một [ICON_Governor] Thống đốc!</Text>
 		</Row>
 		<!-- Leader Agendas-->
 		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">

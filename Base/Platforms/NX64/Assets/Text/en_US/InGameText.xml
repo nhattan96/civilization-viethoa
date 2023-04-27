@@ -2442,19 +2442,19 @@
 		</Row>
 		<!-- ==================== Research Chooser ==================== -->
 		<Row Tag="LOC_RESEARCH_CHOOSER_JUST_COMPLETED">
-			<Text>Just completed</Text>
+			<Text>Vừa hoàn thành</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_TITLE">
 			<Text>Chọn Công Nghệ Mới?</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_OPEN_TECH_TREE">
-			<Text>Cây công nghệ mở</Text>
+			<Text>Mở Cây công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_CHOOSE_RESEARCH">
-			<Text>Chọn nghiên cứu</Text>
+			<Text>Mục đích nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_RESEARCH_CHOOSER_TURNS">
-			<Text>Turns:</Text>
+			<Text>Lượt:</Text>
 		</Row>
 		<!-- ==================== Civics Chooser ==================== -->
 		<Row Tag="LOC_CIVICS_CHOOSER_JUST_COMPLETED">

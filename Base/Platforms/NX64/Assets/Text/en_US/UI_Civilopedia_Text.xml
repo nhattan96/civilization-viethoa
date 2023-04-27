@@ -5,298 +5,298 @@
 			<Text>CIVILOPEDIA</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CIVILIZATIONS">
-			<Text>Civilizations</Text>
+			<Text>Các nền văn minh</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
-			<Text>Geography &amp; Social Data</Text>
+			<Text>Địa lý &amp; Dữ liệu xã hội</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PREFERENCES">
-			<Text>Preferences</Text>
+			<Text>Tùy chọn</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_AGENDAS">
-			<Text>Agendas</Text>
+			<Text>Chương trình nghị sự</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
-			<Text>Religion</Text>
+			<Text>Tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_LEADERS">
-			<Text>Leaders</Text>
+			<Text>Lãnh đạo</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
-			<Text>Rivers</Text>
+			<Text>Sông</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
-			<Text>(also prefers rivers)</Text>
+			<Text>(cũng thích sông hơn)</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
-			<Text>Special Infrastructure</Text>
+			<Text>Cơ sở hạ tầng đặc biệt</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
-			<Text>Special Units</Text>
+			<Text>Đơn vị đặc biệt</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_SUZERAIN">
-			<Text>Become Suzerain Of</Text>
+			<Text>Trở thành bá chủ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_START_BIAS">
-			<Text>Start Bias</Text>
+			<Text>Bắt đầu xu hướng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_DESCRIPTION">
-			<Text>Description</Text>
+			<Text>Mô tả</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BELIEF_CLASS">
-			<Text>Belief Class</Text>
+			<Text>Lớp học niềm tin</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
-			<Text>Promotion Class</Text>
+			<Text>Hạng thăng hạng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TRAITS">
-			<Text>Traits</Text>
+			<Text>Đặc điểm</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
-			<Text>Made obsolete by</Text>
+			<Text>Đã lỗi thời bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_APPLIES_TO">
-			<Text>Applies To</Text>
+			<Text>Áp dụng cho</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REPLACES">
-			<Text>Replaces</Text>
+			<Text>Thay thế</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
-			<Text>Required Civics</Text>
+			<Text>Quyền công dân bắt buộc</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
-			<Text>Required Technologies</Text>
+			<Text>Công nghệ cần thiết</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UNLOCKS">
-			<Text>Unlocks</Text>
+			<Text>Mở khóa</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BOOSTS">
-			<Text>Boosts</Text>
+			<Text>Tăng cường</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_FOLLOWERS">
-			<Text>Followers</Text>
+			<Text>Người theo dõi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PROGRESSION">
-			<Text>Progression</Text>
+			<Text>Tiến trình</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
-			<Text>Leads to Civics</Text>
+			<Text>Dẫn đến công dân</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
-			<Text>Leads to Technologies</Text>
+			<Text>Dẫn đến công nghệ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PRODUCTION_COST">
-			<Text>Production Cost</Text>
+			<Text>Chi phí sản xuất</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PURCHASE_COST">
-			<Text>Purchase Cost</Text>
+			<Text>Chi phí mua hàng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MAITENANCE_COST">
-			<Text>Maintenance Cost</Text>
+			<Text>Chi phí bảo trì</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CULTURE_COST">
-			<Text>Culture Cost</Text>
+			<Text>Chi phí văn hóa</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_RESEARCH_COST">
-			<Text>Research Cost</Text>
+			<Text>Chi phí nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BASE_COST">
-			<Text>Base Cost: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
+			<Text>Chi phí cơ sở: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIREMENTS">
-			<Text>Requirements</Text>
+			<Text>Yêu cầu</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BUILD_CHARGES">
-			<Text>Build Charges</Text>
+			<Text>Chi phí xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_HEAL_CHARGES">
-			<Text>Heal Charges</Text>
+			<Text>Hồi máu</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
-			<Text>Movement Points</Text>
+			<Text>Điểm chuyển động</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
-			<Text>Melee Strength</Text>
+			<Text>Sức mạnh cận chiến</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
-			<Text>Ranged Strength</Text>
+			<Text>Sức mạnh tầm xa</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
-			<Text>Bombard Strength</Text>
+			<Text>Sức mạnh ném bom</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
-			<Text>Religious Strength</Text>
+			<Text>Sức mạnh tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
-			<Text>Anti-air Strength</Text>
+			<Text>Sức mạnh phòng không</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
-			<Text>Spread Charges</Text>
+			<Text>Phí chênh lệch</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_RANGE">
-			<Text>Range</Text>
+			<Text>Phạm vi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REPLACED_BY">
-			<Text>Replaced By</Text>
+			<Text>Được thay thế bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UNLOCKED_BY">
-			<Text>Unlocked By</Text>
+			<Text>Mở khóa bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_BUILT_BY">
-			<Text>Built By</Text>
+			<Text>Được tạo bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_USAGE">
-			<Text>Usage</Text>
+			<Text>Cách sử dụng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
-			<Text>Unlocks Buildings</Text>
+			<Text>Mở khóa tòa nhà</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
-			<Text>Unlocks Units</Text>
+			<Text>Mở khóa đơn vị</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
-			<Text>Can Construct</Text>
+			<Text>Có thể xây dựng</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT">
-			<Text>Placement</Text>
+			<Text>Vị trí</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ADJACENCY">
-			<Text>Adjacency</Text>
+			<Text>Cạnh nhau</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
-			<Text>Mutually Exclusive With</Text>
+			<Text>Loại trừ lẫn nhau với</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
-			<Text>Must be placed on Coast, adjacent to land</Text>
+			<Text>Phải được đặt trên Bờ biển, tiếp giáp với đất liền</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
-			<Text>Must be adjacent to the City Center, as well as an adjacent River, Lake, Oasis, or Mountain</Text>
+			<Text>Phải liền kề với Trung tâm Thành phố, cũng như Sông, Hồ, Ốc đảo hoặc Núi liền kề</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
-			<Text>Cannot be adjacent to the City Center</Text>
+			<Text>Không thể liền kề với Trung tâm thành phố</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
-			<Text>Adjacency Bonus</Text>
+			<Text>Tiền thưởng liền kề</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
-			<Text>Citizen Yields (per citizen)</Text>
+			<Text>Năng suất của người dân (trên mỗi người dân)</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TRADE_YIELDS">
-			<Text>Trade Yields</Text>
+			<Text>Lợi suất giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
-			<Text>Origin</Text>
+			<Text>Xuất xứ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
-			<Text>Domestic Destination</Text>
+			<Text>Điểm đến trong nước</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
-			<Text>International Destination</Text>
+			<Text>Điểm đến quốc tế</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UPGRADES_TO">
-			<Text>Upgrades To</Text>
+			<Text>Nâng cấp lên</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UPGRADE_FROM">
-			<Text>Upgrade From</Text>
+			<Text>Nâng cấp từ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UNIQUE_TO">
-			<Text>Unique To</Text>
+			<Text>Duy nhất cho</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
-			<Text>Unique Ability</Text>
+			<Text>Khả năng độc nhất</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PROMOTIONS">
-			<Text>Promotion(s)</Text>
+			<Text>(Các) Khuyến mãi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PROJECTS">
-			<Text>Project(s)</Text>
+			<Text>Dự án</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
-			<Text>City-State Type</Text>
+			<Text>Loại thành phố-bang</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CREATES">
-			<Text>Creates</Text>
+			<Text>Tạo</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CREATED_BY">
-			<Text>Created By</Text>
+			<Text>Tạo bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ESPIONAGE_MISSIONS">
-			<Text>Espionage Missions</Text>
+			<Text>Nhiệm vụ gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_TURNS">
-			<Text>Turns: {1_Name} (Standard Speed)</Text>
+			<Text>Lượt: {1_Name} (Tốc độ tiêu chuẩn)</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_BASE_PROBABILITY">
-			<Text>Base Probability: {1_Name}%</Text>
+			<Text>Xác suất cơ bản: {1_Name}%</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_TARGET_DISTRICT">
-			<Text>Target District: {1_Name}</Text>
+			<Text>Khu vực mục tiêu: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_IMPROVED_BY">
-			<Text>Improved By</Text>
+			<Text>Được cải thiện bởi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_HARVEST">
-			<Text>Harvest</Text>
+			<Text>Thu hoạch</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRES">
-			<Text>Requires: {1_Name}</Text>
+			<Text>Yêu cầu: {1_Name}</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_VALID_RESOURCES">
-			<Text>Valid Resources</Text>
+			<Text>Tài nguyên hợp lệ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
 			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?charge; other?charges;})</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_GREAT_WORKS">
-			<Text>Great Works</Text>
+			<Text>Tác phẩm tuyệt vời</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
-			<Text>Mountains</Text>
+			<Text>Núi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
-			<Text>Hills</Text>
+			<Text>Đồi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TERRAIN_WATER">
-			<Text>Water</Text>
+			<Text>Nước</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
-			<Text>Shallow Water</Text>
+			<Text>Nước cạn</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
-			<Text>Impassable</Text>
+			<Text>Không thể vượt qua</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
-			<Text>Inactive</Text>
+			<Text>Không hoạt động</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
-			<Text>Special requirements must be met in order to activate.  See the description for more details.</Text>
+			<Text>Các yêu cầu đặc biệt phải được đáp ứng để kích hoạt. Xem phần mô tả để biết thêm chi tiết.</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
-			<Text>Removed if game started after</Text>
+			<Text>Đã xóa nếu trò chơi bắt đầu sau</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
-			<Text>Must be adjacent to a river</Text>
+			<Text>Phải tiếp giáp với sông</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
-			<Text>Must be adjacent to a mountain</Text>
+			<Text>Phải tiếp giáp với một ngọn núi</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
-			<Text>Must be built on coast</Text>
+			<Text>Phải được xây dựng trên bờ biển</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
-			<Text>Must be built on a lake</Text>
+			<Text>Phải được xây dựng trên hồ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
-			<Text>Cannot be built on a lake</Text>
+			<Text>Không thể xây dựng trên hồ</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
-			<Text>Must have founded a religion</Text>
+			<Text>Chắc hẳn đã thành lập một tôn giáo</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
-			<Text>Buildings (any)</Text>
+			<Text>Tòa nhà (bất kỳ)</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
-			<Text>[ICON_Movement] Movement Change: {1_Amount}</Text>
+			<Text>[ICON_Movement] Thay đổi chuyển động: {1_Amount}</Text>
 		</Row>
 	</FrontEndText>
 </GameData>

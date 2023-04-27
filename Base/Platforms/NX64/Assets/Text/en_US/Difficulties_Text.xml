@@ -3,7 +3,7 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIFFICULTY_SETTLER_NAME">
-			<Text>người định cư</Text>
+			<Text>Người định cư</Text>
 		</Row>
 		<Row Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
 			<Text>Thủ lĩnh</Text>
