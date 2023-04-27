@@ -3,265 +3,265 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DISTRICT_CITY_CENTER_DESCRIPTION">
-			<Text>This is the City Center.</Text>
+			<Text>Đây là Trung tâm Thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
-			<Text>A district in your city for scientific endeavors.</Text>
+			<Text>Một quận trong thành phố của bạn dành cho những nỗ lực khoa học.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Standard [ICON_Science] Science bonus for each adjacent Mountain. Minor [ICON_Science] Science bonus for adjacent district tiles and adjacent Rainforest tiles.</Text>
+			<Text>Liền kề: Phần thưởng Khoa học tiêu chuẩn [ICON_Science] cho mỗi Núi liền kề. Phần thưởng khoa học nhỏ [ICON_Science] cho các ô quận liền kề và các ô Rainforest liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
-			<Text>A district in your city for religious worship.</Text>
+			<Text>Một quận trong thành phố của bạn để thờ cúng tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Major [ICON_Faith] Faith bonus for adjacent natural wonders. Standard [ICON_Faith] Faith bonus for each adjacent Mountain tile. Minor [ICON_Faith] Faith bonus for adjacent district tiles and unimproved Woods tiles.</Text>
+			<Text>Liền kề: Phần thưởng lớn [ICON_Faith] Niềm tin cho các kỳ quan thiên nhiên liền kề. Tiêu chuẩn [ICON_Faith] Phần thưởng đức tin cho mỗi ô Núi liền kề. Phần thưởng nhỏ [ICON_Faith] Niềm tin cho các ô quận liền kề và các ô Woods chưa được cải thiện.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
-			<Text>A district in your city for military facilities.</Text>
+			<Text>Một quận trong thành phố của bạn dành cho các cơ sở quân sự.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
-			<Text>A district in your city dedicated to keeping your people happy by increasing [ICON_Amenities] Amenities.</Text>
+			<Text>Một quận trong thành phố của bạn chuyên làm hài lòng người dân của bạn bằng cách tăng tiện ích [ICON_Amenities].</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION">
-			<Text>A district in your city for cultural sites.</Text>
+			<Text>Một quận trong thành phố của bạn dành cho các địa điểm văn hóa.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Standard [ICON_Culture] Culture bonus for each adjacent wonder. Minor [ICON_Culture] Culture bonus for adjacent district tiles.</Text>
+			<Text>Kỳ lân cận: Phần thưởng văn hóa [ICON_Culture] tiêu chuẩn cho mỗi kỳ quan lân cận. Phần thưởng văn hóa [ICON_Culture] nhỏ cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>A district for naval activity in your city. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Commercial Hub district.</Text>
+			<Text>Một quận dành cho hoạt động hải quân trong thành phố của bạn. Đồng thời xóa hình phạt Di chuyển [ICON_Movement] đối với việc lên và xuống ô này. Phải được xây dựng trên Địa hình Bờ biển hoặc Hồ liền kề với đất liền.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Sức chứa của Tuyến đường Thương mại, nếu thành phố này chưa có khu Trung tâm Thương mại.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent City Center. Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+			<Text>Vùng lân cận: Phần thưởng vàng [ICON_Gold] chính cho mỗi Trung tâm thành phố lân cận. Tiêu chuẩn [ICON_Gold] Phần thưởng vàng cho mỗi tài nguyên ven biển liền kề. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
-			<Text>A district in your city that provides housing based on the Appeal of the tile:[NEWLINE]Breathtaking: +6 [ICON_Housing] Housing.[NEWLINE]Charming: +5 [ICON_Housing] Housing.[NEWLINE]Average: +4 [ICON_Housing] Housing.[NEWLINE]Uninviting: +3 [ICON_Housing] Housing.[NEWLINE]Disgusting: +2 [ICON_Housing] Housing.</Text>
+			<Text>Một quận trong thành phố của bạn cung cấp nhà ở dựa trên Kháng cáo của ô:[NEWLINE]Tuyệt vời: +6 Nhà ở [ICON_Housing].[NEWLINE]Duyên dáng: +5 Nhà ở [ICON_Housing].[NEWLINE]Trung bình: +4 [ICON_Housing] Nhà ở.[NEWLINE]Không được mời: +3 Nhà ở [ICON_Housing].[NEWLINE]Thật kinh tởm: +2 Nhà ở [ICON_Housing].</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
-			<Text>A district in your city for industrial activity.</Text>
+			<Text>Một quận trong thành phố của bạn dành cho hoạt động công nghiệp.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Standard [ICON_Production] Production bonus for each adjacent Mine or Quarry. Minor [ICON_Production] Production bonus for adjacent district tiles.</Text>
+			<Text>Vùng lân cận: Tiền thưởng sản xuất [ICON_Production] Tiêu chuẩn cho mỗi Mỏ hoặc Mỏ đá lân cận. Phần thưởng nhỏ [ICON_Production] Sản lượng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
-			<Text>A district in your city specializing in finance and trade.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Harbor district.</Text>
+			<Text>Một quận trong thành phố của bạn chuyên về tài chính và thương mại.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Sức chứa của Tuyến đường Thương mại, nếu thành phố này chưa có quận Harbor.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent Harbor district, or tile edge containing a River. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+			<Text>Vùng lân cận: Phần thưởng vàng chính [ICON_Gold] cho mỗi quận Cảng liền kề hoặc cạnh ô chứa Sông. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
-			<Text>A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center.</Text>
+			<Văn bản>Một quận cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có sẽ nhận được tối đa 6 Nhà ở [ICON_Housing]. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
-			<Text>A district that allows you to build and store aircraft. Cannot be built on Hills.</Text>
+			<Text>Một quận cho phép bạn chế tạo và lưu trữ máy bay. Không thể xây dựng trên Hills.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
-			<Text>A district that is required to construct the Science Victory projects. This includes Launch Earth Satellite, Launch Moon Landing, Mars Colony Habitation, Mars Colony Hydroponics, and Mars Colony Reactor. Cannot be built on Hills.</Text>
+			<Text>Một quận được yêu cầu xây dựng các dự án Science Victory. Điều này bao gồm Phóng vệ tinh trái đất, Phóng hạ cánh trên mặt trăng, Môi trường sống thuộc địa sao Hỏa, Thủy canh thuộc địa sao Hỏa và Lò phản ứng thuộc địa sao Hỏa. Không thể xây dựng trên Hills.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
-			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1 [ICON_Envoy] Envoy when completed.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture bonus for adjacent City Center. +1 [ICON_Culture] Culture bonus for each adjacent wonder and district. Can only be built on Hills.</Text>
+			<Text>Một quận duy nhất của Hy Lạp về các di tích văn hóa. Thay thế quận Quảng trường Nhà hát và rẻ hơn để xây dựng. Phần thưởng 1 [ICON_Envoy] Đặc phái viên khi hoàn thành.[NEWLINE][NEWLINE]+1 [ICON_Culture] Phần thưởng văn hóa cho Trung tâm thành phố lân cận. +1 [ICON_Culture] Phần thưởng văn hóa cho mỗi kỳ quan và quận liền kề. Chỉ có thể được xây dựng trên Đồi.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Standard [ICON_Culture] Culture bonus for adjacent City Center. Standard [ICON_Culture] Culture bonus for each adjacent wonder and district. Can only be built on Hills.</Text>
+			<Text>Liền kề: Phần thưởng văn hóa [ICON_Culture] tiêu chuẩn cho Trung tâm thành phố liền kề. Tiêu chuẩn [ICON_Culture] Phần thưởng văn hóa cho mỗi kỳ quan và quận liền kề. Chỉ có thể được xây dựng trên Đồi.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BATH_DESCRIPTION">
-			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
+			<Text>Một quận duy nhất của Rome để phát triển thành phố. Thay thế quận Aqueduct và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]Nó cung cấp cho thành phố này nguồn nước ngọt từ Sông, Hồ, Ốc đảo hoặc Núi liền kề. Các thành phố chưa có nước ngọt hiện có sẽ nhận được tối đa 6 Nhà ở [ICON_Housing]. Thay vào đó, các thành phố đã có sẵn nước ngọt sẽ nhận được +2 [ICON_Housing] Nhà ở. Phải xây dựng liền kề Trung tâm TP. Trong cả hai trường hợp, Nhà tắm cung cấp phần thưởng bổ sung là +2 [ICON_Housing] Nhà ở và +1 [ICON_Amenities] Tiện nghi. Phải được xây dựng liền kề với Trung tâm Thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
-			<Text>A district unique to Germany for industrial activity. Replaces the Industrial Zone district and cheaper to build.[NEWLINE][NEWLINE]+ 2[ICON_Production] Production bonus if adjacent to a Commercial Hub district. +1 [ICON_Production] Production bonus for each adjacent resource. +1 [ICON_Production] Production bonus for every two adjacent district tiles.</Text>
+			<Text>Một quận duy nhất của Đức cho hoạt động công nghiệp. Thay thế khu Khu công nghiệp và chi phí xây dựng rẻ hơn.[NEWLINE][NEWLINE]+ 2[ICON_Production] Thưởng sản xuất nếu liền kề khu Trung tâm thương mại. +1 [ICON_Production] Phần thưởng sản xuất cho mỗi tài nguyên liền kề. +1 [ICON_Production] Phần thưởng sản xuất cho mỗi hai ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub district. Standard [ICON_Production] Production bonus for each adjacent resource. Minor [ICON_Production] Production bonus for adjacent district tiles.</Text>
+			<Text>Vùng liền kề: Tiền thưởng sản xuất [ICON_Production] chính nếu liền kề với khu Trung tâm thương mại. Tiêu chuẩn [ICON_Production] Phần thưởng sản xuất cho mỗi tài nguyên liền kề. Phần thưởng nhỏ [ICON_Production] Sản lượng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
-			<Text>A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]Your city border grows by one tile each time a Great Person is expended in this city. The Lavra provides +1 [ICON_GreatWriter] Great Writer point per turn with a Shrine, +1 [ICON_GreatArtist] Great Artist point per turn with a Temple, and +1 [ICON_GreatMusician] Great Musician point per turn with a Worship building.</Text>
+			<Text>Một quận duy nhất của Nga dành cho hoạt động tôn giáo. Thay thế quận Thánh địa và rẻ hơn để xây dựng.[NEWLINE][NEWLINE]Biên giới thành phố của bạn tăng thêm một ô mỗi khi một Người vĩ đại được sử dụng trong thành phố này. Lavra cung cấp +1 điểm [ICON_GreatWriter] Nhà văn vĩ đại mỗi lượt với Đền thờ, +1 điểm [ICON_GreatArtist] Nghệ sĩ vĩ đại mỗi lượt với Đền thờ và +1 điểm [ICON_GreatMusician] Nhạc sĩ vĩ đại mỗi lượt với tòa nhà thờ cúng.</Text >
 		</Row>
 		<Row Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
-			<Text>A district unique to Kongo that can only be constructed in Rainforest or Woods. Replaces the Neighborhood district but is available earlier and cheaper to build. Provides +5 [ICON_Housing] Housing , +2 [ICON_Food] Food, and +4 [ICON_Gold] Gold, regardless of Appeal.</Text>
+			<Văn bản>Một quận duy nhất của Kongo chỉ có thể được xây dựng trong Rainforest hoặc Woods. Thay thế khu vực lân cận nhưng có sẵn sớm hơn và rẻ hơn để xây dựng. Cung cấp +5 [ICON_Housing] Nhà ở , +2 [ICON_Food] Thực phẩm và +4 [ICON_Gold] Vàng, bất kể Khiếu nại.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities, and cheaper to build. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed.</Text>
+			<Text>Một quận duy nhất của Brazil. Thay thế khu Khu liên hợp giải trí và cung cấp các tiện ích +2 [ICON_Amenities] và chi phí xây dựng rẻ hơn. Đồng thời mở khóa dự án Lễ hội hóa trang, giúp cấp thêm +1 Tiện ích [ICON_Amenities] khi đang được tiến hành và nhiều điểm [ICON_GreatPerson] Great People sau khi hoàn thành.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
-			<Text>A district unique to England for naval activity in your city. Replaces the Harbor district and cheaper to build. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_Movement] Movement for all naval units built in Dockyard[NEWLINE]+2 [ICON_Gold] Gold when built on a foreign continent[NEWLINE]+1 [ICON_TradeRoute] Trade Route capacity.</Text>
+			<Text>Một quận duy nhất của Anh dành cho hoạt động hải quân trong thành phố của bạn. Thay thế quận Harbour và rẻ hơn để xây dựng. Đồng thời xóa hình phạt Di chuyển [ICON_Movement] đối với việc lên và xuống ô này. Phải được xây dựng trên Địa hình Bờ biển hoặc Hồ liền kề với đất liền.[NEWLINE][NEWLINE]+1 [ICON_Movement] Di chuyển cho tất cả các đơn vị hải quân được xây dựng trong Xưởng đóng tàu[NEWLINE]+2 [ICON_Gold] Vàng khi được xây dựng trên lục địa nước ngoài[NEWLINE]+ 1 [ICON_TradeRoute] Sức chứa của Tuyến giao dịch.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent City Center. Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+			<Text>Vùng lân cận: Phần thưởng vàng [ICON_Gold] chính cho mỗi Trung tâm thành phố lân cận. Tiêu chuẩn [ICON_Gold] Phần thưởng vàng cho mỗi tài nguyên ven biển liền kề. Phần thưởng nhỏ [ICON_Gold] Vàng cho các ô quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_REQUIRE_DISTRICT_Adjacency">
-			<Text>Must be adjacent to an existing district or City Center.</Text>
+			<Text>Phải liền kề với một quận hoặc Trung tâm Thành phố hiện có.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_REQUIRE_NOT_ADJACENT_TO_CITY">
-			<Text>Cannot be adjacent to a City Center.</Text>
+			<Text>Không thể liền kề với Trung tâm thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE1">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE2">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE3">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE4">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_FARM">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Farm {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ Trang trại liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_PLANTATION">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Plantation {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ đồn điền liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Rainforest tiles.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ các ô Rainforest liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_BARRIER_REEF_SCIENCE">
-			<Text>+{1_num} [ICON_SCIENCE] Science from the adjacent natural wonder Great Barrier Reef.</Text>
+			<Text>+{1_num} [ICON_SCIENCE] Khoa học từ kỳ quan thiên nhiên liền kề Great Barrier Reef.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ Rainforest liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Rainforest liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ Rainforest liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_2_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ Rainforest liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : số nhiều 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : số nhiều 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent natural {1_Num : plural 1?wonder; other?wonders;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ {1_Num tự nhiên liền kề : số nhiều 1?wonder; other?wonders;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ ngọn núi liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Woods tile(s).</Text>
+			<Text>+{1_num} [ICON_Faith] Faith từ (các) ô Wood liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent districts.</Text>
+			<Text>+{1_num} [ICON_Faith] Đức tin từ các quận lân cận.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent district.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ quận liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_TUNDRA_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Lãnh nguyên liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DESERT_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Desert {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Sa mạc liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_JUNGLE_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Rainforest {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Rainforest liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Woods {1_Num : plural 1?tile; other?tiles;}.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Khu rừng liền kề {1_Num : số nhiều 1?ô; other?tiles;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent River.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ Sông liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Harbor district.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ quận Cảng liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Royal Navy Dockyard district.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ quận Xưởng đóng tàu của Hải quân Hoàng gia liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : số nhiều 1?district liền kề; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CITY_CENTER_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent City Center district.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ quận Trung tâm Thành phố liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ {1_Num : số nhiều 1?district liền kề; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the adjacent sea {1_Num : plural 1?resource; other?resources;}.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ biển liền kề {1_Num : số nhiều 1?resource; other?resources;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_WONDER_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?wonder; other?wonders;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ {1_Num liền kề : số nhiều 1?wonder; other?wonders;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ {1_Num : số nhiều 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ {1_Num : số nhiều 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ {1_Num : số nhiều 1?district; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
-			<Text>+{1_num} [ICON_Culture] Culture from the adjacent City Center.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ Trung tâm Thành phố liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?Mines; other?Mines;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ {1_Num liền kề : số nhiều 1?Mines; khác?Mỏ;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?Quarry; other?Quarries;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ {1_Num : số nhiều 1?Mỏ đá liền kề; khác?Mỏ đá;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ {1_Num : số nhiều 1?district liền kề; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ {1_Num : số nhiều 1?district liền kề; other?districts;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent Commercial Hub district.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ khu trung tâm thương mại liền kề.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the adjacent {1_Num : plural 1?resource; other?resources;}.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ {1_Num : số nhiều 1?tài nguyên liền kề; other?resources;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Science from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Science] Khoa học từ Kháng cáo của ô.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
-			<Text>+{1_num} [ICON_Culture] Culture from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Culture] Văn hóa từ Kháng cáo của ô.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
-			<Text>+{1_num} [ICON_Production] Production from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Production] Sản xuất từ Kháng cáo của ô.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
-			<Text>+{1_num} [ICON_Gold] Gold from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Gold] Vàng từ Kháng cáo của ô.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_FAITH">
-			<Text>+{1_num} [ICON_Faith] Faith from the tile's Appeal.</Text>
+			<Text>+{1_num} [ICON_Faith] Niềm tin từ Kháng cáo của ô xếp.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
-			<Text>[COLOR_RED]The improvement will be removed when building the district. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Cải tiến sẽ bị xóa khi xây dựng quận. [ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
-			<Text>[COLOR_RED]Need {1_TechName} to remove {2_FeatureName} in order to build the district here. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Cần {1_TechName} xóa {2_FeatureName} để xây dựng quận tại đây. [ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
-			<Text>[COLOR_RED]Placing the district here will remove the {1_FeatureName}. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Đặt quận ở đây sẽ xóa {1_FeatureName}. [ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
-			<Text>[COLOR_RED]Need {1_TechName} to remove {2_ResourceName} in order to build the district here. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Cần {1_TechName} xóa {2_ResourceName} để xây dựng quận tại đây. [ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
-			<Text>[COLOR_RED]Placing the district here will remove the {1_ResourceName}. [ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Đặt quận ở đây sẽ xóa {1_ResourceName}. [ENDCOLOR]</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

@@ -3,242 +3,242 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_TUTORIAL_INTRO_TO_WORLD_CONGRESS">
-			<Text>We have been invited to join the World Congress. On this international stage, we will decide important topics that must be addressed by the world at large, voting on resolutions and agreements between world leaders.[NEWLINE][NEWLINE]The World Congress meets every 30 turns (Standard Speed). During the Congress, players vote on Resolutions and Discussions using their accumulated [ICON_Favor] Diplomatic Favor to influence how the game rules will change until the next time Congress meets.</Text>
+			<Text>Chúng tôi đã được mời tham gia Đại hội Thế giới. Trên sân khấu quốc tế này, chúng ta sẽ quyết định các chủ đề quan trọng mà toàn thế giới phải giải quyết, bỏ phiếu về các nghị quyết và thỏa thuận giữa các nhà lãnh đạo thế giới.[NEWLINE][NEWLINE]Đại hội Thế giới họp 30 vòng một lần (Tốc độ tiêu chuẩn). Trong Đại hội, người chơi bỏ phiếu cho các Nghị quyết và Thảo luận bằng cách sử dụng [ICON_Favor] Ủng hộ Ngoại giao tích lũy được của họ để tác động đến cách các quy tắc trò chơi sẽ thay đổi cho đến khi Đại hội họp vào lần tiếp theo.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_2">
-			<Text>We have been summoned to this Special Session of the World Congress. An Emergency demands the World's attention.[NEWLINE][NEWLINE]Special Sessions may be called every 15 turns (Standard Speed) by players who have been negatively affected by conditions that would give rise to an Emergency.  This might be another player (such as in a Military Emergency) or the environment (such as in a Request for Aid).  During this stage, players who might be involved in the Emergency must vote on the related Discussion.  If the Discussion passes, those players who voted for it will join the Emergency.</Text>
+			<Văn bản>Chúng tôi đã được triệu tập đến Phiên họp đặc biệt này của Đại hội Thế giới. Tình trạng khẩn cấp đòi hỏi sự chú ý của Thế giới.[NEWLINE][NEWLINE]Phiên đặc biệt có thể được gọi sau mỗi 15 lượt (Tốc độ tiêu chuẩn) bởi những người chơi bị ảnh hưởng tiêu cực bởi các điều kiện có thể dẫn đến Tình trạng khẩn cấp. Đây có thể là một người chơi khác (chẳng hạn như trong Trường hợp khẩn cấp về quân sự) hoặc môi trường (chẳng hạn như trong Yêu cầu viện trợ). Trong giai đoạn này, những người chơi có thể tham gia vào Tình trạng khẩn cấp phải bỏ phiếu cho Thảo luận liên quan. Nếu Cuộc thảo luận được thông qua, những người chơi đã bình chọn cho nó sẽ tham gia Tình trạng khẩn cấp.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_OVER">
-			<Text>World Congress is over. It will meet again soon, but in the meantime, take advantage of the new game rules in effect! You can view them by going into Diplomacy and clicking on the top-most icon on the left.</Text>
+			<Text>Đại hội Thế giới đã kết thúc. Sẽ sớm gặp lại nhau, nhưng trong khi chờ đợi, hãy tận dụng các quy tắc trò chơi mới có hiệu lực! Bạn có thể xem chúng bằng cách đi tới Ngoại giao và nhấp vào biểu tượng trên cùng bên trái.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_FLOODPLAIN_REVEAL">
-			<Text>Con sông này có vùng ngập lũ, có nghĩa là nó đã từng bị ngập lụt trước đây và có thể bị vỡ bờ lần nữa. Lũ lụt dọc theo con sông này có thể xảy ra bất cứ lúc nào trong tương lai. Điều này mang đến cho chúng ta những rủi ro, nhưng cũng có thể mang lại lợi ích.[NEWLINE][NEWLINE]Lũ lụt có thể ảnh hưởng đến bất kỳ ô nào dọc theo Sông. Một ô bị ngập nước sẽ cướp hoặc phá hủy Cải tiến và cướp bóc các Quận trên ô, nhưng nó cũng có thể làm tăng sản lượng cho ô.</Text>
+			<Text>Con sông này có vùng ngập lũ, có nghĩa là nó đã từng bị ngập trước đây và có thể bị vỡ bờ một lần nữa. Dọc theo dòng sông có thể xảy ra bất kỳ lúc nào trong tương lai. Điều này mang đến cho chúng ta những rủi ro, nhưng cũng có thể mang lại lợi ích.[NEWLINE][NEWLINE]Lũ ngập có thể ảnh hưởng đến bất kỳ ô nào theo Dọc. Một ô bị ngập nước sẽ cướp hoặc phá hủy cải tiến và cướp bóc các quận trên ô, nhưng nó cũng có thể làm tăng sản lượng cho ô.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_VOLCANO_REVEAL">
-			<Text>This Volcano is quiet now, but it could erupt again at some point in the future. It might be a danger to our people—or an unexpected blessing.[NEWLINE][NEWLINE]An Eruption might affect any tile adjacent to the Volcano. The Eruption will pillage or destroy improvements and pillage districts on the tile, but it might also increase the yields on the tile as a result.</Text>
+			<Văn bản>Núi lửa này hiện đã yên tĩnh, nhưng nó có thể phun trào trở lại vào một thời điểm nào đó trong tương lai. Nó có thể là một mối nguy hiểm cho người dân của chúng tôi—hoặc một phước lành bất ngờ.[NEWLINE][NEWLINE]Một vụ phun trào có thể ảnh hưởng đến bất kỳ ô nào liền kề với Núi lửa. Vụ phun trào sẽ cướp bóc hoặc phá hủy các cải tiến và cướp bóc các quận trên ô, nhưng nó cũng có thể làm tăng sản lượng trên ô.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_GEOTHERMAL_REVEAL">
-			<Text>Steam hisses from the ground here, rising in swirling clouds. This is a Geothermal Fissure—a place where the planet's heat escapes through natural vents.[NEWLINE][NEWLINE]In time, you may research technologies that allow you to make use of these natural features.</Text>
+			<Văn bản>Hơi nước rít lên từ mặt đất ở đây, bốc lên thành những đám mây xoáy. Đây là Khe nứt Địa nhiệt—nơi nhiệt của hành tinh thoát ra ngoài qua các lỗ thông hơi tự nhiên.[NEWLINE][NEWLINE]Trong thời gian tới, bạn có thể nghiên cứu các công nghệ cho phép bạn tận dụng các đặc điểm tự nhiên này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_FIRST_CLIMATE_CHANGE">
-			<Text>The world is warming, and there may be serious consequences to come. Some polar ice has melted, and low-lying settlements may be at risk in the future. If the temperature rises further, additional coastal lowland may flood, eventually sinking beneath the waves. We may want to construct a Flood Barrier in our cities at risk. Climate change will also lead to worsening and more frequent storms and droughts that can even strip the land of earlier fertility gains. You can see information about the world's climate on the Climate Screen at any time.</Text>
+			<Text>Thế giới đang nóng lên và có thể có những hậu quả nghiêm trọng sắp tới. Một số băng ở hai cực đã tan chảy và các khu định cư ở vùng thấp có thể gặp rủi ro trong tương lai. Nếu nhiệt độ tăng cao hơn nữa, vùng đất thấp ven biển bổ sung có thể bị ngập lụt, cuối cùng chìm dưới những con sóng. Chúng tôi có thể muốn xây dựng Rào chắn lũ ở các thành phố có nguy cơ bị ngập lụt. Biến đổi khí hậu cũng sẽ dẫn đến những cơn bão và hạn hán ngày càng trầm trọng và thường xuyên hơn, thậm chí có thể tước đi khả năng sinh sản trước đó của đất đai. Bạn có thể xem thông tin về khí hậu thế giới trên Màn hình khí hậu bất kỳ lúc nào.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CONSUME_POWER_RESOURCE">
-			<Text>Our people have created a new source of power. Even as they rejoice, plumes of smoke rise into the sky. By burning fuel, we are adding CO2 to the atmosphere. Continuing to do so will eventually warm the planet.[NEWLINE][NEWLINE]A warmer planet will cause sea levels to rise and coastal areas to flood. While this threat may happen in the future, you may want to consider how coastal flooding would affect your cities and civilization.</Text>
+			<Text>Nhân dân ta đã tạo ra một nguồn sức mạnh mới. Ngay cả khi họ vui mừng, những cột khói bốc lên bầu trời. Bằng cách đốt cháy nhiên liệu, chúng ta đang bổ sung CO2 vào bầu khí quyển. Tiếp tục làm như vậy cuối cùng sẽ làm hành tinh nóng lên.[NEWLINE][NEWLINE]Một hành tinh ấm hơn sẽ khiến mực nước biển dâng cao và các khu vực ven biển bị ngập lụt. Mặc dù mối đe dọa này có thể xảy ra trong tương lai, nhưng bạn có thể muốn xem xét lũ lụt ven biển sẽ ảnh hưởng như thế nào đến các thành phố và nền văn minh của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_STORM_REVEAL">
-			<Text>The wind howls and rain lashes—A powerful Storm rages across the land! There is danger here, but opportunity as well.[NEWLINE][NEWLINE]The Storm will pass across a number of tiles before dissipating. It will pillage or destroy Improvements and pillage Districts on any tile it crosses, but it might also increase the yields on the tile as a result.</Text>
+			<Text>Gió gào và mưa ập đến—Cơn bão dữ dội hoành hành khắp đất nước! Ở đây có nguy hiểm nhưng cũng có cơ hội.[NEWLINE][NEWLINE]Cơn bão sẽ đi qua một số ô trước khi tan. Nó sẽ cướp bóc hoặc phá hủy Cải tiến và cướp bóc các Quận trên bất kỳ ô nào mà nó đi qua, nhưng kết quả là nó cũng có thể làm tăng sản lượng trên ô đó.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DAM_TECHNOLOGY_UNLOCK">
-			<Text>Our people's discovery means we can regulate the flow of rivers and prevent even in a severe flood. You now have the ability to construct the Dam district.[NEWLINE][NEWLINE]You can build one Dam per river, which will prevent Floods along this River.</Text>
+			<Văn bản>Khám phá của con người chúng ta có nghĩa là chúng ta có thể điều chỉnh dòng chảy của các dòng sông và ngăn chặn ngay cả khi lũ lụt nghiêm trọng. Giờ đây, bạn có khả năng xây dựng quận Đập.[NEWLINE][NEWLINE]Bạn có thể xây dựng một Đập trên mỗi sông để ngăn lũ lụt dọc theo sông này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CANAL_TECHNOLOGY_UNLOCK">
-			<Text>Our people imagine a waterway where none exists yet, and this new discovery may allow them to build it. You now have the ability to construct Canals.[NEWLINE][NEWLINE]These allow naval units and trade caravans to pass through land. A Canal will improve the yield from any Trade Route that passes through it.</Text>
+			<Văn bản>Người dân của chúng tôi hình dung ra một tuyến đường thủy chưa từng tồn tại, và khám phá mới này có thể cho phép họ xây dựng nó. Giờ đây, bạn có khả năng xây dựng Kênh đào.[NEWLINE][NEWLINE]Những kênh đào này cho phép các đơn vị hải quân và đoàn lữ hành đi qua đất liền. Một Kênh đào sẽ cải thiện sản lượng từ bất kỳ Tuyến đường Thương mại nào đi qua nó.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_CONVENE">
-			<Text>Wise minds in many lands propose to solve disputes between civilizations through peaceful counsel. Shall we join the call for a World Congress?[NEWLINE][NEWLINE]The World Congress is an organization of all the civilizations of the world. Successfully using this organization is an essential part of the Diplomatic Victory.</Text>
+			<Văn bản>Những bộ óc thông thái ở nhiều quốc gia đề xuất giải quyết tranh chấp giữa các nền văn minh thông qua cố vấn hòa bình. Chúng ta sẽ tham gia kêu gọi Đại hội Thế giới chứ?[NEWLINE][NEWLINE]Đại hội Thế giới là một tổ chức của tất cả các nền văn minh trên thế giới. Sử dụng thành công tổ chức này là một phần thiết yếu của Chiến thắng Ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_ACCEPT">
-			<Text>Our eloquent arguments have convinced the other civilizations of the world, and our Discussion is accepted!</Text>
+			<Text>Những lập luận hùng hồn của chúng ta đã thuyết phục được các nền văn minh khác trên thế giới và Cuộc thảo luận của chúng ta được chấp nhận!</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_FAIL">
-			<Text>Despite our pleas, we were unable to convince the other civilizations of the world of our cause. Our Discussion was rejected.</Text>
+			<Text>Bất chấp những lời cầu xin của chúng tôi, chúng tôi không thể thuyết phục các nền văn minh khác trên thế giới ủng hộ mục tiêu của chúng tôi. Cuộc thảo luận của chúng tôi đã bị từ chối.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_INTERVENTION_AVAILABLE">
-		  <Text>We have an opportunity to request that players band together to address an Emergency.  Shall we propose this to World Congress?[NEWLINE][NEWLINE]When the conditions are met to trigger an Emergency, affected players can spend [ICON_Favor] Diplomatic Favor to request a Special Session of the World Congress, where players will vote if a Scored Competition should start to combat the situation.</Text>
+		  <Văn bản>Chúng tôi có cơ hội yêu cầu người chơi liên kết với nhau để giải quyết Trường hợp khẩn cấp. Chúng ta có nên đề xuất điều này với Đại hội Thế giới không?[NEWLINE][NEWLINE]Khi các điều kiện được đáp ứng để kích hoạt Tình trạng khẩn cấp, những người chơi bị ảnh hưởng có thể dành [ICON_Favor] Ưu đãi ngoại giao để yêu cầu Phiên họp đặc biệt của Đại hội thế giới, nơi người chơi sẽ bỏ phiếu nếu được ghi điểm Cạnh tranh nên bắt đầu để chống lại tình hình.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_INTERVENTION_PROPOSED_AND_WE_CAN_ADD">
-		  <Text>Another civilization has requested a Special Session of the World Congress to address an Emergency.  We have an Emergency of our own to discuss: shall we add it to the agenda?[NEWLINE][NEWLINE]In a single Special Session, multiple Emergencies may be discussed at once.  Once a Special Session has ended, another cannot be called until a certain number of turns have elapsed: if you want to propose a discussion, now is the time to do it.</Text>
+		  <Văn bản>Một nền văn minh khác đã yêu cầu một Phiên họp đặc biệt của Đại hội Thế giới để giải quyết tình trạng khẩn cấp. Chúng tôi có một Trường hợp khẩn cấp của riêng mình cần thảo luận: chúng ta có nên thêm nó vào chương trình nghị sự không?[NEWLINE][NEWLINE]Trong một Phiên họp đặc biệt duy nhất, nhiều Trường hợp khẩn cấp có thể được thảo luận cùng một lúc. Sau khi Phiên đặc biệt kết thúc, bạn không thể gọi phiên khác cho đến khi hết một số lượt nhất định: nếu bạn muốn đề xuất một cuộc thảo luận, bây giờ là lúc để thực hiện.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_INTERVENTION_PASS">
-			<Text>The World Congress has agreed that civilizations should band together in a common cause. We can work with the other civilizations to gain their approval, or we can choose not to participate in this Intervention.</Text>
+			<Văn bản>Đại hội Thế giới đã đồng ý rằng các nền văn minh nên liên kết với nhau vì mục tiêu chung. Chúng ta có thể làm việc với các nền văn minh khác để được họ chấp thuận hoặc chúng ta có thể chọn không tham gia vào Can thiệp này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_EMERGENCY_1_XP2">
-		  <Text>We have joined together with other civilizations against a larger threat.  If we succeed, we will be rewarded.  But should we fail in our mission, the enemy will become stronger.</Text>
+		  <Text>Chúng ta đã liên kết với các nền văn minh khác để chống lại một mối đe dọa lớn hơn. Nếu chúng ta thành công, chúng ta sẽ được khen thưởng. Nhưng nếu chúng ta thất bại trong nhiệm vụ của mình, kẻ thù sẽ trở nên mạnh mẽ hơn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_SCORED_COMPETITION_BEGUN">
-		  <Text>We are now facing other civilizations in a peaceful competition.  Who will prove the most capable in this activity?  If we perform well, we will walk away with powerful bonuses.</Text>
+		  <Text>Chúng ta hiện đang đối mặt với các nền văn minh khác trong một cuộc cạnh tranh hòa bình. Ai sẽ chứng tỏ khả năng nhất trong hoạt động này? Nếu chúng tôi thể hiện tốt, chúng tôi sẽ nhận được những phần thưởng hấp dẫn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_DENOUNCED">
-			<Text>Whether from frustration or malice, another civilization in the world is angry with our actions. They have Denounced us before the world to show their displeasure. They may be justifying a future war with us. We must beware.</Text>
+			<Text>Cho dù vì thất vọng hay ác ý, một nền văn minh khác trên thế giới đang tức giận với hành động của chúng ta. Họ đã Tố cáo chúng tôi trước thế giới để bày tỏ sự không hài lòng của họ. Họ có thể biện minh cho một cuộc chiến trong tương lai với chúng tôi. Chúng ta phải cẩn thận.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_GENERATES_GRIEVANCE">
-			<Text>We have opposed the will of another civilization, and have angered them. They have a Grievance against us, which may make it more difficult to work with them in the future. </Text>
+			<Text>Chúng ta đã chống lại ý chí của một nền văn minh khác, và chọc giận họ. Họ có Khiếu nại chống lại chúng tôi, điều này có thể khiến việc hợp tác với họ trong tương lai trở nên khó khăn hơn. </Văn bản>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_AI_GENERATES_GRIEVANCE">
-			<Text>Another civilization's actions are an affront to our dignity. We have a Grievance against them, which may justify our actions against them to the other civilizations. </Text>
+			<Text>Hành động của một nền văn minh khác là sự xúc phạm đến phẩm giá của chúng ta. Chúng tôi có một Khiếu nại chống lại họ, điều này có thể biện minh cho hành động của chúng tôi chống lại họ đối với các nền văn minh khác. </Văn bản>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_GAINS_FAVOR">
-			<Text>The World Congress approves of our actions with regard to this Resolution. We have gained a Diplomatic Favor with the other civilizations.</Text>
+			<Văn bản>Đại hội Thế giới chấp thuận các hành động của chúng tôi liên quan đến Nghị quyết này. Chúng ta đã đạt được Ưu đãi Ngoại giao với các nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_CB_REVOKED">
-			<Text>The World Congress has determined that our Casus Belli for our current war was not justified. We no longer claim diplomatic benefit from it. We must be cautious, lest we be isolated diplomatically.</Text>
+			<Text>Đại hội Thế giới đã xác định rằng Casus Belli của chúng ta cho cuộc chiến hiện tại của chúng ta là không chính đáng. Chúng tôi không còn yêu cầu lợi ích ngoại giao từ nó. Chúng ta phải thận trọng, kẻo bị cô lập về ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CIV_MAKES_REQUEST">
-			<Text>Another Civilization in the world has made a formal Request to you. Your response to this diplomatic gesture in this pivotal moment will decide the future of your relationship with this Civilization.[NEWLINE][NEWLINE]Depending on how you respond to the Request and behave afterwards, other options may be available to this Civilization—including Casus Belli becoming available.</Text>
+			<Text>Một nền văn minh khác trên thế giới đã đưa ra Yêu cầu chính thức cho bạn. Phản ứng của bạn đối với cử chỉ ngoại giao này trong thời điểm quan trọng này sẽ quyết định tương lai mối quan hệ của bạn với Nền văn minh này.[NEWLINE][NEWLINE]Tùy thuộc vào cách bạn phản hồi Yêu cầu và hành xử sau đó, các tùy chọn khác có thể có sẵn cho Nền văn minh này—bao gồm cả Casus Belli sắp có sẵn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_PLAYER_ABLE_REQUEST">
-			<Text>A political situation of importance has arisen involving another Civilization in the world. You may make a Request of another Civilization. These Requests represent pivotal moments in your relationship with the other Civilizations.[NEWLINE][NEWLINE]Depending on how the other Civilization responds, other diplomatic options may become available to you—including Casus Belli to justify a war with that Civilization.</Text>
+			<Text>Một tình huống chính trị quan trọng đã phát sinh liên quan đến một nền văn minh khác trên thế giới. Bạn có thể yêu cầu một nền văn minh khác. Những Yêu cầu này đại diện cho những thời điểm quan trọng trong mối quan hệ của bạn với các Nền văn minh khác.[NEWLINE][NEWLINE]Tùy thuộc vào cách Nền văn minh kia phản ứng, bạn có thể có các lựa chọn ngoại giao khác—bao gồm cả Casus Belli để biện minh cho một cuộc chiến với Nền văn minh đó.</Text >
 		</Row>
 		<Row Tag="LOC_TUTORIAL_STRATEGIC_RESOURCE_AVAILABLE">
-			<Text>We have begun to accumulate a Strategic Resource! Our people know this new Resource may be essential for building certain military units and they will stockpile it for future use. We should manage our use of this Resource to make the most of it.</Text>
+			<Text>Chúng tôi đã bắt đầu tích lũy Tài nguyên chiến lược! Người dân của chúng tôi biết rằng Tài nguyên mới này có thể cần thiết để xây dựng một số đơn vị quân đội nhất định và họ sẽ dự trữ nó để sử dụng trong tương lai. Chúng ta nên quản lý việc sử dụng Tài nguyên này để tận dụng tối đa.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_UNIT_REQUIRES_FUEL_BUILT">
-			<Text>We are now able to train a military unit that requires a strategic resource. If we do not keep an adequate supply of the resource in our stockpile, it will be much less effective in battle.[NEWLINE][NEWLINE]These units will require a constant supply of resources. We should ensure we have supplies of those resources on hand.</Text>
+			<Văn bản>Chúng tôi hiện có thể huấn luyện một đơn vị quân đội cần có nguồn lực chiến lược. Nếu chúng tôi không giữ đủ nguồn cung cấp tài nguyên trong kho dự trữ của mình, nó sẽ kém hiệu quả hơn nhiều trong trận chiến.[NEWLINE][NEWLINE]Các đơn vị này sẽ yêu cầu nguồn cung cấp tài nguyên liên tục. Chúng ta nên đảm bảo rằng chúng ta có sẵn nguồn cung cấp các tài nguyên đó.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_POWER_REQUIRED_BUILDABLE">
-			<Text>Our wisest minds have developed plans to build a new device, but it will require a regular source of Power that is greater than human effort. We must develop a way to provide our cities with Power if we are to use it.</Text>
+			<Văn bản>Những bộ óc khôn ngoan nhất của chúng tôi đã phát triển các kế hoạch chế tạo một thiết bị mới, nhưng nó sẽ yêu cầu một nguồn Năng lượng thường xuyên lớn hơn nỗ lực của con người. Chúng ta phải phát triển một cách để cung cấp Điện cho các thành phố của mình nếu chúng ta muốn sử dụng nó.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DIRTY_POWER_AVAILABLE">
-			<Text>We have learned of a method to supply Power to our city, but it will require us to burn Fuel. This source will produce smoke and pollution, so we must weigh the costs and benefits carefully.</Text>
+			<Văn bản>Chúng tôi đã học được một phương pháp cung cấp Điện cho thành phố của chúng tôi, nhưng nó sẽ yêu cầu chúng tôi đốt cháy Nhiên liệu. Nguồn này sẽ tạo ra khói và ô nhiễm, vì vậy chúng ta phải cân nhắc chi phí và lợi ích một cách cẩn thận.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CLEAN_POWER_AVAILABLE">
-			<Text>Excellent news! We have a new method of producing Power — one which will not pollute the world by burning Fuel. This will allow us to supply Power to our cities without risking damage to the environment.</Text>
+			<Văn bản>Tin tuyệt vời! Chúng tôi có một phương pháp sản xuất Năng lượng mới - một phương pháp sẽ không gây ô nhiễm thế giới bằng cách đốt cháy Nhiên liệu. Điều này sẽ cho phép chúng tôi cung cấp điện cho các thành phố của mình mà không gây nguy hiểm cho môi trường.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_CITY_POWER_SHORTAGE">
-			<Text>Work in this city proceeds fitfully, for the city is short of Power. If we do not have enough resources stockpiled, our units, cities, and civilization will not achieve their greatest potential.[NEWLINE][NEWLINE]We should build a building that provides Power to this city.</Text>
+			<Text>Công việc trong thành phố này diễn ra một cách phù hợp, vì thành phố đang thiếu điện. Nếu chúng ta không dự trữ đủ tài nguyên, các đơn vị, thành phố và nền văn minh của chúng ta sẽ không đạt được tiềm năng lớn nhất của chúng.[NEWLINE][NEWLINE]Chúng ta nên xây dựng một tòa nhà cung cấp năng lượng cho thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_NEGATIVE_RESOURCE_RATE">
-			<Text>There is greater demand for our Resources now, and our stockpiles are in danger of depletion. If this happens, our units will become much less effective.[NEWLINE][NEWLINE]If we run out of Resources, any unit that requires these Resources will be much less effective in combat. We may wish to consider building fewer units, or finding ways to make better use of the Resources we have.</Text>
+			<Văn bản>Hiện tại, nhu cầu về Tài nguyên của chúng tôi lớn hơn và kho dự trữ của chúng tôi có nguy cơ cạn kiệt. Nếu điều này xảy ra, các đơn vị của chúng tôi sẽ trở nên kém hiệu quả hơn nhiều.[NEWLINE][NEWLINE]Nếu chúng tôi hết Tài nguyên, bất kỳ đơn vị nào yêu cầu các Tài nguyên này sẽ kém hiệu quả hơn nhiều trong chiến đấu. Chúng tôi có thể cân nhắc việc xây dựng ít đơn vị hơn hoặc tìm cách tận dụng tốt hơn các Tài nguyên mà chúng tôi có.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_EXOPLANET_PROJECT_AVAILABLE">
-			<Text>Our scientists and engineers believe they can construct a ship capable of carrying colonists to a new home on a distant world. To accomplish this feat would be the greatest technological achievement of human history, and would secure our civilization's place in history.</Text>
+			<Văn bản>Các nhà khoa học và kỹ sư của chúng tôi tin rằng họ có thể chế tạo một con tàu có khả năng chở những người thuộc địa đến một ngôi nhà mới trên một thế giới xa xôi. Hoàn thành kỳ tích này sẽ là thành tựu công nghệ vĩ đại nhất trong lịch sử loài người và sẽ đảm bảo vị trí của nền văn minh chúng ta trong lịch sử.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_EXOPLANET_SUPPORT_PROJECT_AVAILABLE">
-			<Text>Our spaceship to settle a distant world has departed on its journey, but there are yet more opportunities available to help it on its way. We can construct additional projects that will speed the journey.</Text>
+			<Văn bản>Tàu vũ trụ của chúng tôi để giải quyết một thế giới xa xôi đã khởi hành trên hành trình của nó, nhưng vẫn còn nhiều cơ hội hơn để giúp đỡ nó trên con đường của mình. Chúng ta có thể xây dựng các dự án bổ sung để đẩy nhanh hành trình.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_FUTURE_ERA_IMMINENT">
-			<Text>The mysteries of science and the questions of culture are still open to us, but now the connections between discoveries are tantalizingly dim. As our investigations proceed, the relationship between technologies and civics will reveal themselves in time.</Text>
+			<Văn bản>Những bí ẩn của khoa học và những câu hỏi về văn hóa vẫn mở ra trước mắt chúng ta, nhưng giờ đây, mối liên hệ giữa những khám phá đang mờ nhạt một cách khó hiểu. Khi các cuộc điều tra của chúng tôi được tiến hành, mối quan hệ giữa công nghệ và quyền công dân sẽ tự bộc lộ theo thời gian.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_BUILD_ROUTE_MOUNTAIN_AVAILABLE">
-			<Text>Mountains that brush the heavens might daunt others, but our people have the knowledge of ways to cross them. Crossing mountains will make travel easier for our units—as well as those of our foes.</Text>
+			<Text>Những ngọn núi cao vút qua bầu trời có thể làm nản lòng những người khác, nhưng người dân của chúng tôi có kiến thức về cách vượt qua chúng. Băng qua núi sẽ giúp việc đi lại dễ dàng hơn cho các đơn vị của chúng ta—cũng như của kẻ thù.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_BUILD_RAILROAD_AVAILABLE">
-			<Text>A Railroad is an expensive undertaking, but it will boost our trade power and the speed of our units along its line. We should consider where to build these.	Military Engineers will be required for the task.</Text>
+			<Text>Đường sắt là một công việc tốn kém, nhưng nó sẽ tăng cường sức mạnh thương mại của chúng ta và tốc độ của các đơn vị dọc theo tuyến đường này. Chúng ta nên xem xét nơi để xây dựng những thứ này. Công binh sẽ được yêu cầu cho nhiệm vụ này.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_BUILD_ROCKBAND_AVAILABLE">
-			<Text>Our civilization has the ability to recruit Rock Bands! These world-class performers can be purchased with Faith in a city. Send them on tour to distant lands to perform concerts and generate Tourism for our civilization.</Text>
+			<Text>Nền văn minh của chúng ta có khả năng chiêu mộ các Ban nhạc Rock! Những người biểu diễn đẳng cấp thế giới này có thể được mua bằng Faith in a city. Gửi họ đi lưu diễn đến những vùng đất xa xôi để biểu diễn các buổi hòa nhạc và tạo ra ngành Du lịch cho nền văn minh của chúng ta.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_BUILD_COASTAL_LOWLANDS">
-			<Text>Our people have chosen to create a city along the low coast, within the sound of the ocean's waves. But this is low land, and will flood if the sea level rises.</Text>
+			<Văn bản>Người dân của chúng tôi đã chọn tạo ra một thành phố dọc theo bờ biển thấp, trong tiếng sóng của đại dương. Nhưng đây là vùng đất thấp, và sẽ bị ngập lụt nếu mực nước biển dâng cao.</Text>
 		</Row>
 		<!-- Super Advisor Lines -->
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WELCOME">
-			<Text>Chào mừng đến với Civilization VI: Gathering Storm! Hướng dẫn này sẽ giới thiệu cho bạn các tính năng mới trong bản mở rộng này. Thông tin bổ sung có thể được tìm thấy trong các mẹo của Civilopedia và Advisor.</Text>
+			<Text>Chào mừng đến với Civilization VI: Gathering Storm! Hướng dẫn này sẽ giới thiệu cho bạn các tính năng mới trong bản mở rộng này. Thông tin bổ sung có thể được tìm thấy trong các mẹo của Civilopedia và Cố vấn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS">
-			<Text>HHH The World Congress is where you make your voice heard amongst the other civilizations in the world. It is also an important part of the new Diplomatic Victory. Proposals are sent before the World Congress for vote, and come in two types: Resolutions and Discussions.</Text>
+			<Text>HHH Đại hội Thế giới là nơi bạn thể hiện tiếng nói của mình giữa các nền văn minh khác trên thế giới. Đó cũng là một nội dung quan trọng của Thắng lợi ngoại giao mới. Các đề xuất được gửi trước Đại hội Thế giới để bỏ phiếu và có hai loại: Nghị quyết và Thảo luận.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS">
-			<Text>{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3}</Text>
+			<Văn bản>{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3}</Văn bản>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1">
-			<Text>Resolutions affect all civilizations, such as banning a Luxury Resource or gaining extra [ICON_Amenities] Amenities from each copy of the resource.</Text>
+			<Text>Các nghị quyết ảnh hưởng đến tất cả các nền văn minh, chẳng hạn như cấm Tài nguyên sang trọng hoặc nhận thêm [ICON_Amenities] Tiện ích từ mỗi bản sao của tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2">
-			<Text>Discussions are potential Scored Competitions or Emergencies that members of the World Congress may join, like World Games or a Religious Emergency.</Text>
+			<Text>Các cuộc thảo luận là các Cuộc thi tính điểm hoặc Trường hợp khẩn cấp tiềm năng mà các thành viên của Đại hội Thế giới có thể tham gia, như Thế vận hội hoặc Trường hợp khẩn cấp về tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3">
-			<Text>Members can summon a Special Session if they have an Emergency they need addressed, like a request for aid after a natural disaster.</Text>
+			<Text>Các thành viên có thể triệu tập Phiên họp đặc biệt nếu họ gặp trường hợp khẩn cấp cần giải quyết, chẳng hạn như yêu cầu viện trợ sau thảm họa thiên nhiên.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR">
-			<Text>[ICON_Favor] Diplomatic Favor is a new form of currency in the game. Your diplomatic actions will earn you [ICON_Favor] Diplomatic Favor that can be used in the World Congress to help you or hinder others.</Text>
+			<Text>[ICON_Favor] Ưu đãi ngoại giao là một hình thức tiền tệ mới trong trò chơi. Các hành động ngoại giao của bạn sẽ giúp bạn kiếm được [ICON_Favor] Sự ủng hộ ngoại giao có thể được sử dụng trong Đại hội Thế giới để giúp bạn hoặc cản trở người khác.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS">
-			<Text>{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3}</Text>
+			<Văn bản>{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3}</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1">
-			<Text>[ICON_Favor] Diplomatic Favor can be earned through Alliances, City States of which you are the Suzerain, success in Scored Competitions, and more.</Text>
+			<Text>[ICON_Favor] Có thể kiếm được Ưu đãi ngoại giao thông qua các Liên minh, Thành phố mà bạn là Chủ nhân, thành công trong các Cuộc thi tính điểm, v.v.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2">
-			<Text>There are major and minor ways to gain [ICON_Favor] Diplomatic Favor through a game.  Some actions will grant a large payout of Favor all at once, and some will grant it slowly over time.  Try trading for other players' Favor to strengthen your position in World Congress.</Text>
+			<Text>Có nhiều cách chính và phụ để đạt được [ICON_Favor] Ưu đãi ngoại giao thông qua một trò chơi. Một số hành động sẽ cấp một khoản tiền Ưu đãi lớn cùng một lúc và một số sẽ cấp nó từ từ theo thời gian. Hãy thử đổi lấy Sự ủng hộ của người chơi khác để củng cố vị trí của bạn trong Đại hội Thế giới.</Text>
 		</Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3">
-      <Text>You can spend your [ICON_Favor] Diplomatic Favor to extract promises from other players, call Special Sessions of Congress, and buy votes in World Congress.  Or save up Diplomatic Favor throughout the game to pursue Diplomatic Victory Points in the later eras.</Text>
+      <Text>Bạn có thể sử dụng Ưu đãi ngoại giao [ICON_Favor] của mình để nhận được lời hứa từ những người chơi khác, gọi Phiên họp đặc biệt của Quốc hội và mua phiếu bầu trong Đại hội thế giới. Hoặc tiết kiệm Ưu đãi Ngoại giao trong suốt trò chơi để theo đuổi Điểm Chiến thắng Ngoại giao trong các thời đại sau.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY">
-      <Text>Gather Diplomatic Victory Points to pursue the new Diplomatic Victory.</Text>
+      <Text>Thu thập Điểm Chiến thắng Ngoại giao để theo đuổi Chiến thắng Ngoại giao mới.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS">
-      <Text>{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3}</Text>
+      <Văn bản>{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3}</Văn bản>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1">
-      <Text>When World Congress meets, there will be a number of Resolutions available for determination.  When voting resolves, all players will receive a Diplomatic Victory Point for each Resolution for which they chose the winning target and option.</Text>
+      <Văn bản>Khi Đại hội Thế giới nhóm họp, sẽ có một số Nghị quyết để quyết định. Khi quyết định bỏ phiếu, tất cả người chơi sẽ nhận được Điểm Chiến thắng Ngoại giao cho mỗi Nghị quyết mà họ đã chọn mục tiêu và tùy chọn chiến thắng.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2">
-      <Text>Starting in the Modern Era, players will be able to use their [ICON_Favor] Diplomatic Favor in World Congress to compete for Diplomatic Victory Points.  Win the Resolution to bring yourself closer to victory, or to prevent other players from achieving their own.</Text>
+      <Text>Bắt đầu từ Kỷ nguyên Hiện đại, người chơi sẽ có thể sử dụng Ưu đãi Ngoại giao [ICON_Favor] của họ trong Đại hội Thế giới để tranh giành Điểm Chiến thắng Ngoại giao. Giành chiến thắng trong Nghị quyết để đưa bạn đến gần hơn với chiến thắng hoặc để ngăn những người chơi khác đạt được mục tiêu của họ.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3">
-      <Text>Emergencies such as Aid Requests and World Games will provide Diplomatic Victory Points to the players who get the highest score.</Text>
+      <Text>Các trường hợp khẩn cấp như Yêu cầu viện trợ và Thế vận hội sẽ cung cấp Điểm Chiến thắng Ngoại giao cho những người chơi đạt điểm cao nhất.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES">
-      <Text>The previous Warmongering system has been replaced with a new representation of how other players view your warlike actions: [ICON_STAT_GRIEVANCE] Grievances.</Text>
+      <Text>Hệ thống Hâm nóng trước đây đã được thay thế bằng một cách trình bày mới về cách những người chơi khác nhìn nhận các hành động hiếu chiến của bạn: [ICON_STAT_GRIEVANCE] Khiếu nại.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS">
       <Text>{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3}</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1">
-      <Text>Now, when other players wrong you by Denouncement, Declaration of War, or capturing or razing one of your cities, you gain [ICON_STAT_GRIEVANCE] Grievances against them and may retaliate in kind with the world's approval.  No longer will you be Denounced for a fair, punitive city capture after an unjustified war.</Text>
+      <Text>Bây giờ, khi những người chơi khác làm bạn sai lầm bằng cách Tố cáo, Tuyên bố Chiến tranh hoặc chiếm giữ hoặc san bằng một trong các thành phố của bạn, bạn sẽ nhận được [ICON_STAT_GRIEVANCE] Khiếu nại chống lại họ và có thể trả đũa bằng hiện vật với sự chấp thuận của thế giới. Bạn sẽ không còn bị Tố cáo vì đánh chiếm thành phố một cách công bằng, trừng phạt sau một cuộc chiến tranh phi lý.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2">
-      <Text>You may also use [ICON_STAT_GRIEVANCE] Grievances to request Promises from other players.  If the other player continues to go against your wishes that you indicate in this manner, they will continually generate [ICON_STAT_GRIEVANCE] Grievances that you can use to justify a war against them.</Text>
+      <Text>Bạn cũng có thể sử dụng [ICON_STAT_GRIEVANCE] Khiếu nại để yêu cầu Lời hứa từ những người chơi khác. Nếu người chơi khác tiếp tục đi ngược lại mong muốn của bạn mà bạn chỉ ra theo cách này, họ sẽ liên tục tạo [ICON_STAT_GRIEVANCE] Khiếu nại mà bạn có thể sử dụng để biện minh cho cuộc chiến chống lại họ.</Text>
     </Row>
     <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3">
-      <Text>But the world at large still pays attention to the overall [ICON_STAT_GRIEVANCE] Grievances that other players have against you.  If you have grieved others more than they have grieved you, third-parties will notice, and it will impact their opinion of you.</Text>
+      <Text>Nhưng thế giới nói chung vẫn chú ý đến [ICON_STAT_GRIEVANCE] Khiếu nại tổng thể mà những người chơi khác dành cho bạn. Nếu bạn làm người khác buồn nhiều hơn mức họ làm bạn buồn, thì các bên thứ ba sẽ nhận thấy và điều đó sẽ tác động đến quan điểm của họ về bạn.</Text>
     </Row>    
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT">
-			<Text>In Civilization VI: Gathering Storm, the environment around you is more alive than ever before. Natural disasters like floods, storms, and volcanoes can pillage or destroy your Improvements and Districts—but they might refresh and enrich the lands after they pass.</Text>
+			<Text>Trong Civilization VI: Gathering Storm, môi trường xung quanh bạn sống động hơn bao giờ hết. Các thảm họa thiên nhiên như lũ lụt, bão và núi lửa có thể cướp bóc hoặc phá hủy các Cải tiến và Quận của bạn—nhưng chúng có thể làm tươi mới và làm giàu các vùng đất sau khi chúng đi qua.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAILS">
-			<Text>{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2}</Text>
+			<Văn bản>{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2}</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1">
-			<Text>From Blizzards to Dust Storms, from Tornadoes to Hurricanes, storms are another challenge to overcome.</Text>
+			<Text>Từ Bão tuyết đến Bão bụi, từ Lốc xoáy đến Cuồng phong, bão là một thử thách khác cần phải vượt qua.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2">
-			<Text>Flooded rivers may damage your improvements, but they might improve the [ICON_Food] Food yield on a tile, too.</Text>
+			<Text>Những dòng sông bị ngập lụt có thể làm hỏng các cải tiến của bạn, nhưng chúng cũng có thể cải thiện sản lượng lương thực [ICON_Food] trên một ô.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_VOLCANOES">
-			<Text>Volcanoes are high risk, but high reward, settlement locations. Volcanic eruptions can pillage or destroy improvements, districts, and buildings, and even kill or damage units. But volcanic soil is highly valuable and very fertile.</Text>
+			<Văn bản>Núi lửa là địa điểm định cư, rủi ro cao nhưng phần thưởng cao. Các vụ phun trào núi lửa có thể cướp bóc hoặc phá hủy các cải tiến, quận và tòa nhà, thậm chí giết chết hoặc làm hư hại các đơn vị. Nhưng đất núi lửa rất có giá trị và rất màu mỡ.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_GEOTHERMAL">
-			<Text>Geothermal Fissures are new features that provide benefits to nearby buildings or districts like additional [ICON_Amenities] Amenities or [ICON_Tourism] Tourism.</Text>
+			<Text>Khe nứt địa nhiệt là các tính năng mới mang lại lợi ích cho các tòa nhà hoặc quận lân cận như các tiện nghi bổ sung [ICON_Amenities] hoặc [ICON_Tourism] Du lịch.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES">
-			<Text>Strategic resources have been divided into two types: Fuel and Material. Fuel resources are used to meet the [ICON_Power] Power needs of your cities, whereas Material resources are required to produce resource-dependent units.</Text>
+			<Text>Tài nguyên chiến lược được chia thành hai loại: Nhiên liệu và Nguyên liệu. Tài nguyên nhiên liệu được sử dụng để đáp ứng nhu cầu Năng lượng [ICON_Power] của các thành phố của bạn, trong khi tài nguyên Vật liệu được yêu cầu để sản xuất các đơn vị phụ thuộc vào tài nguyên.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAILS">
 			<Text>{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2}</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1">
-			<Text>Manage the [ICON_Power] Power in your city to make late-game buildings more effective.</Text>
+			<Text>Quản lý sức mạnh [ICON_Power] trong thành phố của bạn để làm cho các tòa nhà vào cuối trò chơi hiệu quả hơn.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2">
-			<Text>Trade Material Resources and Fuel with other civilizations.</Text>
+			<Text>Trao đổi Tài nguyên Vật liệu và Nhiên liệu với các nền văn minh khác.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES">
-			<Text>Your choices about resource usage will directly affect the world’s temperature, and can cause rising sea levels. Some coastal tiles will be at risk of becoming flooded or completely submerged. When settling cities, consider the risk of these coastal lowland tiles, but keep in mind that in the Atomic era, Flood Barriers can be used to protect these tiles. </Text>
+			<Văn bản>Lựa chọn của bạn về việc sử dụng tài nguyên sẽ ảnh hưởng trực tiếp đến nhiệt độ thế giới và có thể khiến mực nước biển dâng cao. Một số viên gạch ven biển sẽ có nguy cơ bị ngập hoặc ngập hoàn toàn. Khi định cư ở các thành phố, hãy xem xét rủi ro của những viên gạch đất thấp ven biển này, nhưng hãy nhớ rằng trong kỷ nguyên Nguyên tử, Rào cản Lũ lụt có thể được sử dụng để bảo vệ những viên gạch này. </Văn bản>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAILS">
 			<Text>{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3}</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1">
-			<Text>Burning Fuel heats up the atmosphere, leading to melted ice caps and rising sea levels.</Text>
+			<Text>Việc đốt cháy nhiên liệu làm nóng bầu khí quyển, dẫn đến băng tan và mực nước biển dâng cao.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2">
-			<Text>Your Settler will now tell you if you are building a city in low area near a coast.</Text>
+			<Text>Người định cư của bạn bây giờ sẽ cho bạn biết nếu bạn đang xây dựng một thành phố ở khu vực thấp gần bờ biển.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3">
-			<Text>The Flood Barrier will help protect your city from the rising sea.</Text>
+			<Text>Rào chắn lũ sẽ giúp bảo vệ thành phố của bạn khỏi nước biển dâng.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_MORE">
-			<Text>There is plenty more to explore in Civilization VI: Gathering Storm including new eras in the Technology and Civics Trees, new Historic Moments, new global units including the Giant Death Robot, leaders and civilizations that synergize with new systems, and more.</Text>
+			<Văn bản>Còn nhiều điều nữa để khám phá trong Civilization VI: Gathering Storm, bao gồm các kỷ nguyên mới trong Cây Công nghệ và Công dân, Khoảnh khắc Lịch sử mới, các đơn vị toàn cầu mới bao gồm Robot Tử thần Khổng lồ, các nhà lãnh đạo và nền văn minh phối hợp với các hệ thống mới, v.v. </Văn bản>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END">
-			<Text>Will your civilization weather the gathering storm? How will you rule in Sid Meier's Civilization VI?</Text>
+			<Text>Liệu nền văn minh của bạn có vượt qua được cơn bão tập trung? Bạn sẽ cai trị như thế nào trong Sid Meier's Civilization VI?</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END_DETAILS_1">
-			<Text>You can always review this information by consulting the advisor, checking the Civilopedia, or reopening this tutorial in the Pause menu. </Text>
+			<Văn bản>Bạn luôn có thể xem lại thông tin này bằng cách hỏi ý kiến cố vấn, kiểm tra Civilopedia hoặc mở lại hướng dẫn này trong menu Tạm dừng. </Văn bản>
 		</Row>
     <!--City Panel Advisor-->
     <Row Tag="LOC_ADVISOR_CITYPANEL_POWER_INTRO">

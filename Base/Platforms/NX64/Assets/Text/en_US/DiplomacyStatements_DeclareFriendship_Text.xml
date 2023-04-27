@@ -5,322 +5,322 @@
 
 		<!-- AI accepts from human -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
-			<Text>We are pleased to accept your offer of friendship.</Text>
+			<Text>Chúng tôi rất vui lòng chấp nhận lời đề nghị kết bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>On behalf of the people of Kongo, I accept your friendship and good will.</Text>
+			<Text>Thay mặt cho người dân Kongo, tôi chấp nhận tình bạn và thiện chí của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I accept your offer of friendship. And of course, you'll be invited to the next royal wedding.</Text>
+			<Text>Tôi chấp nhận lời đề nghị kết bạn của bạn. Và tất nhiên, bạn sẽ được mời đến dự đám cưới hoàng gia tiếp theo.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Text>Very well. I only hope you are more a Mark Antony than a Brutus.</Text>
+			<Văn bản>Rất tốt. Tôi chỉ hy vọng bạn là một Mark Antony hơn là một Brutus.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>A strong ally is the greatest friend. Let us live in peace.</Text>
+			<Text>Một đồng minh mạnh mẽ là người bạn tốt nhất. Chúng ta hãy sống trong hòa bình.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>I accept your offer of friendship. May it be blessed with peace.</Text>
+			<Text>Tôi chấp nhận lời đề nghị kết bạn của bạn. Mong nó được ban phước với hòa bình.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Gilgamesh is happy to accept your friendship. Let the world know you are my sworn friend!</Text>
+			<Text>Gilgamesh rất vui được chấp nhận tình bạn của bạn. Hãy cho cả thế giới biết bạn là bạn chí cốt của tôi!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>You have proven to be a good friend of Sparta. I will accept on behalf of my people.</Text>
+			<Text>Bạn đã chứng tỏ là một người bạn tốt của Sparta. Tôi sẽ thay mặt người của mình chấp nhận.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>Friends? Yes, I am a friend.</Text>
+			<Văn bản>Bạn bè? Vâng, tôi là một người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>I see in you the peace and tranquility of a warrior, and I welcome that friendship.</Text>
+			<Text>Tôi nhìn thấy ở bạn sự yên bình và thanh thản của một chiến binh, và tôi hoan nghênh tình bạn đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>We are pleased to accept your offer of friendship.</Text>
+			<Text>Chúng tôi rất vui lòng chấp nhận lời đề nghị kết bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>On behalf of the Democracy, I accept your friendship.</Text>
+			<Text>Thay mặt cho nền Dân chủ, tôi chấp nhận tình bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-			<Text>Your offer is kind. I accept, for the good of my people and yours.</Text>
+			<Văn bản>Đề nghị của bạn thật tử tế. Tôi chấp nhận, vì lợi ích của người dân của tôi và của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>You are blessed by God, and a friend to me. Let the world know you are protected by His might.</Text>
+			<Text>Bạn được Chúa ban phước lành, và là một người bạn của tôi. Hãy cho thế giới biết bạn được bảo vệ bởi sức mạnh của Ngài.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>You have proven yourself a worthy friend to the Middle Kingdom, we accept your offer.</Text>
+			<Text>Bạn đã chứng tỏ mình là một người bạn xứng đáng với Vương quốc Trung tâm, chúng tôi chấp nhận lời đề nghị của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>I understand now that you are a friend to my nation. Let us declare our friendship to the world.</Text>
+			<Text>Bây giờ tôi hiểu rằng bạn là một người bạn của đất nước tôi. Chúng ta hãy tuyên bố tình bạn của chúng ta với thế giới.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>I can't say no to that.</Text>
+			<Text>Tôi không thể từ chối điều đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
-			<Text>I will accept your friendship, but do not betray my trust.</Text>
+			<Text>Tôi sẽ chấp nhận tình bạn của bạn, nhưng đừng phản bội lòng tin của tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Let it be known that your Empire is a friend to ours, and that we are joined together in friendship.</Text>
+			<Text>Hãy cho mọi người biết rằng Đế chế của bạn là một người bạn của chúng tôi và rằng chúng ta gắn bó với nhau trong tình bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>Yes, this pleases us. Our two nations will surely benefit from our friendship.</Text>
+			<Văn bản>Vâng, điều này làm hài lòng chúng tôi. Hai quốc gia chúng ta chắc chắn sẽ được hưởng lợi từ tình hữu nghị của chúng ta.</Text>
 		</Row>
 
 		<!-- AI Rejects from human -->
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Chúng tôi không quan tâm vào lúc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
-			<Text>Kongo is not ready to accept your friendship. Let our relationship ripen first.</Text>
+			<Text>Kongo chưa sẵn sàng chấp nhận tình bạn của bạn. Hãy để mối quan hệ của chúng ta chín muồi trước.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I apologize, but this would be too sudden a change. Perhaps another time?</Text>
+			<Text>Tôi xin lỗi, nhưng đây là một sự thay đổi quá đột ngột. Có lẽ để lúc khác?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
-			<Text>Hah! I have counted Caesars and Pharaohs among my companions, what makes you think you are worthy?</Text>
+			<Văn bản>Ha! Ta đã tính Caesars và Pharaohs trong số những người bạn đồng hành của mình, điều gì khiến bạn nghĩ rằng bạn xứng đáng?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
-			<Text>No, I cannot accept your friendship, for the good of the Empire.</Text>
+			<Text>Không, tôi không thể chấp nhận tình bạn của bạn, vì lợi ích của Đế quốc.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
-			<Text>I am sorry, but I cannot enter into this agreement with you. Please understand, it is only for the best.</Text>
+			<Văn bản>Tôi xin lỗi, nhưng tôi không thể tham gia vào thỏa thuận này với bạn. Xin hãy hiểu, nó chỉ dành cho điều tốt nhất.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
-			<Text>Gilgamesh is no friend to you.</Text>
+			<Text>Gilgamesh không phải là bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
-			<Text>Sparta does not need your friendship.</Text>
+			<Text>Sparta không cần tình bạn của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
-			<Text>No, not for all the treasure in Asgard.</Text>
+			<Text>Không, không phải tất cả kho báu ở Asgard.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
-			<Text>I must decline, in the best interests of the Shogunate and on behalf of the Emperor.</Text>
+			<Text>Tôi phải từ chối, vì lợi ích tốt nhất của Mạc phủ và thay mặt cho Hoàng đế.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Chúng tôi không quan tâm vào lúc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
-			<Text>No, we will not be friends until you can prove it by deed, or convince us otherwise.</Text>
+			<Text>Không, chúng tôi sẽ không phải là bạn cho đến khi bạn có thể chứng minh điều đó bằng hành động hoặc thuyết phục chúng tôi bằng cách khác.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
-			<Text>I must decline.  An old friend is better than two new ones.</Text>
+			<Văn bản>Tôi phải từ chối. Một người bạn cũ hơn hai người bạn mới.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
-			<Text>No, I do not accept your offer. You are a sinner, and no friend of Spain.</Text>
+			<Text>Không, tôi không chấp nhận đề nghị của bạn. Bạn là một tội nhân, và không phải là bạn của Tây Ban Nha.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
-			<Text>You are not yet worthy of our friendship.</Text>
+			<Text>Bạn chưa xứng đáng với tình bạn của chúng tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
-			<Text>Your offer is a generous and kind one, but we must humbly decline until we can be assured of your intentions.</Text>
+			<Text>Lời đề nghị của bạn rất hào phóng và tử tế, nhưng chúng tôi phải khiêm tốn từ chối cho đến khi chúng tôi có thể yên tâm về ý định của bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
-			<Text>We are not interested at this time.</Text>
+			<Text>Chúng tôi không quan tâm vào lúc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
-			<Text>My friendship is not given lightly. You must earn my trust, first.</Text>
+			<Text>Tình bạn của tôi không hề dễ dàng. Trước tiên, bạn phải có được lòng tin của tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
-			<Text>Rome must remain Rome: a friend to no one more than to herself.</Text>
+			<Text>Rome phải vẫn là Rome: một người bạn không hơn không kém với chính cô ấy.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
-			<Text>It is too early to make such a commitment. We will reconsider when appropriate, naturally. You do understand?</Text>
+			<Text>Còn quá sớm để đưa ra một cam kết như vậy. Chúng tôi sẽ xem xét lại khi thích hợp, một cách tự nhiên. Bạn hiểu chứ?</Text>
 		</Row>
 	
 		<!-- AI Requests friendship from human -->
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
-			<Text>Would you like to formally declare our friendship?</Text>
+			<Text>Bạn có muốn chính thức tuyên bố tình bạn của chúng ta không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>I extend my hand in friendship to you. Let our people be brothers and sisters under the Lord.</Text>
+			<Text>Tôi dang tay kết bạn với bạn. Để đồng bào ta là anh chị em dưới Chúa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>I extend to you the royal hand in friendship. Will you accept it?</Text>
+			<Văn bản>Tôi xin gửi tới các bạn bàn tay hoàng gia trong tình bạn. Bạn sẽ chấp nhận nó chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>Many would kill for my friendship. It is a generous offer, but I offer it to you. What is your answer?</Text>
+			<Text>Nhiều người sẵn sàng giết người vì tình bạn của tôi. Đó là một đề nghị hào phóng, nhưng tôi cung cấp nó cho bạn. Câu trả lời của bạn là gì?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Again we extend our hand, but this time in friendship. Will you accept it?</Text>
+			<Text>Một lần nữa chúng ta lại chìa tay ra, nhưng lần này là tình bạn. Bạn sẽ chấp nhận nó chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>I suppose leadership at one time meant violence; but today it means getting along with people. So… will you accept my friendship?</Text>
+			<Text>Tôi cho rằng lãnh đạo đã có lúc đồng nghĩa với bạo lực; nhưng ngày nay nó có nghĩa là hòa đồng với mọi người. Vậy… bạn sẽ chấp nhận tình bạn của tôi chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>All of the world knows of my generosity to my friends. Let us then be friends, not enemies.</Text>
+			<Text>Cả thế giới đều biết đến sự hào phóng của tôi với bạn bè. Chúng ta hãy là bạn, không phải là kẻ thù.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
-			<Text>I hereby offer you Sparta’s friendship, will you accept?</Text>
+			<Text>Tôi xin đề nghị kết bạn với Sparta, bạn có chấp nhận không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>In all my travels I have never met someone as great as I am until I met you. Let us be friends, then.</Text>
+			<Text>Trong tất cả các chuyến đi của mình, tôi chưa bao giờ gặp ai tuyệt vời như tôi cho đến khi tôi gặp bạn. Vậy chúng ta hãy làm bạn nhé.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>You are harmonious and wise. We offer you loyalty and honor, if you would accept us as your friend.</Text>
+			<Text>Bạn hài hòa và khôn ngoan. Chúng tôi mang đến cho bạn lòng trung thành và danh dự, nếu bạn chấp nhận chúng tôi làm bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>Would you like to formally declare our friendship?</Text>
+			<Text>Bạn có muốn chính thức tuyên bố tình bạn của chúng ta không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Let’s put our differences aside for a moment, shall we? Friendship is more important than petty politics.</Text>
+			<Text>Chúng ta hãy đặt sự khác biệt của chúng ta sang một bên trong giây lát, phải không? Tình bạn quan trọng hơn chính trị vụn vặt.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
-			<Text>I am honored to extend to you my friendship, and a friendship between our nations. Do you accept?</Text>
+			<Text>Tôi rất vinh dự được gửi tới các bạn tình bạn của tôi và tình bạn giữa các quốc gia của chúng ta. Bạn có chấp nhận không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>I believe you have seen the wisdom in the light of the Lord. Let us share in friendship his blessing.</Text>
+			<Text>Tôi tin rằng bạn đã nhìn thấy sự khôn ngoan trong ánh sáng của Chúa. Hãy để chúng tôi chia sẻ trong tình bạn phước lành của anh ấy.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
-			<Text>Please, allow us to return your friendship with ours.</Text>
+			<Text>Xin hãy cho phép chúng tôi nối lại tình bạn của bạn với chúng tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>You have proven yourself a wise and just leader. Would you accept my offer of friendship?</Text>
+			<Text>Bạn đã chứng tỏ mình là một nhà lãnh đạo khôn ngoan và chính trực. Bạn có chấp nhận lời đề nghị kết bạn của tôi không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>You have earned my respect. Shall we declare our friendship?</Text>
+			<Text>Bạn đã nhận được sự tôn trọng của tôi. Chúng ta sẽ tuyên bố tình bạn của chúng ta chứ?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>Friendship is the most valuable thing between nations. Let us have it.</Text>
+			<Text>Tình bạn là điều quý giá nhất giữa các quốc gia. Hãy để chúng tôi có nó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>Glorious Rome extends an offer of friendship. Do you accept?</Text>
+			<Text>Glorious Rome mở rộng lời đề nghị kết bạn. Bạn có chấp nhận không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>We are pleased to consider you an esteemed friend. We hope the feeling is mutual…</Text>
+			<Text>Chúng tôi rất vui được coi bạn là một người bạn đáng kính. Chúng tôi hy vọng tình cảm là của nhau…</Text>
 		</Row>
 
 		<!-- Human accepts AI requests, AI responds -->
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
-			<Text>Wonderful.</Text>
+			<Text>Tuyệt vời.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>Thank you very much.</Text>
+			<Text>Cảm ơn bạn rất nhiều.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>How can I thank you?</Text>
+			<Text>Làm thế nào tôi có thể cảm ơn bạn?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>Thank you!</Text>
+			<Text>Cảm ơn bạn!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>Thank you, my friend.</Text>
+			<Text>Cảm ơn, bạn của tôi.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>Wonderful.</Text>
+			<Text>Tuyệt vời.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>Thank you.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
-			<Text>You have my gratitude.</Text>
+			<Text>Tôi rất biết ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>May the Lord bless you.</Text>
+			<Text>Cầu Chúa phù hộ cho bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
-			<Text>We are grateful.</Text>
+			<Text>Chúng tôi rất biết ơn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>May Allah bless you.</Text>
+			<Text>Cầu xin Allah ban phước lành cho bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>You have my thanks.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>Thank you, friend.</Text>
+			<Text>Cảm ơn bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>Many thanks.</Text>
+			<Text>Cảm ơn rất nhiều.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>You have been most kind and attentive.</Text>
+			<Text>Bạn đã rất tử tế và chu đáo.</Text>
 		</Row>
 		
 		<!-- Human rejects AI requests, AI responds -->
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
-			<Text>How unfortunate!</Text>
+			<Text>Thật đáng tiếc!</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
-			<Text>That is such a shame.</Text>
+			<Text>Thật là xấu hổ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
-			<Text>Perhaps next time, then.</Text>
+			<Text>Có lẽ là lần sau.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
-			<Text>An unfortunate turn.</Text>
+			<Text>Một ngã rẽ đáng tiếc.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
-			<Text>Are you mad?</Text>
+			<Text>Bạn có điên không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
-			<Text>Unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
-			<Text>A shame...</Text>
+			<Text>Thật xấu hổ...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
-			<Text>A shame…</Text>
+			<Text>Thật xấu hổ…</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
-			<Text>That’s unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
-			<Text>Stupid, stupid…</Text>
+			<Text>Ngốc, ngu…</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
-			<Text>That is unfortunate.</Text>
+			<Text>Thật không may.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
-			<Text>Bad luck.</Text>
+			<Text>Xui xẻo.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
-			<Text>Mind what you say.</Text>
+			<Text>Hãy nhớ những gì bạn nói.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
-			<Text>That is too bad.</Text>
+			<Text>Tệ quá.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
-			<Text>You should reconsider.</Text>
+			<Text>Bạn nên xem xét lại.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
-			<Text>What a shame.</Text>
+			<Text>Thật đáng tiếc.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
-			<Text>How unfortunate.</Text>
+			<Text>Thật đáng tiếc.</Text>
 		</Row>
 		
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
-			<Text>Sorry, but we just can't commit to a formal friendship at this time.</Text>
+			<Text>Xin lỗi, nhưng chúng tôi không thể cam kết kết bạn chính thức vào lúc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
-			<Text>We'd be happy to let the world know we stand united as friends.</Text>
+			<Text>Chúng tôi rất vui khi được cho cả thế giới biết rằng chúng ta luôn đoàn kết với nhau như những người bạn.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_STOP_ASKING">
-			<Text>No and stop asking.</Text>
+			<Text>Không và đừng hỏi nữa.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

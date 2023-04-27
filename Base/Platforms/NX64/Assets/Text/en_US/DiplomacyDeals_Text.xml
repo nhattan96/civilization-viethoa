@@ -3,415 +3,415 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
-			<Text>GOLD PER TURN</Text>
+			<Text>VÀNG MỖI LẦN CHUYẾN</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
-			<Text>GOLD PER TURN[newline]{1_number} TURNS	</Text>
+			<Text>VÀNG MỖI LƯỢT[newline]{1_number} LƯỢT </Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
-			<Text>FOR {1_number} TURNS</Text>
+			<Text>CHO LƯỢT {1_number}</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_FOR_30_TURNS">
-      <Text>FOR 30 TURNS</Text>
+      <Text>DÀNH CHO 30 LƯỢT</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_ONE_TIME">
-      <Text>ONE TIME DEALS</Text>
+      <Text>ƯU ĐÃI MỘT LẦN</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
-			<Text>LUXURY RESOURCES</Text>
+			<Text>NGUỒN LỰC SANG TRỌNG</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
-			<Text>STRATEGIC RESOURCES</Text>
+			<Text>NGUỒN LỰC CHIẾN LƯỢC</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
-			<Text>AGREEMENTS</Text>
+			<Text>THỎA THUẬN</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CITIES">
-			<Text>CITIES</Text>
+			<Text>THÀNH PHỐ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
-			<Text>OTHER PLAYERS</Text>
+			<Text>NHỮNG NGƯỜI CHƠI KHÁC</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
 			<Text>CAPTIVES</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
-			<Text>GREAT WORKS</Text>
+			<Text>TÁC PHẨM TUYỆT VỜI</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
-			<Text>TECHNOLOGIES</Text>
+			<Text>CÔNG NGHỆ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
 			<Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
-			<Text>Accept Deal</Text>
+			<Text>Chấp nhận giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
-			<Text>Refuse Deal</Text>
+			<Text>Từ chối giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
-			<Text>Propose Deal</Text>
+			<Text>Đề xuất giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
-			<Text>Demand Deal</Text>
+			<Text>Yêu cầu giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
-			<Text>Accept Demand</Text>
+			<Text>Chấp nhận yêu cầu</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
-			<Text>Refuse Demand</Text>
+			<Text>Từ chối yêu cầu</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_GIFT">
-      <Text>Accept Gift</Text>
+      <Text>Nhận quà</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_GIFT">
-      <Text>Refuse Gift</Text>
+      <Text>Từ chối quà tặng</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
-			<Text>Give Gift</Text>
+			<Text>Tặng quà</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
-			<Text>Never mind</Text>
+			<Text>Đừng bận tâm</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
-			<Text>Cancel Deal</Text>
+			<Text>Hủy giao dịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
-			<Text>Cancel Demand</Text>
+			<Text>Hủy yêu cầu</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
-			<Text>Resume</Text>
+			<Text>Sơ yếu lý lịch</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
-			<Text>Your Items</Text>
+			<Text>Đồ của bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
-			<Text>Their Items</Text>
+			<Text>Mặt hàng của họ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
-			<Text>What would you give me?</Text>
+			<Text>Bạn sẽ tặng gì cho tôi?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
-			<Text>What would it take?</Text>
+			<Text>Điều gì sẽ xảy ra?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
-			<Text>Set deal details...</Text>
+			<Text>Đặt chi tiết giao dịch...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
-			<Text>Set deal details...</Text>
+			<Text>Đặt chi tiết giao dịch...</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
-			<Text>{1_DisplayName} ({2_Turns} turns)</Text>
+			<Text>{1_DisplayName} ({2_Turns} lượt)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
-			<Text>{1_LeaderName} says:</Text>
+			<Text>{1_LeaderName} nói:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
-			<Text>{1_Name}, return.</Text>
+			<Text>{1_Name}, quay lại.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
-			<Text>Return {1_Name} to {1_LeaderName}</Text>
+			<Text>Trả lại {1_Name} cho {1_LeaderName}</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
-			<Text>{1_Name}, cede.</Text>
+			<Text>{1_Name}, nhượng lại.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
-			<Text>Cede {1_Name} to {1_LeaderName}</Text>
+			<Text>Nhượng {1_Name} cho {1_LeaderName}</Text>
 		</Row>
 		<!--Deal Error Messages-->
 		<Row Tag="LOC_DEAL_CITY_NOT_FOUND">
-			<Text>City not found</Text>
+			<Text>Không tìm thấy thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_CITY_DUPLICATE">
-			<Text>Another deal item has the same city</Text>
+			<Text>Một mặt hàng ưu đãi khác có cùng thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
-			<Text>Not enough Gold</Text>
+			<Text>Không đủ vàng</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
-			<Text>Not enough Gold</Text>
+			<Text>Không đủ vàng</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
-			<Text>Great Work not found</Text>
+			<Text>Không tìm thấy công việc tuyệt vời</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_INVALID_PLAYER">
-			<Text>Invalid player</Text>
+			<Text>Trình phát không hợp lệ</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
-			<Text>No slot in which to place work</Text>
+			<Text>Không có chỗ để đặt công việc</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
-			<Text>Not enough of this resource</Text>
+			<Text>Không đủ tài nguyên này</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_SPY_NOT_FOUND">
-			<Text>Spy not found</Text>
+			<Text>Không tìm thấy gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
-			<Text>Population: {1_number}</Text>
+			<Text>Dân số: {1_number}</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
-			<Text>Districts:</Text>
+			<Text>Quận:</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
-			<Text>Resources:</Text>
+			<Text>Tài nguyên:</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
-			<Text>Great Works:</Text>
+			<Text>Tác phẩm tuyệt vời:</Text>
 		</Row>
 		<Row Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
-			<Text>Transferred with {1_CityName}</Text>
+			<Text>Đã chuyển bằng {1_CityName}</Text>
 		</Row>		
 		<!-- Diplomactic Actions -->
 		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
-			<Text>Resident Embassy</Text>
+			<Text>Đại sứ quán thường trú</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
-			<Text>Demand Tribute</Text>
+			<Text>Yêu cầu cống phẩm</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
-			<Text>Open Borders</Text>
+			<Text>Mở viền</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
-			<Text>Request Assistance</Text>
+			<Text>Yêu cầu hỗ trợ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
-			<Text>Denounce</Text>
+			<Text>Tố cáo</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
-			<Text>Surprise War</Text>
+			<Text>Cuộc chiến bất ngờ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
-			<Text>Make Peace</Text>
+			<Text>Làm hòa</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
-			<Text>Send Delegation</Text>
+			<Text>Gửi ủy quyền</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
-			<Text>Alliance</Text>
+			<Text>Liên minh</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
-			<Text>Declare Friendship</Text>
+			<Text>Tuyên bố tình bạn</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
-			<Text>Grant Influence Token</Text>
+			<Text>Cấp mã thông báo ảnh hưởng</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
-			<Text>Gift Unit</Text>
+			<Text>Đơn vị quà tặng</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
-			<Text>Military Request</Text>
+			<Text>Yêu cầu quân sự</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
-			<Text>Declare War on Minor Civ</Text>
+			<Text>Tuyên chiến với các công dân nhỏ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
-			<Text>Declare War</Text>
+			<Text>Tuyên chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
-			<Text>Declare Holy War</Text>
+			<Text>Tuyên bố Thánh chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
-			<Text>Declare Liberation War</Text>
+			<Text>Tuyên bố chiến tranh giải phóng</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
-			<Text>Declare Reconquest War</Text>
+			<Text>Tuyên bố tái chinh chiến</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
-			<Text>Declare Protectorate War</Text>
+			<Text>Tuyên bố chiến tranh bảo hộ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
-			<Text>Declare Colonial War</Text>
+			<Text>Tuyên bố chiến tranh thuộc địa</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
-			<Text>Declare War of Territorial Expansion</Text>
+			<Text>Tuyên chiến mở rộng lãnh thổ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
-			<Text>Defensive Pact</Text>
+			<Text>Hiệp ước phòng thủ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
-			<Text>Joint War</Text>
+			<Text>Liên minh chiến tranh</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
-			<Text>Research Agreement</Text>
+			<Text>Thỏa thuận nghiên cứu</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
-			<Text>Promise To Not Spy</Text>
+			<Text>Hứa là không gián điệp</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
-			<Text>Promise To Not Convert Cities</Text>
+			<Text>Hứa sẽ không chuyển đổi thành phố</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
-			<Text>Promise To Not Dig Up Artifacts</Text>
+			<Text>Hứa sẽ không đào hiện vật</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
-			<Text>Promise To Not Settle Too Near</Text>
+			<Text>Hứa sẽ không giải quyết quá gần</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DEAL_INVALID">
-			<Text>I will not make this deal under any circumstances.</Text>
+			<Text>Tôi sẽ không thực hiện giao dịch này trong bất kỳ trường hợp nào.</Text>
 		</Row>
 		<!-- Diplomactic Action Tooltips-->
 		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
-			<Text>Establish a Research Agreement with a Declared Friend or Alliance member. Research Agreements allow two parties to jointly research a target technology. The more expensive the technology, the longer the agreement will take. At the duration of the agreement, each party earns the Boost for that technology.</Text>
+			<Văn bản>Thiết lập Thỏa thuận Nghiên cứu với Thành viên Liên minh hoặc Bạn bè được Tuyên bố. Thỏa thuận nghiên cứu cho phép hai bên cùng nghiên cứu một công nghệ mục tiêu. Công nghệ càng đắt tiền thì thời gian thỏa thuận càng lâu. Trong thời hạn của thỏa thuận, mỗi bên sẽ nhận được Tăng cường cho công nghệ đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
-			<Text>Establish a Joint War against a target civilization.</Text>
+			<Text>Thiết lập một cuộc chiến chung chống lại nền văn minh mục tiêu.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
-			<Text>Establish a Defensive Pact. When either member of the Alliance is attacked, all members will automatically declare war on the aggressor.</Text>
+			<Văn bản>Thiết lập Hiệp ước Phòng thủ. Khi một trong hai thành viên của Liên minh bị tấn công, tất cả các thành viên sẽ tự động tuyên chiến với kẻ xâm lược.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
-			<Text>Establish an Alliance with a Declared Friend. Allies may not go to war, automatically have Open Borders, and each receives a Casus Belli on an aggressor civilization if one of their allies loses a city.</Text>
+			<Text>Thành lập một liên minh với một người bạn được tuyên bố. Các đồng minh có thể không tham chiến, tự động có Biên giới mở và mỗi người nhận được một Casus Belli trên nền văn minh của kẻ xâm lược nếu một trong các đồng minh của họ mất một thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
-			<Text>Establish a permanent Embassy with this power. If accepted, the recipient will be a bit friendlier, you will gain a level of Access, and the recipient's [ICON_Capital] Capital will be revealed.</Text>
+			<Văn bản>Thành lập Đại sứ quán thường trực với quyền lực này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút, bạn sẽ đạt được cấp độ Truy cập và Vốn [ICON_Capital] của người nhận sẽ được tiết lộ.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
-			<Text>Demand a diplomatic gift from this power.</Text>
+			<Text>Yêu cầu một món quà ngoại giao từ cường quốc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
-			<Text>Ask this power to allow your units to travel through their controlled territory.</Text>
+			<Text>Yêu cầu quyền lực này cho phép các đơn vị của bạn đi qua lãnh thổ do họ kiểm soát.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
-			<Text>Ask this power for a diplomatic gift.</Text>
+			<Text>Yêu cầu quyền lực này cho một món quà ngoại giao.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
-			<Text>Used to formally state your unhappiness with this power. A formal declaration of war (with or without a Casus Belli) can follow after 5 additional turns have passed.</Text>
+			<Văn bản>Được sử dụng để thể hiện sự không hài lòng của bạn với sức mạnh này. Tuyên bố chiến tranh chính thức (có hoặc không có Casus Belli) có thể xảy ra sau 5 lượt bổ sung đã trôi qua.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
-			<Text>Used to immediately start a war. Normal warmonger penalties increased by 50%.</Text>
+			<Văn bản>Được sử dụng để bắt đầu chiến tranh ngay lập tức. Hình phạt đối với kẻ hiếu chiến thông thường tăng 50%.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
-			<Text>Negotiate a deal to end the current war with this power.</Text>
+			<Text>Thương lượng một thỏa thuận để chấm dứt cuộc chiến hiện tại với thế lực này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
-			<Text>Send a delegation with a gift of [ICON_Gold] Gold for this power. If accepted, the recipient will be a bit friendlier and you will gain a level of Access. Lasts until you gain the Diplomatic Service Civic. </Text>
+			<Text>Gửi một ủy quyền với món quà là [ICON_Gold] Vàng cho sức mạnh này. Nếu được chấp nhận, người nhận sẽ thân thiện hơn một chút và bạn sẽ đạt được cấp độ Truy cập. Kéo dài cho đến khi bạn đạt được Công dân Dịch vụ Ngoại giao. </Văn bản>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
-			<Text>Formally state your intention to maintain friendly relations with this power. While a friend you will be eligible for an Alliance but will not be able to declare a formal war on this power.</Text>
+			<Văn bản>Chính thức tuyên bố ý định duy trì quan hệ hữu nghị với thế lực này. Trong khi là một người bạn, bạn sẽ đủ điều kiện tham gia Liên minh nhưng sẽ không thể tuyên chiến chính thức với thế lực này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
-			<Text>Used to declare war on a player that Denounced you or that you have Denounced at least 5 turns ago. No restrictions on which cities you may capture.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với người chơi Tố cáo bạn hoặc bạn đã Tố cáo ít nhất 5 lượt trước. Không hạn chế thành phố nào bạn có thể chiếm được.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that has religiously converted one of your cities. All warmonger penalties halved.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã cải đạo một trong các thành phố của bạn. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that has captured a city from one of your friends or allies.  No warmonger penalty for liberating any of those cities.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một thành phố từ một trong những người bạn hoặc đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng bất kỳ thành phố nào trong số đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that has captured one of your cities. No warmonger penalties apply.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã chiếm được một trong các thành phố của bạn. Không có hình phạt hiếu chiến nào được áp dụng.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that has attacked one of your allied city-states. No warmonger penalty for liberating that city-state.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đã tấn công một trong các thành bang đồng minh của bạn. Không có hình phạt hiếu chiến nào đối với việc giải phóng thành phố-tiểu bang đó.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that is two technology eras behind you. All warmonger penalties halved.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực đi sau bạn hai thời đại công nghệ. Tất cả hình phạt của kẻ hiếu chiến giảm một nửa.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
-			<Text>Used to declare war on a power that borders your empire. Must have 2 of your cities within 10 tiles of 2 opponents' cities. Warmonger penalties reduced by 25%.</Text>
+			<Văn bản>Được sử dụng để tuyên chiến với một thế lực giáp với đế chế của bạn. Phải có 2 thành phố của bạn trong 10 ô của 2 thành phố đối thủ. Hình phạt cho những kẻ hiếu chiến giảm 25%.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
-			<Text>Initiate trade negotiations with this power.</Text>
+			<Text>Bắt đầu đàm phán thương mại với cường quốc này.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
-			<Text>Propose a peace deal with this power.</Text>
+			<Text>Đề xuất một thỏa thuận hòa bình với sức mạnh này.</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
-      <Text>Select Technology</Text>
+      <Text>Chọn công nghệ</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
-      <Text>Select Alliance</Text>
+      <Text>Chọn liên minh</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
-      <Text>Select Target</Text>
+      <Text>Chọn mục tiêu</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
-      <Text>How Many?</Text>
+      <Text>Bao nhiêu?</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
-      <Text>I would accept this gift</Text>
+      <Text>Tôi sẽ nhận món quà này</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
-      <Text>Gifts will improve your relationship</Text>
+      <Text>Quà tặng sẽ cải thiện mối quan hệ của bạn</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
-      <Text>I would rather negotiate.</Text>
+      <Text>Tôi muốn thương lượng hơn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
-      <Text>Making demands will harm your relationship</Text>
+      <Text>Đòi hỏi sẽ gây hại cho mối quan hệ của bạn</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_UNFAIR">
-      <Text>I cannot accept, this is an unfair deal.</Text>
+      <Text>Tôi không thể chấp nhận, đây là một thỏa thuận không công bằng.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
-      <Text>Ask what this leader would give you for your offer.[NEWLINE]This will only add items to their side of the deal table.</Text>
+      <Text>Hỏi xem nhà lãnh đạo này sẽ cung cấp cho bạn những gì đối với ưu đãi của bạn.[NEWLINE]Điều này sẽ chỉ thêm các mặt hàng vào phía họ trong bảng giao dịch.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
-      <Text>I cannot accept this deal under any circumstances.</Text>
+      <Text>Tôi không thể chấp nhận thỏa thuận này trong bất kỳ trường hợp nào.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
-      <Text>Offer blocking deal</Text>
+      <Text>Thỏa thuận chặn ưu đãi</Text>
     </Row>
 		<Row Tag="LOC_DIPLO_DEAL_MARK_UNACCEPTABLE">
-			<Text>Mark this item as unacceptable</Text>
+			<Text>Đánh dấu mục này là không được chấp nhận</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TEXT">
-			<Text>Marking this item as unacceptable and refusing the deal will prevent this AI from ever asking for this item again. Do you wish to continue?</Text>
+			<Văn bản>Đánh dấu mặt hàng này là không được chấp nhận và từ chối thỏa thuận sẽ ngăn AI này yêu cầu mặt hàng này một lần nữa. Bạn có muốn tiếp tục không?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TITLE">
-			<Text>Stop Asking?</Text>
+			<Text>Dừng hỏi?</Text>
 		</Row>
     <Row Tag="LOC_DIPLO_DEAL_REMOVE_ITEM">
-      <Text>Remove item from deal</Text>
+      <Text>Xóa mặt hàng khỏi giao dịch</Text>
     </Row>
 		<Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
-			<Text>How about this?</Text>
+			<Text>Cái này thì sao?</Text>
 		</Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
-      <Text>I’m not willing to trade that</Text>
+      <Text>Tôi không sẵn sàng đánh đổi điều đó</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
-      <Text>I have nothing I’m willing to trade for that</Text>
+      <Text>Tôi không có gì để đánh đổi</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
-      <Text>Perhaps in the future we shall find an agreeable deal?</Text>
+      <Text>Có lẽ trong tương lai chúng ta sẽ tìm được một thỏa thuận dễ chịu?</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
-      <Text>Another time, Maybe?</Text>
+      <Text>Lần khác, có lẽ vậy?</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
-      <Text>I am surprised we could not come to an agreement.</Text>
+      <Text>Tôi ngạc nhiên là chúng ta không thể đi đến thống nhất.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
-      <Text>That's a shame.</Text>
+      <Text>Thật đáng tiếc.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
-      <Text>I dare not raise my offer any higher.</Text>
+      <Text>Tôi không dám tăng đề nghị của mình cao hơn nữa.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
-      <Text>How regrettable.</Text>
+      <Text>Thật đáng tiếc.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
-      <Text>What good is treasure if you will not use it?</Text>
+      <Text>Kho báu có ích gì nếu bạn không sử dụng nó?</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
-      <Text>One way or another, you will give me what I want.</Text>
+      <Text>Bằng cách này hay cách khác, bạn sẽ cho tôi những gì tôi muốn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
-      <Text>I accept your refusal-for now.</Text>
+      <Text>Bây giờ tôi chấp nhận lời từ chối của bạn.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_EXPAND_CATEGORY">
-      <Text>Expand deal category.</Text>
+      <Text>Mở rộng danh mục giao dịch.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CATEGORY">
-      <Text>Collapse deal category.</Text>
+      <Text>Thu gọn danh mục giao dịch.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_EXPAND_CITY_INFO">
-      <Text>Expand city information.</Text>
+      <Text>Mở rộng thông tin thành phố.</Text>
     </Row>
     <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CITY_INFO">
-      <Text>Collapse city information.</Text>
+      <Text>Thu gọn thông tin thành phố.</Text>
     </Row>
 	</BaseGameText>
 </GameData>

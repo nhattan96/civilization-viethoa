@@ -2,230 +2,230 @@
 <GameData>
 	<BaseGameText>
     <Row Tag="LOC_DIPLOMACY_DISCUSS">
-      <Text>Ask For Promise</Text>
+      <Text>Yêu cầu một lời hứa</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_CASUS_BELLI">
       <Text>Casus Belli</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
-      <Text>Casus Belli represent reasons to go to war where the normal Warmonger penalty for a declaration of war or capturing cities are reduced or eliminated.</Text>
+      <Text>Casus Belli đại diện cho những lý do dẫn đến chiến tranh trong đó hình phạt thông thường của Warmonger đối với việc tuyên chiến hoặc chiếm giữ các thành phố được giảm bớt hoặc loại bỏ.</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_TITLE">
-			<Text>INTEL REPORT</Text>
+			<Text>BÁO CÁO INTEL</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
-			<Text>Gossip Items:</Text>
+			<Text>Tin đồn:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
-			<Text>GOSSIP</Text>
+			<Text>TIN ĐỒN</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
-			<Text>Access Level:</Text>
+			<Text>Cấp truy cập:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
-			<Text>Access Level:</Text>
+			<Text>Cấp truy cập:</Text>
 		</Row>		
 		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
-			<Text>ACCESS LEVEL</Text>
+			<Text>MỨC TRUY CẬP</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
-			<Text>Our Relationship:</Text>
+			<Text>Mối quan hệ của chúng ta:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
-			<Text>OUR RELATIONSHIP</Text>
+			<Text>MỐI QUAN HỆ CỦA CHÚNG TÔI</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
-			<Text>To [COLOR_Civ6Green]raise[ENDCOLOR] your relationship you could:[NEWLINE]</Text>
+			<Text>Để [COLOR_Civ6Green]nâng cao[ENDCOLOR] mối quan hệ của mình, bạn có thể:[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
-			<Text>To [COLOR_Civ6Red]lower[ENDCOLOR] your relationship you could:[NEWLINE]</Text>
+			<Text>Để [COLOR_Civ6Red]hạ thấp[ENDCOLOR] mối quan hệ của mình, bạn có thể:[NEWLINE]</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
-      <Text>Agreements:</Text>
+      <Text>Thỏa thuận:</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
-			<Text>Agendas:</Text>
+			<Text>Chương trình nghị sự:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
-			<Text>Government:</Text>
+			<Text>Chính phủ:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
-			<Text>Relationships:</Text>
+			<Text>Mối quan hệ:</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
-			<Text>Relationship</Text>
+			<Text>Mối quan hệ</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
-			<Text>REASONS FOR CURRENT RELATIONSHIP</Text>
+			<Text>LÝ DO CHO MỐI QUAN HỆ HIỆN TẠI</Text>
 		</Row>			
 		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
-			<Text>Nothing is abjectly affecting your relationship at this point in time.</Text>
+			<Text>Không có gì ảnh hưởng xấu đến mối quan hệ của bạn vào thời điểm này.</Text>
 		</Row>		
 		<Row Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
-			<Text>Information Shared:</Text>
+			<Text>Thông tin được chia sẻ:</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
-			<Text>Next Access Level:</Text>
+			<Text>Cấp truy cập tiếp theo:</Text>
 		</Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
-      <Text>To [COLOR_Civ6Green]raise[ENDCOLOR] your access level you could:</Text>
+      <Text>Để [COLOR_Civ6Green]nâng cao[ENDCOLOR] cấp truy cập của mình, bạn có thể:</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
-      <Text>LAST TEN TURNS</Text>
+      <Text>Mười LƯỢT CUỐI</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_OLDER">
-      <Text>OLDER</Text>
+      <Text>LỚN HƠN</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
-      <Text>None</Text>
+      <Văn bản>Không có</Văn bản>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
-      <Text>+{1_Value} New {1_Value : plural 1?Report; other?Reports;}</Text>
+      <Văn bản>+{1_Value} {1_Value mới : số nhiều 1?Báo cáo; khác?Báo cáo;}</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
-      <Text>No New Items</Text>
+      <Text>Không có mục mới</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
-      <Text>[COLOR_Grey]Nothing reported in the last 10 turns.</Text>
+      <Text>[COLOR_Grey]Không có gì được báo cáo trong 10 lượt cuối cùng.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
-      <Text>Historical Agenda</Text>
+      <Text>Chương trình nghị sự lịch sử</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
-      <Text>Random Agendas</Text>
+      <Text>Chương trình nghị sự ngẫu nhiên</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
-      <Text>Random agenda is hidden. Gain SECRET level access to reveal.</Text>
+      <Văn bản>Chương trình làm việc ngẫu nhiên bị ẩn. Nhận quyền truy cập cấp độ BÍ MẬT để tiết lộ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
-      <Text>No historical agenda</Text>
+      <Text>Không có chương trình lịch sử</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
-      <Text>No random agenda</Text>
+      <Text>Không có chương trình nghị sự ngẫu nhiên</Text>
     </Row>
 	<!-- Used in titles -->
 	<Row Tag="LOC_DIPLOMACY_OF">
-      <Text>OF</Text>
+      <Văn bản>Của</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
-      <Text>Offer a favorable trade.</Text>
+      <Text>Cung cấp giao dịch thuận lợi.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
-      <Text>Denounce a civilization that the {1_Civ} has denounced.</Text>
+      <Text>Tố cáo một nền văn minh mà {1_Civ} đã tố cáo.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
-      <Text>Establish a [ICON_TradeRoute] Trade Route with the {1_Civ}.</Text>
+      <Text>Thiết lập Tuyến thương mại [ICON_TradeRoute] với {1_Civ}.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
-      <Text>Grant Open Borders to the {1_Civ}.</Text>
+      <Text>Cấp biên giới mở cho {1_Civ}.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
-      <Text>Send a delegation or establish an embassy.</Text>
+      <Text>Gửi phái đoàn hoặc thành lập đại sứ quán.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
-      <Text>Satisfy one of their agendas.</Text>
+      <Text>Đáp ứng một trong những chương trình nghị sự của họ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
-      <Text>Go against one of their agendas.</Text>
+      <Text>Đi ngược lại một trong những chương trình nghị sự của họ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_THEM">
-      <Text>Denounce this leader.</Text>
+      <Text>Tố cáo kẻ cầm đầu này.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_REJECT_PROMISE">
-      <Text>Fail to make a promise they have asked for.</Text>
+      <Text>Không thực hiện được lời hứa mà họ đã yêu cầu.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_BREAK_PROMISE">
-      <Text>Break a promise you made to them.</Text>
+      <Text>Phá vỡ lời hứa mà bạn đã hứa với họ.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
-      <Text>Denounce a friend of the {1_Civ}.</Text>
+      <Text>Tố cáo một người bạn của {1_Civ}.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
-      <Text>Declare Friendship with a known enemy of the {1_Civ}.</Text>
+      <Text>Tuyên bố kết bạn với kẻ thù đã biết của {1_Civ}.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_TOOLTIP">
-      <Text>Drag to resize.</Text>
+      <Text>Kéo để thay đổi kích thước.</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_CLICK_TOOLTIP">
-			<Text>Click to resize</Text>
+			<Text>Nhấp để thay đổi kích thước</Text>
 		</Row>
 	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
-      <Text>Make this deal more equitable.</Text>
+      <Text>Làm cho thỏa thuận này công bằng hơn.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
-      <Text>Bargain with the leader to find a better deal.[NEWLINE]This may modify items on BOTH SIDES of the deal table.</Text>
+      <Text>Thương lượng với người dẫn đầu để tìm một thỏa thuận tốt hơn.[NEWLINE]Điều này có thể sửa đổi các mặt hàng ở CẢ HAI MẶT của bảng thỏa thuận.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
-      <Text>MY OFFER:</Text>
+      <Text>ƯU ĐÃI CỦA TÔI:</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
-      <Text>THEIR OFFER:</Text>
+      <Text>ƯU ĐÃI CỦA HỌ:</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
-      <Text>Ask this leader what it would take to get this from them.[NEWLINE]This will only add items to our side of the deal table.</Text>
+      <Text>Hãy hỏi người lãnh đạo này xem cần phải làm gì để nhận được thứ này từ họ.[NEWLINE]Điều này sẽ chỉ thêm các mặt hàng vào phía chúng tôi trên bảng giao dịch.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
-      <Text>View all the Gossip you've overheard as a result of your Access Level.</Text>
+      <Text>Xem tất cả Tin đồn mà bạn đã nghe lỏm được do Cấp truy cập của bạn.</Text>
   </Row>
   <Row Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
-      <Text>Overview</Text>
+      <Text>Tổng quan</Text>
   </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
-      <Text>View important information about your Access Level with this leader, including what kinds of Gossip you will have access to.</Text>
+      <Text>Xem thông tin quan trọng về Cấp độ truy cập của bạn với nhà lãnh đạo này, bao gồm cả những loại Tin đồn mà bạn sẽ có quyền truy cập.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
-      <Text>View your relationship details with this leader, including any known reasons for your current relationship. Increase your Access Level to reveal additional information here.</Text>
+      <Text>Xem chi tiết mối quan hệ của bạn với nhà lãnh đạo này, bao gồm mọi lý do đã biết cho mối quan hệ hiện tại của bạn. Tăng Cấp truy cập của bạn để hiển thị thông tin bổ sung tại đây.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
-      <Text>Agendas are a major driving force in your relationship with other leaders. Leaders have a Historic Agenda, and a Hidden Agenda. Revealing the Hidden Agenda is important to knowing what pleases and displeases this leader.</Text>
+      <Text>Chương trình nghị sự là động lực chính trong mối quan hệ của bạn với các nhà lãnh đạo khác. Các nhà lãnh đạo có một Chương trình nghị sự lịch sử và một Chương trình nghị sự ẩn. Tiết lộ Chương trình nghị sự ẩn là điều quan trọng để biết điều gì làm hài lòng và không hài lòng nhà lãnh đạo này.</Text>
     </Row>
 	<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
-      <Text>The current government adopted by this civilization.</Text>
+      <Text>Chính phủ hiện tại được nền văn minh này thông qua.</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
-      <Text>Gossip</Text>
+      <Text>Tin đồn</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
-      <Text>Access Level</Text>
+      <Text>Cấp truy cập</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
-      <Text>Government</Text>
+      <Text>Chính phủ</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
-      <Text>Agendas</Text>
+      <Text>Chương trình nghị sự</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
-      <Text>Agreements</Text>
+      <Text>Thỏa thuận</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
-      <Text>Our Relationship</Text>
+      <Text>Mối quan hệ của chúng ta</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
-      <Text>Relationships</Text>
+      <Text>Mối quan hệ</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
-      <Text>Intel Report : Overview</Text>
+      <Text>Báo cáo Intel: Tổng quan</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
-      <Text>Intel Report : Gossip</Text>
+      <Text>Báo cáo của Intel: Tin đồn</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
-      <Text>Intel Report : Access Level</Text>
+      <Text>Báo cáo Intel: Cấp truy cập</Text>
     </Row>
     <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
-      <Text>Intel Report : Relationship</Text>
+      <Text>Báo cáo Intel: Mối quan hệ</Text>
     </Row>
     <Row Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
-      <Text>Anarchy ({1_num} {1_Num : plural 1?turn; other?turns;})</Text>
+      <Text>Tình trạng hỗn loạn ({1_num} {1_Num : số nhiều 1?lượt; khác?lượt;})</Text>
     </Row>
 		<Row Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
-			<Text>None</Text>
+			<Văn bản>Không có</Văn bản>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
-			<Text>{1_CivName} has denounced the evil deeds of {2_CivName}.</Text>
+			<Text>{1_CivName} đã tố cáo những hành động xấu xa của {2_CivName}.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
-			<Text>{1_CivName} has declared their friendship with {2_CivName}. [{3_RemainingTurns} more {3_RemainingTurns : plural 1?turn; other?turns;}]</Text>
+			<Text>{1_CivName} đã tuyên bố kết bạn với {2_CivName}. [{3_RemainingTurns} thêm {3_RemainingTurns : số nhiều 1?turn; khác?lượt;}]</Text>
 		</Row>
   </BaseGameText>
 </GameData>

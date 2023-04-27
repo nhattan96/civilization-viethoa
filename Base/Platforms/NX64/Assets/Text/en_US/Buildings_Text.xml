@@ -3,183 +3,183 @@
 <GameData>
 	<BaseGameText>
 		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
-			<Text>+50% combat experience for air units trained in this city. +2 air unit slots in Aerodrome district. Allows the ability to airlift land units between Aerodrome districts with Airports after the Rapid Deployment civic is unlocked.</Text>
+			<Text>+50% kinh nghiệm chiến đấu cho các đơn vị không quân được huấn luyện tại thành phố này. +2 vị trí máy bay tại quận Sân bay. Cho phép khả năng vận chuyển các đơn vị mặt đất giữa các quận Sân bay với các Sân bay sau khi mở khóa công dân Triển khai nhanh.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
-			<Text>+25% combat experience for all land units trained in this city.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị bộ binh được huấn luyện trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
-			<Text>+25% combat experience for all melee and ranged land units trained in this city.[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị cận chiến và tầm xa trên bộ được huấn luyện trong thành phố này.[NEWLINE][NEWLINE]Không thể được xây dựng trong khu Encampment đã có Chuồng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
-			<Text>Increases the strength of your outer defenses. Provides 2 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+			<Text>Tăng cường sức mạnh phòng thủ bên ngoài của bạn. Cung cấp 2 [ICON_TOURISM] Du lịch sau khi thăng cấp lên Công dân Bảo tồn.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
-			<Text>A building unique to Japan. +4 [ICON_Production] Production to all city centers within 6 tiles. After researching the Electricity technology this building provides an additional +4 [ICON_Culture] Culture to its city. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Một tòa nhà độc đáo của Nhật Bản. +4 [ICON_Production] Sản xuất tới tất cả các trung tâm thành phố trong vòng 6 ô. Sau khi nghiên cứu công nghệ Điện, tòa nhà này cung cấp thêm Văn hóa +4 [ICON_Culture] cho thành phố của nó. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
-			<Text>Bonus is extended to all city centers within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Phần thưởng được mở rộng cho tất cả các trung tâm thành phố trong 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
-			<Text>A building unique to America. +100% [ICON_Tourism] Tourism pressure from this city towards other civilizations in the Modern era.</Text>
+			<Text>Một tòa nhà độc nhất vô nhị ở Mỹ. +100% [ICON_Tourism] Áp lực du lịch từ thành phố này tới các nền văn minh khác trong kỷ nguyên Hiện đại.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
-			<Text>+25% combat experience for air units trained in this city. +2 air unit slots in Aerodrome district.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho các đơn vị không quân được huấn luyện tại thành phố này. +2 vị trí máy bay ở quận Sân bay.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
-			<Text>+25% combat experience for all naval units trained in this city. +1 [ICON_FOOD] Food on all Coast tiles for this city.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị hải quân được huấn luyện tại thành phố này. +1 [ICON_FOOD] Thức ăn trên tất cả các ô Bờ biển của thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
-			<Text>A building unique to Arabia. Bonus [ICON_Faith] Faith equal to the adjacency bonus of the Campus district.</Text>
+			<Text>Một tòa nhà độc đáo của Ả Rập. Phần thưởng [ICON_Faith] Niềm tin tương đương với phần thưởng liền kề của khu học xá.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
-			<Text>+25% combat experience for all land units trained in this city. Allows Corps and Armies to be trained directly. Corps and Army training costs reduced 25%.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị bộ binh được huấn luyện trong thành phố này. Cho phép Quân đoàn và Quân đội được huấn luyện trực tiếp. Giảm 25% chi phí huấn luyện Quân đoàn và Lục quân.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
-			<Text>Missionary and Apostles created here have +1 spread.</Text>
+			<Text>Người truyền giáo và Sứ đồ được tạo ở đây có mức chênh lệch +1.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
-			<Text>+1 additional [ICON_FAITH] Faith for each era since constructed or last repaired.</Text>
+			<Text>+1 thêm [ICON_FAITH] Niềm tin cho mỗi thời đại kể từ khi được xây dựng hoặc sửa chữa lần cuối.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
-			<Text>Holds [ICON_GreatWork_Landscape] Great Works of Art. May not be built in a Theater Square district that already has an Archaeological Museum.</Text>
+			<Text>Giữ [ICON_GreatWork_Landscape] Tác phẩm nghệ thuật tuyệt vời. Không được xây dựng ở quận Quảng trường Nhà hát đã có Bảo tàng Khảo cổ học.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
-			<Text>Holds [ICON_GreatWork_Artifact] Artifacts. May not be built in a Theater Square district that already has an Art Museum.</Text>
+			<Text>Giữ [ICON_GreatWork_Artifact] Cổ vật. Không được xây dựng ở quận Quảng trường Nhà hát đã có Bảo tàng Nghệ thuật.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
-			<Text>Bonus extends to each city center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Phần thưởng mở rộng đến từng trung tâm thành phố trong 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
-			<Text>+25% combat experience for all naval units trained in this city. Allows Fleets and Armadas to be trained directly. Fleet and Armada training costs reduced 25%.  +2 [ICON_GOLD] Gold on all Coast tiles for this city.</Text>
+				<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị hải quân được huấn luyện tại thành phố này. Cho phép các Hạm đội và Hạm đội được huấn luyện trực tiếp. Chi phí huấn luyện Hạm đội và Hạm đội giảm 25%. +2 [ICON_GOLD] Vàng trên tất cả các ô Bờ biển cho thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
-			<Text>Allows the purchasing of Missionaries. Missionaries can only be purchased with [ICON_Faith] Faith.</Text>
+			<Text>Cho phép mua các Nhà truyền giáo. Người truyền giáo chỉ có thể được mua bằng [ICON_Faith] Niềm tin.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
-			<Text>+25% combat experience for all cavalry and siege class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị kỵ binh và công thành được huấn luyện trong thành phố này. Có thể không được xây dựng trong một quận Encampment đã có Doanh trại.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
-			<Text>+25% combat experience for all naval units trained in this city. Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district.</Text>
+			<Text>+25% kinh nghiệm chiến đấu cho tất cả các đơn vị hải quân được huấn luyện tại thành phố này. Tiền thưởng [ICON_Production] Sản lượng bằng với tiền thưởng phụ cận của quận Harbor.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
-			<Text>Bonus extends to each city center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Phần thưởng mở rộng đến từng trung tâm thành phố trong 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
-			<Text>Raises the strength of your outer defenses to the highest possible level. Provides 3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+			<Text>Tăng sức mạnh phòng thủ bên ngoài của bạn lên mức cao nhất có thể. Cung cấp 3 [ICON_TOURISM] Du lịch sau khi thăng cấp lên Công dân Bảo tồn.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
-			<Text>A building unique to Norway. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. Holy Site districts get an additional standard adjacency bonus from Woods.  +1 [ICON_PRODUCTION] Production to each coastal resource tile in this city.</Text>
+			<Text>Một tòa nhà độc đáo của Na Uy. Bắt buộc phải mua Tông đồ và Điều tra viên bằng [ICON_Faith] Niềm tin. Các khu vực Thánh địa nhận được một phần thưởng phụ cận tiêu chuẩn bổ sung từ Woods. +1 [ICON_PRODUCTION] Sản xuất tới từng ô tài nguyên ven biển trong thành phố này.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
-			<Text>Allows the purchasing of Apostles, Gurus, Inquisitors, and with the proper belief, Warrior Monks. These units can only be purchased with [ICON_Faith] Faith.</Text>
+			<Text>Cho phép mua Tông đồ, Guru, Điều tra viên và với niềm tin đúng đắn là Tu sĩ Chiến binh. Những đơn vị này chỉ có thể được mua bằng [ICON_Faith] Niềm tin.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_WALLS_DESCRIPTION">
-			<Text>Provides Walls around the City Center and Encampment district. Walls allow [ICON_Ranged] Ranged Strikes from the City Center and Encampment district, and must be defeated before a city can be assaulted. Provides 1 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+			<Text>Cung cấp các Bức tường xung quanh Trung tâm Thành phố và quận Encampment. Các bức tường cho phép [ICON_Ranged] Tấn công tầm xa từ Trung tâm Thành phố và quận Encampment, và phải bị đánh bại trước khi một thành phố có thể bị tấn công. Cung cấp 1 [ICON_TOURISM] Du lịch sau khi thăng cấp lên Công dân Bảo tồn.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
-			<Text>Bonus resources improved by Farms gain +1 [ICON_Food] Food each. City must be adjacent to a River.</Text>
+			<Text>Tài nguyên thưởng được cải thiện bằng cách thu được từ Trang trại +1 [ICON_Food] Thực phẩm mỗi loại. Thành phố phải tiếp giáp với Sông.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
-			<Text>Bonus extends to each city center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Phần thưởng mở rộng đến từng trung tâm thành phố trong 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm phần thưởng.</Text>
 		</Row>
 		<!-- Wonders -->
-		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
-			<Text>+1 Military policy slot[NEWLINE][NEWLINE]Provides the same defensive bonuses as the Fort improvement. Must be built on Hills adjacent to an Encampment district.</Text>
+				<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>Vị trí chính sách quân sự +1[NEWLINE][NEWLINE]Cung cấp phần thưởng phòng thủ tương tự như cải tiến Pháo đài. Phải được xây dựng trên những ngọn đồi liền kề với khu cắm trại.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
-			<Text>+1 Economic policy slot[NEWLINE][NEWLINE]Doubles current treasury. Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
+			<Text>+1 Vị trí chính sách kinh tế[NEWLINE][NEWLINE]Nhân đôi kho bạc hiện tại. Phải được xây dựng bên cạnh một con sông liền kề với khu trung tâm thương mại có ngân Tag.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
-			<Text>Awards 2 randomly-chosen free civics when completed. Must be built on flat land adjacent to a Theater Square district.</Text>
+			<Text>Phần thưởng 2 công dân miễn phí được chọn ngẫu nhiên khi hoàn thành. Phải được xây dựng trên vùng đất bằng phẳng tiếp giáp với khu Quảng trường Nhà hát.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
-			<Text>+20% [ICON_Culture] Culture in this city. 1 free random Atomic era civic boost. Must be built on flat land adjacent to a Theater Square district.</Text>
+			<Text>+20% [ICON_Culture] Văn hóa ở thành phố này. 1 lần tăng công dân kỷ nguyên nguyên tử ngẫu nhiên miễn phí. Phải được xây dựng trên vùng đất bằng phẳng tiếp giáp với khu Quảng trường Nhà hát.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
-			<Text>+2 [ICON_Culture] Culture to all Rainforest tiles for this city. +1 [ICON_Production] Production to all Rainforest tiles for this city. Must be built on Rainforest.</Text>
+			<Text>+2 [ICON_Culture] Văn hóa cho tất cả các ô Rainforest cho thành phố này. +1 [ICON_Production] Sản xuất tất cả các ô Rainforest cho thành phố này. Phải được xây dựng trên Rainforest.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
-			<Text>The Colosseum's [ICON_Culture] Culture and [ICON_Amenities] Amenities are extended to each city center within 6 tiles. Must be built on flat land adjacent to an Entertainment Complex district.</Text>
+			<Text>Văn hóa [ICON_Culture] và các tiện nghi [ICON_Amenities] của Đấu trường La Mã được mở rộng đến mỗi trung tâm thành phố trong vòng 6 ô. Phải được xây dựng trên vùng đất bằng phẳng liền kề với khu Khu liên hợp giải trí.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity. Grants a Trader unit. Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+			<Text>+1 [ICON_TradeRoute] Dung lượng Tuyến giao dịch. Cấp một đơn vị Thương nhân. Phải được xây dựng trên Bờ biển, tiếp giáp với đất liền và khu Cảng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
-			<Text>[ICON_Tourism] Tourism output from [ICON_GreatWork_Relic] Relics and Holy Cities is not diminished by other civilizations who have researched The Enlightenment civic. +100% [ICON_Tourism] Tourism from Seaside Resorts across your civilization. Must be built on Hills.</Text>
+			<Text>[ICON_Tourism] Sản lượng du lịch từ [ICON_GreatWork_Relic] Di tích và Thành phố linh thiêng không bị suy giảm bởi các nền văn minh khác đã nghiên cứu Công dân Khai sáng. +100% [ICON_Tourism] Du lịch từ các Khu nghỉ dưỡng bên bờ biển trên khắp nền văn minh của bạn. Phải được xây dựng trên Hills.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
-			<Text>All tiles in your civilization gain +2 Appeal. Must be built on flat land adjacent to the City Center.</Text>
+			<Text>Tất cả các ô trong nền văn minh của bạn đều nhận được +2 Khiếu nại. Phải được xây dựng trên khu đất bằng phẳng gần Trung tâm Thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
-			<Text>+2 [ICON_Amenities] Amenities in each city in your civilization. Must be built on flat land adjacent to an Entertainment Complex district with a Stadium.</Text>
+			<Text>+2 [ICON_Amenities] Tiện nghi ở mỗi thành phố trong nền văn minh của bạn. Phải được xây dựng trên vùng đất bằng phẳng liền kề với khu Khu liên hợp giải trí có Sân vận động.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
-			<Text>+1 Wildcard policy slot[NEWLINE][NEWLINE]Must be built on flat land adjacent to the City Center.</Text>
+			<Text>+1 Vị trí chính sách ký tự đại diện[NEWLINE][NEWLINE]Phải được xây dựng trên vùng đất bằng phẳng gần Trung tâm thành phố.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
-			<Text>Receive boosts to all Ancient and Classical era technologies. Must be built on flat land adjacent to a Campus district with a Library.</Text>
+			<Text>Nhận hỗ trợ cho tất cả các công nghệ thời Cổ đại và Cổ điển. Phải được xây dựng trên vùng đất bằng phẳng liền kề với khu Khuôn viên có Thư viện.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Movement for all naval units[NEWLINE][NEWLINE]Must be built on the Coast, and adjacent to land and a Harbor district with a Lighthouse.</Text>
+			<Text>+1 [ICON_Movement] Di chuyển cho tất cả các đơn vị hải quân[NEWLINE][NEWLINE]Phải được xây dựng trên Bờ biển, tiếp giáp với đất liền và khu Cảng có Ngọn hải đăng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity[NEWLINE][NEWLINE]Your [ICON_TradeRoute] Trade Routes from this city get +2 [ICON_Gold] Gold for every Bonus resource within 3 tiles of the city and in this city's territory. Must be built adjacent to a Commercial Hub district with a Market and adjacent to [ICON_RESOURCE_CATTLE] Cattle.</Text>
+			<Text>+1 [ICON_TradeRoute] Sức chứa của Tuyến đường Thương mại[NEWLINE][NEWLINE]Các Tuyến đường Thương mại [ICON_TradeRoute] của bạn từ thành phố này nhận được +2 [ICON_Gold] Vàng cho mọi tài nguyên Phần thưởng trong 3 ô của thành phố và trong lãnh thổ của thành phố này. Phải được xây dựng liền kề với Khu trung tâm thương mại có Chợ và liền kề với [ICON_RESOURCE_CATTLE] Gia súc.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
-			<Text>Missionaries and Apostles can spread Religion 1 extra time. Must be built on flat land adjacent to a Holy Site district, and you must have founded a Religion.</Text>
+			<Text>Người truyền giáo và Tông đồ có thể truyền bá Tôn giáo thêm 1 lần. Phải được xây dựng trên vùng đất bằng phẳng liền kề với một khu Thánh địa, và bạn phải thành lập một Tôn giáo.</Text>
 		</Row>
-		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
-			<Text>Increases growth by 15% in all cities. Must be built next to a River.</Text>
+				<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Tăng 15% tốc độ tăng trưởng ở tất cả các thành phố. Phải được xây dựng bên cạnh Sông.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
-			<Text>Must be built along a River.</Text>
+			<Text>Phải được xây dựng dọc theo sông.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
-			<Text>Grants 2 Apostles. Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.</Text>
+			<Text>Cấp 2 Tông Đồ. Phải được xây dựng trên Rừng liền kề với khu vực Thánh địa có Đền thờ và bạn phải thành lập một Tôn giáo.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
-			<Text>All Apostles you create gain the Martyr ability in addition to a second ability you chose normally. Must be built on Floodplains or Marsh.</Text>
+			<Text>Tất cả Tông đồ bạn tạo đều nhận được khả năng Liệt sĩ ngoài khả năng thứ hai mà bạn đã chọn thông thường. Phải được xây dựng trên Vùng ngập lũ hoặc Đầm lầy.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
-			<Text>Patronage of Great People costs 25% less [ICON_Faith] Faith. Districts in this city provide +2 [ICON_GreatPerson] Great Person points of their type (for example, [ICON_GreatWriter] Great Writer points from the Theater Square district). Must be built on Hills.</Text>
+			<Text>Sự bảo trợ của những người vĩ đại tốn ít hơn 25% [ICON_Faith] Niềm tin. Các quận trong thành phố này cung cấp +2 điểm [ICON_GreatPerson] Người vĩ đại thuộc loại của họ (ví dụ: điểm [ICON_GreatWriter] Nhà văn vĩ đại từ quận Quảng trường Nhà hát). Phải được xây dựng trên Hills.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
-			<Text>+20% [ICON_Science] Science in this city, and awards 2 randomly-chosen free technologies when completed. Must be built on Grassland or Plains adjacent to a Campus district with a University.</Text>
+			<Text>+20% [ICON_Science] Khoa học tại thành phố này và trao thưởng 2 công nghệ miễn phí được chọn ngẫu nhiên khi hoàn thành. Phải được xây dựng trên Đồng cỏ hoặc Đồng bằng liền kề với Khu học xá có trường Đại học.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
-			<Text>+1 Diplomatic policy slot[NEWLINE][NEWLINE]Must be built on a Hill adjacent to a Mountain.</Text>
+			<Text>+1 Vị trí chính sách ngoại giao[NEWLINE][NEWLINE]Phải được xây dựng trên Ngọn đồi liền kề với Núi.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
-			<Text>+2 [ICON_Food] Food, +2 [ICON_Gold] Gold, and +1 [ICON_Production] Production on all Desert tiles for this city (non-Floodplains). Must be built on Desert or Floodplains without Hills.</Text>
+			<Text>+2 [ICON_Food] Thực phẩm, +2 [ICON_Gold] Vàng và +1 [ICON_Production] Sản xuất trên tất cả các ô Sa mạc cho thành phố này (không phải Đồng bằng lũ lụt). Phải được xây dựng trên Sa mạc hoặc Đồng bằng ngập nước không có Đồi.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
-			<Text>Grants a free Builder. All Builders can build 1 extra improvement. Must be built on Desert (including Floodplains) without Hills.</Text>
+			<Text>Cấp một Builder miễn phí. Tất cả Người xây dựng có thể xây dựng thêm 1 cải tiến. Phải được xây dựng trên Sa mạc (bao gồm cả Đồng bằng ngập nước) không có Đồi.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
-			<Text>+20% [ICON_Production] Production in this city, and +1 [ICON_Production] Production for each Mine and Quarry in this city. Must be built along a River adjacent to an Industrial Zone district with a Factory.</Text>
+			<Text>+20% sản xuất [ICON_Production] ở thành phố này và +1 sản xuất [ICON_Production] cho mỗi mỏ và mỏ đá ở thành phố này. Phải được xây dựng dọc Sông tiếp giáp với Khu công nghiệp có Nhà máy.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
-			<Text>Grants a free [ICON_GreatProphet] Great Prophet. [ICON_GreatProphet] Great Prophets may found a Religion on Stonehenge instead of a Holy Site. Must be adjacent to [ICON_RESOURCE_STONE] Stone and on flat land.</Text>
+			<Text>Cấp miễn phí [ICON_GreatProphet] Nhà tiên tri vĩ đại. [ICON_GreatProphet] Các nhà tiên tri vĩ đại có thể tìm thấy một Tôn giáo trên Stonehenge thay vì Thánh địa. Phải tiếp giáp với [ICON_RESOURCE_STONE] Đá và trên vùng đất bằng phẳng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
-			<Text>Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+			<Text>Phải được xây dựng trên Bờ biển, tiếp giáp với đất liền và khu Cảng.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
-			<Text>All current units gain a promotion level. All Archaeologists from the owner may enter foreign lands without Open Borders. Must be built on flat Grassland or Plains adjacent to an Encampment district with a Barracks or Stable.</Text>
+			<Text>Tất cả các đơn vị hiện tại đều được thăng hạng. Tất cả các Nhà khảo cổ học từ chủ sở hữu có thể vào các vùng đất nước ngoài mà không có Biên giới Mở. Phải được xây dựng trên Đồng cỏ hoặc Đồng bằng bằng phẳng liền kề với khu vực Cắm trại có Doanh trại hoặc Chuồng ngựa.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
-			<Text>Receive a second naval unit each time you train a naval unit. Must be built on a Coast tile that is adjacent to an Industrial Zone district.</Text>
+			<Text>Nhận đơn vị hải quân thứ hai mỗi khi bạn huấn luyện một đơn vị hải quân. Phải được xây dựng trên một ô Bờ biển tiếp giáp với khu Khu công nghiệp.</Text>
 		</Row>
-		<!--Theming Bonuses-->
+<!--Tiền thưởng theo chủ đề-->
 		<Row Tag="LOC_BUILDING_THEMINGBONUS_ART">
-			<Text>Theming bonus doubling output when displaying objects of the same type from different artists.</Text>
+			<Text>Tăng gấp đôi sản lượng theo chủ đề khi hiển thị các đối tượng cùng loại từ các nghệ sĩ khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
-			<Text>Theming bonus doubling output when displaying [ICON_GreatWork_Artifact] Artifacts of the same era from different civilizations.</Text>
+			<Text>Phần thưởng theo chủ đề nhân đôi sản lượng khi hiển thị [ICON_GreatWork_Artifact] Cổ vật cùng thời đại từ các nền văn minh khác nhau.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
-			<Text>Theming bonus doubling output when museum is full.</Text>
+			<Text>Phần thưởng theo chủ đề nhân đôi sản lượng khi bảo tàng đầy.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

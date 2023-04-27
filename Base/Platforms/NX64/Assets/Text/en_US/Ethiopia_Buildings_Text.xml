@@ -2,74 +2,74 @@
 <GameData>
 	<EnglishText>
 		<Row Tag="LOC_BUILDING_CONSULATE_NAME">
-			<Text>Consulate</Text>
+			<Text>Lãnh sự quán</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHANCERY_NAME">
-			<Text>Chancery</Text>
+			<Text>Thủ tướng</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
-			<Text>+2 Influence Points per turn. Enemy Spy's level is reduced by 1 when targeting this city or cities with Encampments.</Text>
+			<Văn bản>+2 Điểm ảnh hưởng mỗi lượt. Cấp độ của Enemy Spy bị giảm đi 1 khi nhắm mục tiêu vào thành phố này hoặc các thành phố có Encampment.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
-			<Text>+3 Influence Points per turn.  When this civilization captures or kills an enemy Spy, receive 50 [ICON_Science] Science for every level of the enemy Spy.</Text>
+			<Văn bản>+3 Điểm ảnh hưởng mỗi lượt. Khi nền văn minh này bắt hoặc giết một Gián điệp của kẻ thù, hãy nhận 50 [ICON_Science] Khoa học cho mọi cấp độ của Gián điệp của kẻ thù.</Text>
 		</Row>
 		<!--City-States changed by these buildings-->
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+1 [ICON_Science] Science in the [ICON_Capital] Capital and in every Library building.</Text>
+			<Text>+1 [ICON_Science] Khoa học tại Thủ đô [ICON_Capital] và trong mọi tòa nhà Thư viện.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Science] Science in every University and Consulate building.</Text>
+			<Text>+2 [ICON_Science] Khoa học trong mọi tòa nhà Đại học và Lãnh sự quán.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+3 [ICON_Science] Science in every Research Lab and Chancery building.</Text>
+			<Text>+3 [ICON_Science] Khoa học trong mỗi Phòng thí nghiệm nghiên cứu và tòa nhà Chancery.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+1 [ICON_Faith] Faith in the [ICON_Capital] Capital and in every Shrine building.</Text>
+			<Text>+1 [ICON_Faith] Niềm tin vào Thủ đô [ICON_Capital] và vào mọi tòa nhà của Đền thờ.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Faith] Faith in every Temple and Consulate building.</Text>
+			<Text>+2 [ICON_Faith] Niềm tin vào mọi ngôi đền và tòa nhà Lãnh sự quán.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+3 [ICON_Faith] Faith in every worship and Chancery building.</Text>
+			<Text>+3 [ICON_Faith] Niềm tin vào mọi nơi thờ cúng và tòa nhà Chancery.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Gold] Gold in the [ICON_Capital] Capital and in every Market or Lighthouse building.</Text>
+			<Text>+2 [ICON_Gold] Vàng tại Thủ đô [ICON_Capital] và trong mọi tòa nhà Market hoặc Lighthouse.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+4 [ICON_Gold] Gold in every Bank, Shipyard, and Consulate building.</Text>
+			<Text>+4 [ICON_Gold] Vàng trong mọi tòa nhà Ngân hàng, Xưởng đóng tàu và Lãnh sự quán.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+6 [ICON_Gold] Gold in every Stock Exchange, Seaport, and Chancery building.</Text>
+			<Text>+6 [ICON_Gold] Vàng trong mọi tòa nhà Sở giao dịch chứng khoán, cảng biển và văn phòng.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+1 [ICON_Culture] Culture in the [ICON_Capital] Capital and in every Amphitheater building.</Text>
+			<Text>+1 Văn hóa [ICON_Culture] ở Thủ đô [ICON_Capital] và trong mỗi tòa nhà Amphitheatre.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Culture] Culture in every Art Museum, Archeological Museum, and Consulate building.</Text>
+			<Text>+2 [ICON_Culture] Văn hóa trong mọi Bảo tàng Nghệ thuật, Bảo tàng Khảo cổ học và tòa nhà Lãnh sự quán.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+3 [ICON_Culture] Culture in every Broadcast Center and Chancery building.</Text>
+			<Text>+3 [ICON_Culture] Văn hóa trong mỗi Trung tâm Phát sóng và tòa nhà Chancery.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+1 [ICON_Production] Production in the [ICON_Capital] Capital and in every city with a Barracks or Stable when producing units.</Text>
+			<Text>+1 [ICON_Production] Sản xuất tại Thủ đô [ICON_Capital] và ở mọi thành phố có Doanh trại hoặc Chuồng khi sản xuất các đơn vị.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every city with an Armory or Consulate building when producing units. Receive +4 [ICON_Production] Production if it has both these buildings.</Text>
+			<Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Kho vũ khí hoặc tòa nhà Lãnh sự quán khi sản xuất các đơn vị. Nhận sản lượng +4 [ICON_Production] nếu nó có cả hai tòa nhà này.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+3 [ICON_Production] Production in every city with a Military Academy or Chancery building when producing units. Receive +6 [ICON_Production] Production if it has both these buildings.</Text>
+			<Text>+3 [ICON_Production] Sản xuất ở mọi thành phố có Học viện quân sự hoặc tòa nhà Chancery khi sản xuất các đơn vị. Nhận sản phẩm +6 [ICON_Production] nếu có cả hai tòa nhà này.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
-			<Text>+1 [ICON_Production] Production in the [ICON_Capital] Capital and in every city with a Workshop building when producing wonders, buildings, and districts.</Text>
+			<Text>+1 [ICON_Production] Sản xuất tại Thủ đô [ICON_Capital] và ở mọi thành phố có tòa nhà Xưởng khi sản xuất kỳ quan, tòa nhà và quận.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
-			<Text>+2 [ICON_Production] Production in every city with a Factory or Consulate building when producing wonders, buildings, and districts. Receive +4 [ICON_Production] Production if it has both these buildings.</Text>
+			<Text>+2 [ICON_Production] Sản xuất ở mọi thành phố có Nhà máy hoặc tòa nhà Lãnh sự quán khi sản xuất kỳ quan, tòa nhà và quận. Nhận sản lượng +4 [ICON_Production] nếu nó có cả hai tòa nhà này.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
-			<Text>+3 [ICON_Production] Production in every city with a Chancery or Power Plant building when producing wonders, buildings, and districts. Receive +6 [ICON_Production] Production if it has both a Chancery and a Power Plant building.</Text>
+			<Text>+3 [ICON_Production] Sản xuất ở mọi thành phố có tòa nhà Chancery hoặc Nhà máy điện khi sản xuất kỳ quan, tòa nhà và quận. Nhận sản lượng +6 [ICON_Production] nếu nó có cả tòa nhà Chancery và Nhà máy điện.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_ETHIOPIA">
-			<Text>+1 to all yields for each Government Plaza building, Diplomatic Quarter building, and palace in a city.</Text>
+			<Text>+1 cho tất cả các sản lượng cho mỗi tòa nhà Government Plaza, tòa nhà Khu ngoại giao và cung điện trong thành phố.</Text>
 		</Row>
 	</EnglishText>
 </GameData>

@@ -2,22 +2,22 @@
 <GameData >
 	<EnglishText>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMIES">
-			<Text>Armies</Text>
+			<Text>Quân đội</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMADA">
-			<Text>Armada</Text>
+			<Text>Hạm đội</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_CORPS">
-			<Text>Corps</Text>
+			<Text>Quân đoàn</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_FLEET">
-			<Text>Fleet</Text>
+			<Text>Hạm đội</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_THERMONUCLEAR">
-			<Text>Thermonuclear</Text>
+			<Text>Nhiệt hạch</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_SEARCH_TERM_NUCLEAR">
-			<Text>Nuclear</Text>
+			<Text>Hạt nhân</Text>
 		</Row>
 	</EnglishText>
 </GameData>
